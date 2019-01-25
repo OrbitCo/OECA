@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://www.exchangenetwork.net/wsdl/register/reviewer/1" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="RegisterReviewerService" targetNamespace="http://www.exchangenetwork.net/wsdl/register/reviewer/1">
+  <wsdl:types>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.exchangenetwork.net/wsdl/register/reviewer/1" attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://www.exchangenetwork.net/wsdl/register/reviewer/1">
+  <xs:element name="Authenticate" type="tns:Authenticate"/>
+  <xs:element name="AuthenticateResponse" type="tns:AuthenticateResponse"/>
+  <xs:element name="DocumentIds" type="tns:documentIds"/>
+  <xs:element name="DownloadDocumentsAsZip" type="tns:DownloadDocumentsAsZip"/>
+  <xs:element name="DownloadDocumentsAsZipResponse" type="tns:DownloadDocumentsAsZipResponse"/>
+  <xs:element name="DownloadSubmissionsAsZip" type="tns:DownloadSubmissionsAsZip"/>
+  <xs:element name="DownloadSubmissionsAsZipResponse" type="tns:DownloadSubmissionsAsZipResponse"/>
+  <xs:element name="RepudiateDocument" type="tns:RepudiateDocument"/>
+  <xs:element name="RepudiateDocumentResponse" type="tns:RepudiateDocumentResponse"/>
+  <xs:element name="SearchForActivityHistorySummary" type="tns:SearchForActivityHistorySummary"/>
+  <xs:element name="SearchForActivityHistorySummaryResponse" type="tns:SearchForActivityHistorySummaryResponse"/>
+  <xs:element name="SubmissionIds" type="tns:submissionsIds"/>
+  <xs:element name="ValidateDocument" type="tns:ValidateDocument"/>
+  <xs:element name="ValidateDocumentResponse" type="tns:ValidateDocumentResponse"/>
+  <xs:complexType name="ValidateDocument">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+      <xs:element minOccurs="0" name="activityId" type="xs:string"/>
+      <xs:element minOccurs="0" name="documentId" type="xs:string"/>
+      <xs:element minOccurs="0" name="reviewerUser" type="tns:ReviewerUserType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReviewerUserType">
+    <xs:sequence>
+      <xs:element name="UserId" type="xs:string"/>
+      <xs:element name="FirstName" type="xs:string"/>
+      <xs:element name="LastName" type="xs:string"/>
+      <xs:element name="MiddleInitial" type="xs:string"/>
+      <xs:element minOccurs="0" name="OrganizationName" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ValidateDocumentResponse">
+    <xs:sequence/>
+  </xs:complexType>
+  <xs:complexType name="DownloadSubmissionsAsZip">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+      <xs:element minOccurs="0" name="submissionIds" type="tns:submissionsIds"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="submissionsIds">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="SubmissionId" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DownloadSubmissionsAsZipResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="reviewDocument" type="tns:ReviewerDocumentType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReviewerDocumentType">
+    <xs:sequence>
+      <xs:element name="Name" type="xs:string"/>
+      <xs:element xmlns:ns1="http://www.w3.org/2005/05/xmlmime" name="Content" ns1:expectedContentTypes="*/*" type="xs:base64Binary"/>
+      <xs:element minOccurs="0" name="ID" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DownloadDocumentsAsZip">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+      <xs:element minOccurs="0" name="documentIds" type="tns:documentIds"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="documentIds">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="DocumentId" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DownloadDocumentsAsZipResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="reviewDocument" type="tns:ReviewerDocumentType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Authenticate">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="userId" type="xs:string"/>
+      <xs:element minOccurs="0" name="credential" type="xs:string"/>
+      <xs:element minOccurs="0" name="domain" type="xs:string"/>
+      <xs:element minOccurs="0" name="authenticationMethod" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AuthenticateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchForActivityHistorySummary">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+      <xs:element minOccurs="0" name="searchCriteria" type="tns:ReviewSearchCriteriaType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReviewSearchCriteriaType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ActivityId" type="xs:string"/>
+      <xs:element minOccurs="0" name="Dataflow" type="xs:string"/>
+      <xs:element minOccurs="0" name="UserId" type="xs:string"/>
+      <xs:element minOccurs="0" name="StartDate" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="EndDate" type="xs:dateTime"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchForActivityHistorySummaryResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:ReviewActivityType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReviewActivityType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:string"/>
+      <xs:element minOccurs="0" name="Dataflow" type="xs:string"/>
+      <xs:element minOccurs="0" name="CreatedDate" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="UserId" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="Documents" type="tns:ReviewerDocumentType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RepudiateDocument">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="securityToken" type="xs:string"/>
+      <xs:element minOccurs="0" name="activityId" type="xs:string"/>
+      <xs:element minOccurs="0" name="documentId" type="xs:string"/>
+      <xs:element minOccurs="0" name="repudiationStatus" type="tns:RepudiationStatus"/>
+      <xs:element minOccurs="0" name="repudiationDescription" type="xs:string"/>
+      <xs:element minOccurs="0" name="reviewerUser" type="tns:ReviewerUserType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RepudiateDocumentResponse">
+    <xs:sequence/>
+  </xs:complexType>
+  <xs:simpleType name="RegisterErrorCode">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="E_UnknownUser"/>
+      <xs:enumeration value="E_InvalidCredential"/>
+      <xs:enumeration value="E_AccessDenied"/>
+      <xs:enumeration value="E_InvalidToken"/>
+      <xs:enumeration value="E_TokenExpired"/>
+      <xs:enumeration value="E_AuthMethod"/>
+      <xs:enumeration value="E_UserAlreadyExists"/>
+      <xs:enumeration value="E_InsufficientPrivileges"/>
+      <xs:enumeration value="E_WeakPassword"/>
+      <xs:enumeration value="E_InvalidArgument"/>
+      <xs:enumeration value="E_InvalidAnswerResetCode"/>
+      <xs:enumeration value="E_MaxNumberOfResetAttemptsReached"/>
+      <xs:enumeration value="E_AnswersAlreadyExist"/>
+      <xs:enumeration value="E_RoleAlreadyExists"/>
+      <xs:enumeration value="E_WrongUserId"/>
+      <xs:enumeration value="E_ReachedMaxNumberOfAttempts"/>
+      <xs:enumeration value="E_WrongAnswer"/>
+      <xs:enumeration value="E_WrongIdPassword"/>
+      <xs:enumeration value="E_AccountLocked"/>
+      <xs:enumeration value="E_AccountExpired"/>
+      <xs:enumeration value="E_DuplicateAssociation"/>
+      <xs:enumeration value="E_InvalidSignature"/>
+      <xs:enumeration value="E_InternalError"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="RepudiationStatus">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Default"/>
+      <xs:enumeration value="Rescinded"/>
+      <xs:enumeration value="HeldForEnforcement"/>
+      <xs:enumeration value="Repudiated"/>
+      <xs:enumeration value="Expired"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="RegisterFault" type="tns:RegisterFault"/>
+  <xs:complexType name="RegisterFault">
+    <xs:sequence>
+      <xs:element name="description" nillable="true" type="xs:string"/>
+      <xs:element name="errorCode" nillable="true" type="tns:RegisterErrorCode"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="DownloadDocumentsAsZipResponse">
+    <wsdl:part element="tns:DownloadDocumentsAsZipResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="DownloadDocumentsAsZip">
+    <wsdl:part element="tns:DownloadDocumentsAsZip" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="ValidateDocumentResponse">
+    <wsdl:part element="tns:ValidateDocumentResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="DownloadSubmissionsAsZipResponse">
+    <wsdl:part element="tns:DownloadSubmissionsAsZipResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="Authenticate">
+    <wsdl:part element="tns:Authenticate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="SearchForActivityHistorySummaryResponse">
+    <wsdl:part element="tns:SearchForActivityHistorySummaryResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="RepudiateDocument">
+    <wsdl:part element="tns:RepudiateDocument" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="ValidateDocument">
+    <wsdl:part element="tns:ValidateDocument" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="RegisterException">
+    <wsdl:part element="tns:RegisterFault" name="RegisterException">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="RepudiateDocumentResponse">
+    <wsdl:part element="tns:RepudiateDocumentResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="DownloadSubmissionsAsZip">
+    <wsdl:part element="tns:DownloadSubmissionsAsZip" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="SearchForActivityHistorySummary">
+    <wsdl:part element="tns:SearchForActivityHistorySummary" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="AuthenticateResponse">
+    <wsdl:part element="tns:AuthenticateResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="RegisterReviewerService">
+    <wsdl:operation name="ValidateDocument">
+      <wsdl:input message="tns:ValidateDocument" name="ValidateDocument">
+    </wsdl:input>
+      <wsdl:output message="tns:ValidateDocumentResponse" name="ValidateDocumentResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadSubmissionsAsZip">
+      <wsdl:input message="tns:DownloadSubmissionsAsZip" name="DownloadSubmissionsAsZip">
+    </wsdl:input>
+      <wsdl:output message="tns:DownloadSubmissionsAsZipResponse" name="DownloadSubmissionsAsZipResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadDocumentsAsZip">
+      <wsdl:input message="tns:DownloadDocumentsAsZip" name="DownloadDocumentsAsZip">
+    </wsdl:input>
+      <wsdl:output message="tns:DownloadDocumentsAsZipResponse" name="DownloadDocumentsAsZipResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Authenticate">
+      <wsdl:input message="tns:Authenticate" name="Authenticate">
+    </wsdl:input>
+      <wsdl:output message="tns:AuthenticateResponse" name="AuthenticateResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="SearchForActivityHistorySummary">
+      <wsdl:input message="tns:SearchForActivityHistorySummary" name="SearchForActivityHistorySummary">
+    </wsdl:input>
+      <wsdl:output message="tns:SearchForActivityHistorySummaryResponse" name="SearchForActivityHistorySummaryResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="RepudiateDocument">
+      <wsdl:input message="tns:RepudiateDocument" name="RepudiateDocument">
+    </wsdl:input>
+      <wsdl:output message="tns:RepudiateDocumentResponse" name="RepudiateDocumentResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterException" name="RegisterException">
+    </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="RegisterReviewerServiceSoapBinding" type="tns:RegisterReviewerService">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="ValidateDocument">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="ValidateDocument">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="ValidateDocumentResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadSubmissionsAsZip">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="DownloadSubmissionsAsZip">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="DownloadSubmissionsAsZipResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadDocumentsAsZip">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="DownloadDocumentsAsZip">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="DownloadDocumentsAsZipResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="Authenticate">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="Authenticate">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="AuthenticateResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="SearchForActivityHistorySummary">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="SearchForActivityHistorySummary">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="SearchForActivityHistorySummaryResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="RepudiateDocument">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="RepudiateDocument">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="RepudiateDocumentResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterException">
+        <soap12:fault name="RegisterException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="RegisterReviewerService">
+    <wsdl:port binding="tns:RegisterReviewerServiceSoapBinding" name="RegisterReviewerServicePort">
+      <soap12:address location="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterReviewerServiceConditionalMTOM"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

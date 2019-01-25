@@ -1,0 +1,30 @@
+<beans:beans xmlns="http://www.springframework.org/schema/beans"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:security="http://www.springframework.org/schema/security"
+             xsi:schemaLocation="http://www.springframework.org/schema/security
+		http://www.springframework.org/schema/security/spring-security.xsd
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- ====================================================================== -->
+    <!-- enable secured annotations on business methods -->
+    <!-- ====================================================================== -->
+    <security:global-method-security secured-annotations="enabled"/>
+    <!-- ====================================================================== -->
+    <!-- Swagger -->
+    <!-- ====================================================================== -->
+    <security:http pattern="/apidocs/**" security="none"/>
+    <!-- ====================================================================== -->
+    <!-- API security -->
+    <!-- ====================================================================== -->
+    <security:http pattern="/api/**" auto-config="false" use-expressions="true"
+                   create-session="stateless" entry-point-ref="http403EntryPoint">
+        <!--<security:intercept-url pattern="/**/acl/**/retrieveCompletedRequests*" access="isAuthenticated() and hasRole('ROLE_OECA_ACL')"/>-->
+        <!--<security:intercept-url pattern="/**/acl/**" access="permitAll"/>-->
+        <security:intercept-url pattern="/**/acl/**" access="isAuthenticated() and hasRole('ROLE_OECA_ACL')"/>
+        <security:intercept-url pattern="/**/token/**" access="permitAll"/>
+        <security:intercept-url pattern="/**" access="permitAll"/>
+        <security:csrf disabled="true"/>
+        <security:custom-filter position="PRE_AUTH_FILTER" ref="jwtPreAuthenticationFilter"/>
+    </security:http>
+</beans:beans>

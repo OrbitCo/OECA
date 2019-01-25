@@ -1,0 +1,14 @@
+<html>
+    <body>
+        <p>Your CDX electronic signature agreement (ESA) is attached below.</p>
+        <p>If you have questions concerning this message,
+        you may contact CDX Help Desk by email at ${helpDeskEmail}
+        or by calling the CDX Technical Support Staff through our toll free
+        telephone support on ${helpDeskPhone} between ${helpDeskHours}. For International callers,
+        the CDX Help Desk can also be reached at ${helpDeskInternationalPhone}.</p>
+        <p>
+            CDX Registration Homepage<br/>
+            <a href="${baseCdxUrl}">${baseCdxUrl}</a>
+        </p>
+    </body>
+</html>

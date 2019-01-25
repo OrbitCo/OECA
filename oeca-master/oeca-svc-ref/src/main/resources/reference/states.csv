@@ -1,0 +1,120 @@
+01,CT,Connecticut,A,B,N,NULL
+01,GB,Georges Banks,A,N,N,NULL
+01,MA,Massachusetts,A,B,N,NULL
+01,MC,Mohegan Indian Tribe of Connecticut,A,N,Y,NULL
+01,ME,Maine,A,B,N,NULL
+01,MK,Mashantucket Pequot Tribe,A,N,Y,NULL
+01,NH,New Hampshire,A,B,N,NULL
+01,RI,Rhode Island,A,B,N,NULL
+01,VT,Vermont,A,B,N,NULL
+02,AT,Atlantic Offshore,A,B,N,NULL
+02,NJ,New Jersey,A,B,N,NULL
+02,NY,New York,A,B,N,NULL
+02,PR,Puerto Rico,A,B,N,NULL
+02,SN,Seneca Nation,A,N,N,NULL
+02,SR,Saint Regis Mohawk Tribe,A,N,Y,NULL
+02,VI,Virgin Islands,A,B,N,NULL
+03,DC,District Of Columbia,A,B,N,NULL
+03,DE,Delaware,A,B,N,NULL
+03,MD,Maryland,A,B,N,NULL
+03,PA,Pennsylvania,A,B,N,NULL
+03,VA,Virginia,A,B,N,NULL
+03,WV,West Virginia,A,B,N,NULL
+04,AL,Alabama,A,B,N,NULL
+04,FL,Florida,A,B,N,NULL
+04,GA,Georgia,A,B,N,NULL
+04,GE,Gulf of Mexico East,A,B,N,NULL
+04,KY,Kentucky,A,B,N,NULL
+04,MS,Mississippi,A,B,N,NULL
+04,NC,North Carolina,A,B,N,NULL
+04,SC,South Carolina,A,B,N,NULL
+04,TN,Tennessee,A,B,N,NULL
+05,IL,Illinois,A,B,N,NULL
+05,IN,Indiana,A,B,N,NULL
+05,MI,Michigan,A,B,N,NULL
+05,MN,Minnesota,A,B,N,NULL
+05,OH,Ohio,A,B,N,NULL
+05,WI,Wisconsin,A,B,N,NULL
+06,AR,Arkansas,A,B,N,NULL
+06,GM,Gulf Of Mexico,A,B,N,NULL
+06,LA,Louisiana,A,B,N,NULL
+06,NM,New Mexico,A,B,N,NULL
+06,OK,Oklahoma,A,B,N,"Other than discharges in Indian country, EPA's 2017 CGP only offers coverage for stormwater discharges from construction activity from the following areas in Oklahoma: Discharges in the State of Oklahoma that are not under the authority of the Oklahoma Department of Environmental Quality, including activities associated with oil and gas exploration, drilling, operations, and pipelines (includes SIC Groups 13 and 46, and SIC codes 492 and 5171), and point source discharges associated with agricultural production, services, and silviculture (includes SIC Groups 01, 02, 07, 08, 09). See <a href='https://www.epa.gov/sites/production/files/2017-01/documents/2017_cgp_final_appendix_b_-_areas_of_permit_coverage.pdf' target='_blank'>Appendix B</a> for all areas eligible for coverage under EPA's 2017 CGP."
+06,TX,Texas,A,B,N,"Other than discharges in Indian country, EPA's 2017 CGP only offers coverage for stormwater discharges from construction activity from the following areas in Texas: Discharges in the State of Texas that are not under the authority of the Texas Commission on Environmental Quality (formerly TNRCC), including activities associated with the exploration, development, or production of oil or gas or geothermal resources, including transportation of crude oil or natural gas by pipeline. See <a href='https://www.epa.gov/sites/production/files/2017-01/documents/2017_cgp_final_appendix_b_-_areas_of_permit_coverage.pdf' target='_blank'>Appendix B</a> for all areas eligible for coverage under EPA's 2017 CGP."
+07,IA,Iowa,A,B,N,NULL
+07,KS,Kansas,A,B,N,NULL
+07,MO,Missouri,A,B,N,NULL
+07,NE,Nebraska,A,B,N,NULL
+08,BF,Blackfeet Tribe,A,N,N,NULL
+08,CO,Colorado,A,B,N,NULL
+08,CR,Crow Tribe,A,N,N,NULL
+08,ES,Eastern Shoshone Tribe,A,N,N,NULL
+08,GO,Goshute,A,N,N,NULL
+08,MT,Montana,A,B,N,NULL
+08,ND,North Dakota,A,B,N,NULL
+08,NR,Northern Arapaho Tribe,A,N,N,NULL
+08,PI,Paiute Tribe,A,N,N,NULL
+08,SA,Confederated Salish &Kootenai Tribe,A,N,N,NULL
+08,SD,South Dakota,A,B,N,NULL
+08,ST,Standing Rock,A,N,N,NULL
+08,SU,Southern Ute,A,N,Y,NULL
+08,TA,Three Affiliated Tribes,A,N,N,NULL
+08,UE,Ute Mountain,A,N,N,NULL
+08,UN,Ute Tribe,A,N,N,NULL
+08,UT,Utah,A,B,N,NULL
+08,WY,Wyoming,A,B,N,NULL
+09,AS,American Samoa,A,B,N,NULL
+09,AZ,Arizona,A,B,N,NULL
+09,CA,California,A,B,N,NULL
+09,CM,Northern Mariana Islands,I,A,N,NULL
+09,CZ,Canal Zone,A,N,N,NULL
+09,FD,Fort McDermitt,A,N,N,NULL
+09,FM,Federated States Of Micronesia,A,B,N,NULL
+09,GI,Gila River Indian Comm./Res.,A,N,Y,NULL
+09,GU,Guam,A,B,N,NULL
+09,HI,Hawaii,A,B,N,NULL
+09,JA,Johnston Atoll,A,B,N,NULL
+09,MH,Republic Of Marshall Islands,A,B,N,NULL
+09,MP,Northern Mariana Islands,A,B,N,NULL
+09,MW,Midway Island and Wake Island,A,B,N,NULL
+09,NN,Navajo Nation,A,N,Y,NULL
+09,NV,Nevada,A,B,N,NULL
+09,PW,Republic Of Palau,A,B,N,NULL
+09,TT,Trust Territory,A,N,N,NULL
+09,UM,U. S. Minor Outlying Islands,A,N,N,NULL
+10,AK,Alaska,A,B,N,"Other than discharges in Indian country, EPA's 2017 CGP only offers coverage for stormwater discharges from construction activity from the following areas in Alaska: Discharges in the Denali National Park and Preserve. See <a href='https://www.epa.gov/sites/production/files/2017-01/documents/2017_cgp_final_appendix_b_-_areas_of_permit_coverage.pdf' target='_blank'>Appendix B</a> for all areas eligible for coverage under EPA's 2017 CGP."
+10,CD,Coeur D'' Alene Tribe,A,N,Y,NULL
+10,CF,Confed. Tribes Colville Reservation,A,N,Y,NULL
+10,ID,Idaho,A,B,N,NULL
+10,ML,Metlakatla Tribe,A,N,N,NULL
+10,NP,Nez Perce Tribe,A,N,Y,NULL
+10,OR,Oregon,A,B,N,NULL
+10,QI,Quinault Indian Nation,A,N,Y,NULL
+10,SW,Swinomish Indian Tribal Community,A,N,Y,NULL
+10,UI,Confed. Tribes Umatilla Indian Res.,A,N,Y,NULL
+10,WA,Washington,A,B,N,NULL
+NULL,AA,Armed Forces Americas,I,A,N,NULL
+NULL,AB,Alberta Canada,A,A,N,NULL
+NULL,AE,Armed Forces,I,A,N,NULL
+NULL,AP,Armed Forces Pacific,I,A,N,NULL
+NULL,AU,Australia,A,A,N,NULL
+NULL,BC,British Columbia,A,A,N,NULL
+NULL,CN,Canada,A,A,N,NULL
+NULL,CY,Cyprus,A,A,N,NULL
+NULL,DK,Denmark,A,A,N,NULL
+NULL,DL,Germany,A,A,N,NULL
+NULL,GR,Greece,A,A,N,NULL
+NULL,HK,Hong Kong,A,A,N,NULL
+NULL,MB,Manitoba Canada,A,A,N,NULL
+NULL,MX,Mexico,A,A,N,NULL
+NULL,NF,Newfoundland Canada,A,A,N,NULL
+NULL,NL,Netherlands,A,A,N,NULL
+NULL,NS,Nova Scotia Canada,A,A,N,NULL
+NULL,NT,Northwest Territories Canada,A,A,N,NULL
+NULL,NU,Nunavat Canada,A,A,N,NULL
+NULL,ON,Ontario Canada,A,A,N,NULL
+NULL,PE,Prince Edward Island Canada,A,A,N,NULL
+NULL,PQ,Quebec Canada,A,A,N,NULL
+NULL,SK,Saskatchewan Canada,A,A,N,NULL
+NULL,UK,United Kingdom,A,A,N,NULL
+NULL,YT,Yukon Territory Canada,A,A,N,NULL

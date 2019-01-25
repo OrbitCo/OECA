@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd
+           http://www.springframework.org/schema/util
+           http://www.springframework.org/schema/util/spring-util.xsd
+           http://www.springframework.org/schema/tx
+           http://www.springframework.org/schema/tx/spring-tx.xsd">
+    <!-- ====================================================================== -->
+    <!-- OECA Web Endpoint Configuration  -->
+    <!-- ====================================================================== -->
+    <util:map id="baseConfig">
+        <entry key="authBaseUrl" value="http://localhost:8080/oeca-svc-auth"/>
+        <entry key="registrationBaseUrl" value="http://localhost:8080/oeca-svc-registration"/>
+        <entry key="notificationBaseUrl" value="http://localhost:8080/oeca-svc-notification"/>
+        <entry key="refBaseUrl" value="http://localhost:8080/oeca-svc-ref"/>
+        <entry key="cdxForgotUser" value="https://dev.epacdx.net/AccountRecovery/ForgotUserId"/>
+        <entry key="cdxForgotPass" value="https://dev.epacdx.net/PasswordReset/GetResetCode"/>
+        <entry key="cdxActivateAccount" value="https://devngn.epacdx.net/Registration/ResendEmailValidation?userId="/>
+        <entry key="baseCdxUrl" value="https://dev.epacdx.net"/>
+    </util:map>
+    <util:map id="registerAuthEndpointConfiguration">
+        <entry key="serviceUrl" value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterAuthService"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="registerEndpointConfiguration">
+        <entry key="serviceUrl" value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterService"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="registerStreamlinedEndpointConfiguration">
+        <entry key="serviceUrl"
+               value="https://devngn.epacdxnode.net/cdx-register-II/services/StreamlinedRegistrationService"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="registerSignEndpointConfiguration">
+        <entry key="serviceUrl" value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterSignService"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="registerPdfEndpointConfiguration">
+        <entry key="serviceUrl"
+               value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterPdfServiceConditionalMTOM"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="registerReviewerEndpointConfiguration">
+        <entry key="serviceUrl"
+               value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterReviewerServiceConditionalMTOM"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <util:map id="naasEndpointConfiguration">
+        <entry key="serviceUrl" value="https://naasdev.epacdxnode.net/xml/SecurityToken_v30.wsdl"/>
+        <entry key="issuer" value="oeca.services.unittest@epa.gov"/>
+        <entry key="credentials" value="OecaUnitTestSpring2017"/>
+        <entry key="domain" value="default"/>
+        <entry key="ip" value="127.0.0.1"/>
+    </util:map>
+    <util:map id="networkNode2EndpointConfiguration">
+        <entry key="serviceUrl" value="https://devngn.epacdxnode.net/ngn-enws20/services/NetworkNode2Service"/>
+        <entry key="operatorId" value="test.icis-npdes@cgifederal.com"/>
+        <entry key="operatorPassword" value="CDXtesticisnpdes1"/>
+    </util:map>
+    <util:map id="registerInboxEndpointConfiguration">
+        <entry key="serviceUrl" value="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterInboxServiceConditionalMTOM"/>
+        <entry key="operatorId" value="oeca.services.unittest@epa.gov"/>
+        <entry key="operatorPassword" value="OecaUnitTestSpring2017"/>
+    </util:map>
+    <!-- ====================================================================== -->
+    <!-- freemarker configuration  -->
+    <!-- ====================================================================== -->
+    <bean id="freemarkerConfiguration" class="org.springframework.ui.freemarker.FreeMarkerConfigurationFactoryBean">
+        <property name="templateLoaderPath" value="classpath:/freemarker/"/>
+        <property name="defaultEncoding" value="UTF-8"/>
+    </bean>
+    <!-- ====================================================================== -->
+    <!-- mail configuration  -->
+    <!-- ====================================================================== -->
+    <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+        <property name="host" value="172.20.2.19"/>
+        <property name="port" value="25"/>
+        <property name="javaMailProperties">
+            <props>
+                <prop key="mail.transport.protocol">smtp</prop>
+            </props>
+        </property>
+    </bean>
+    <util:map id="additionalMailConfiguration">
+        <entry key="CdxHelpDeskPhone" value="888-890-1995"/>
+        <entry key="CdxHelpDeskHours" value="Monday through Friday from 8:00 am to 6:00 pm EST/EDT"/>
+        <entry key="CdxHelpDeskInternationalPhone" value="(970) 494-5500"/>
+        <entry key="CdxWebRootUrl" value="https://dev.epacdx.net"/>
+        <entry key="CdxHelpDeskEmail" value="helpdesk@epacdx.net"/>
+        <entry key="DoNotReplyEmail" value="donotreply@epa.gov"/>
+        <entry key="NpdesEmail" value="NPDESereporting@epa.gov"/>
+        <entry key="environment" value=""/>
+    </util:map>
+    <!-- ====================================================================== -->
+    <!-- OECA Commons Datasource Configuration  -->
+    <!-- ====================================================================== -->
+    <bean id="baseOecaDataSource" abstract="true">
+        <property name="initialSize" value="5"/>
+        <property name="maxActive" value="10"/>
+        <property name="maxIdle" value="10"/>
+        <property name="testOnBorrow" value="true"/>
+        <property name="testWhileIdle" value="true"/>
+        <property name="timeBetweenEvictionRunsMillis" value="60000"/>
+        <property name="validationQuery" value="select 1 from dual"/>
+        <property name="validationQueryTimeout" value="10"/>
+        <property name="jmxEnabled" value="false"/>
+        <property name="fairQueue" value="true"/>
+        <property name="maxWait" value="30000"/>
+    </bean>
+    <bean id="oecaDataSource" class="org.apache.tomcat.jdbc.pool.DataSource" parent="baseOecaDataSource"
+          destroy-method="close" lazy-init="true">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/oeca"/>
+        <property name="username" value="test"/>
+        <property name="password" value="test"/>
+    </bean>
+    <!--
+    <bean id="oecaDataSource" class="org.apache.tomcat.jdbc.pool.DataSource" parent="baseOecaDataSource"
+          destroy-method="close" lazy-init="true">
+        <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
+        <property name="url" value="jdbc:oracle:thin:@cdxdora02.cloud.epacdx:1521:CDXAPPS"/>
+        <property name="username" value="oeca_common"/>
+        <property name="password" value="oeca_common_fall2017"/>
+    </bean>
+    -->
+    <!-- ====================================================================== -->
+    <!-- OECA Commons JDBC Configuration  -->
+    <!-- ====================================================================== -->
+    <bean id="oecaJdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <property name="dataSource" ref="oecaDataSource"/>
+    </bean>
+    <bean id="oecaLobHandler" class="org.springframework.jdbc.support.lob.DefaultLobHandler"/>
+    <!-- ====================================================================== -->
+    <!-- OECA Commons Hibernate Configuration -->
+    <!-- ====================================================================== -->
+    <bean id="oecaParentSessionFactory" abstract="true">
+        <property name="dataSource" ref="oecaDataSource"/>
+        <property name="packagesToScan">
+            <list>
+                <value>gov.epa.oeca.common.domain</value>
+            </list>
+        </property>
+    </bean>
+    <bean id="oecaSessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean"
+          parent="oecaParentSessionFactory">
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</prop>
+                <prop key="hibernate.show_sql">false</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+            </props>
+        </property>
+    </bean>
+     <!--
+    <bean id="oecaSessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean"
+          parent="oecaParentSessionFactory">
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</prop>
+                <prop key="hibernate.show_sql">false</prop>
+                <prop key="hibernate.hbm2ddl.auto">none</prop>
+            </props>
+        </property>
+    </bean>
+     -->
+    <!-- ====================================================================== -->
+    <!-- OECA Commons Transaction Configuration -->
+    <!-- ====================================================================== -->
+    <tx:annotation-driven transaction-manager="oecaTransactionManager"/>
+    <bean id="oecaTransactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+        <property name="sessionFactory" ref="oecaSessionFactory"/>
+    </bean>
+</beans>

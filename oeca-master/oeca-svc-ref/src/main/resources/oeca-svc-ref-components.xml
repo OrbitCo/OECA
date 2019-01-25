@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:cache="http://www.springframework.org/schema/cache"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd
+           http://www.springframework.org/schema/aop
+           http://www.springframework.org/schema/aop/spring-aop.xsd
+           http://www.springframework.org/schema/cache
+           http://www.springframework.org/schema/cache/spring-cache.xsd">
+    <!-- ====================================================================== -->
+    <!-- Annotation scanning  -->
+    <!-- ====================================================================== -->
+    <context:annotation-config/>
+    <context:component-scan base-package="gov.epa.oeca.common"/>
+    <context:component-scan base-package="gov.epa.oeca.services.ref"/>
+    <aop:aspectj-autoproxy proxy-target-class="true"/>
+    <!-- ====================================================================== -->
+    <!-- Flyway database migration  -->
+    <!-- ====================================================================== -->
+    <bean id="flyway" class="org.flywaydb.core.Flyway" init-method="migrate" depends-on="oecaSessionFactory">
+        <property name="dataSource" ref="oecaDataSource"/>
+        <property name="table" value="schema_version_ref" />
+        <property name="locations" value="classpath:sql/ref/mysql, classpath:sql/ref/migrations"/>
+        <property name="baselineOnMigrate" value="true"/>
+        <property name="baselineVersionAsString" value="1.0.0"/>
+    </bean>
+	<!-- 
+    <bean id="flyway" class="org.flywaydb.core.Flyway" init-method="migrate" depends-on="oecaSessionFactory">
+        <property name="dataSource" ref="oecaDataSource"/>
+        <property name="table" value="schema_version_ref" />
+        <property name="locations" value="classpath:sql/ref/oracle, classpath:sql/ref/migrations"/>
+        <property name="baselineOnMigrate" value="true"/>
+        <property name="baselineVersionAsString" value="1.0.0"/>
+    </bean>
+    -->
+    <!-- ====================================================================== -->
+    <!-- Caching  -->
+    <!-- ====================================================================== -->
+    <cache:annotation-driven/>
+    <bean id="cacheManager" class="org.springframework.cache.support.SimpleCacheManager">
+        <property name="caches">
+            <set>
+                <bean class="org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean">
+                    <property name="name" value="states"/>
+                </bean>
+                <bean class="org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean">
+                    <property name="name" value="tribes"/>
+                </bean>
+                <bean class="org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean">
+                    <property name="name" value="biaTribes"/>
+                </bean>
+                <bean class="org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean">
+                    <property name="name" value="counties"/>
+                </bean>
+                <bean class="org.springframework.cache.concurrent.ConcurrentMapCacheFactoryBean">
+                    <property name="name" value="chemicals"/>
+                </bean>
+            </set>
+        </property>
+    </bean>
+</beans>

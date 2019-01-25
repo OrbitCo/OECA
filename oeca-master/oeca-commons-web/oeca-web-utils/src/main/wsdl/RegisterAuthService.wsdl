@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://www.exchangenetwork.net/wsdl/register/auth/1" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="RegisterAuthService" targetNamespace="http://www.exchangenetwork.net/wsdl/register/auth/1">
+  <wsdl:types>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.exchangenetwork.net/wsdl/register/auth/1" attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://www.exchangenetwork.net/wsdl/register/auth/1">
+  <xs:element name="Authenticate" type="tns:Authenticate"/>
+  <xs:element name="AuthenticateResponse" type="tns:AuthenticateResponse"/>
+  <xs:complexType name="Authenticate">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="userId" type="xs:string"/>
+      <xs:element minOccurs="0" name="password" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AuthenticateResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="User" type="tns:registrationUser"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrationUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="firstName" type="xs:string"/>
+      <xs:element minOccurs="0" name="governmentPartner" type="xs:boolean"/>
+      <xs:element minOccurs="0" name="lastLogin" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="lastName" type="xs:string"/>
+      <xs:element minOccurs="0" name="legacySecretAnswer" type="xs:string"/>
+      <xs:element minOccurs="0" name="legacySecretQuestion" type="xs:string"/>
+      <xs:element minOccurs="0" name="lexisNexisAttempts" type="xs:long"/>
+      <xs:element minOccurs="0" name="middleInitial" type="xs:string"/>
+      <xs:element minOccurs="0" name="password" type="xs:string"/>
+      <xs:element minOccurs="0" name="passwordResetAttempts" type="xs:long"/>
+      <xs:element minOccurs="0" name="registrationDate" type="xs:dateTime"/>
+      <xs:element minOccurs="0" name="status" type="xs:string"/>
+      <xs:element minOccurs="0" name="suffix" type="tns:registrationUserSuffix"/>
+      <xs:element minOccurs="0" name="title" type="tns:registrationUserTitle"/>
+      <xs:element minOccurs="0" name="userId" type="xs:string"/>
+      <xs:element minOccurs="0" name="verificationIndexElectronic" type="xs:long"/>
+      <xs:element minOccurs="0" name="verificationIndexPaper" type="xs:long"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrationUserSuffix">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="registrationUserTitle">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="description" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="RegisterAuthErrorCode">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="E_WrongIdPassword"/>
+      <xs:enumeration value="E_AccountLocked"/>
+      <xs:enumeration value="E_AccountExpired"/>
+      <xs:enumeration value="E_InternalError"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="RegisterAuthFault" type="tns:RegisterAuthFault"/>
+  <xs:complexType name="RegisterAuthFault">
+    <xs:sequence>
+      <xs:element name="description" nillable="true" type="xs:string"/>
+      <xs:element name="errorCode" nillable="true" type="tns:RegisterAuthErrorCode"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="Authenticate">
+    <wsdl:part element="tns:Authenticate" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="AuthenticateResponse">
+    <wsdl:part element="tns:AuthenticateResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="RegisterAuthException">
+    <wsdl:part element="tns:RegisterAuthFault" name="RegisterAuthException">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="RegisterAuthService">
+    <wsdl:operation name="Authenticate">
+      <wsdl:input message="tns:Authenticate" name="Authenticate">
+    </wsdl:input>
+      <wsdl:output message="tns:AuthenticateResponse" name="AuthenticateResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:RegisterAuthException" name="RegisterAuthException">
+    </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="RegisterAuthServiceSoapBinding" type="tns:RegisterAuthService">
+    <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="Authenticate">
+      <soap12:operation soapAction="" style="document"/>
+      <wsdl:input name="Authenticate">
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="AuthenticateResponse">
+        <soap12:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="RegisterAuthException">
+        <soap12:fault name="RegisterAuthException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="RegisterAuthService">
+    <wsdl:port binding="tns:RegisterAuthServiceSoapBinding" name="RegisterAuthServicePort">
+      <soap12:address location="https://devngn.epacdxnode.net/cdx-register-II/services/RegisterAuthService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

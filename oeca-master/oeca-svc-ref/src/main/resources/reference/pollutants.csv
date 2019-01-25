@@ -1,0 +1,2477 @@
+6400,Acrylamide,7575,2-Propenamide
+6415,Dithiocarbamates,17135674,Dithiocarbamates
+6432,Sewage/sewage sludge,17136292,Sewage/sewage sludge
+6439,Uranium-238,150185,Uranium
+375,Ammonia,152389,Ammonia
+428,Anthracene,31013,Anthracene
+448,Aroclor 1016,182782,Aroclor 1016
+457,Aroclor 1260,173021,Aroclor 1260
+467,Arsenic,149989,Arsenic
+2200,Inorganics,17001736,Inorganics
+2212,Iridium,149542,Iridium
+2218,Iron oxide,85308,Iron oxide
+2220,Total water irrigated,17132465,Irrigation water
+2423,Manganese,149625,Manganese
+2428,"Manure remaining, gallons",1648484,Manure
+6382,Freon compounds,17135682,Freon compounds
+6390,"1,4-Dioxane",33241,"1,4-Dioxane"
+2469,"Metals, water",17001751,Metals
+1917,Giardia lamblia,761726,Giardia lamblia
+2208,Iodine,151456,Iodine
+2215,Iron,149559,Iron
+2040,Heptane,38984,Heptane
+2041,"Herbicides, total",966572,Herbicides
+2049,Hexane,26740,Hexane
+2072,Hydrazine,41541,Hydrazine
+2074,Hydrobromic acid,166967,Hydrobromic acid
+2091,Hydrogen,85555,Hydrogen
+2760,Niobium,149682,Niobium
+2806,"Nitrite nitrogen, dissolved [as N]",197194,Nitrite
+2111,Hydroxide,776500,Hydroxide
+1765,Fecal,17136243,Fecal matter
+3159,Pathogenic organisms,17028200,Pathogens
+3215,Perchlorate [ClO4],962480,Perchlorate
+2817,Nitrogen,153122,Nitrogen
+2448,Mercury,149633,Mercury
+2741,Nickel,149674,Nickel
+2787,Nitric acid,152686,Nitric acid
+3216,PERCHLORETHYLENE,P1CONV,PERCHLORETHYLENE
+3041,Overflows,P1CONV,OVERFLOWS
+3049,Ethylene oxide,5405,Oxirane
+3051,Oxygen,154302,Oxygen
+3054,Ozone,166678,Ozone
+628,Benzoic acid,4044,Benzoic acid
+630,Benzopyrene,713800,Benzopyrene
+246,Acenaphthylene,40717,Acenaphthylene
+250,Acetaldehyde,5280,Acetaldehyde
+255,Acetic acid,3848,Acetic acid
+278,Acetonitrile,5272,Acetonitrile
+301,Acidity,1640572,Acidity
+3932,Sulfur trioxide,150375,Sulfur trioxide
+4073,Thermal Discharge,1645563,Thermal discharge
+3541,Pyridine,27037,Pyridine
+3674,Semi-volatile organic compounds,17135955,Semi-volatile organic compounds
+3714,Silver,149849,Silver
+310,Acrylic polymer,5242730,Acrylic polymer
+314,Actisalt #6,17135443,Actisalt #6
+360,Aluminum,149476,Aluminum
+6101,Sulfate,197301,Sulfate
+6106,Sulfide,212290,Sulfide
+6108,Sulfides,17136052,Sulfides
+6128,"Temperature, water deg. centigrade",1640499,Temperature
+6151,Tin,149922,Tin
+5166,Daphnia pulex,1922509,DAPHNIA PULEX
+5201,Dibenzofuran,35709,Dibenzofuran
+4871,Antimony,149963,Antimony
+4873,Antimony compounds,649921,Antimony compounds
+4878,Aroclor 1221,173153,Aroclor 1221
+4879,Aroclor 1242,298950,Aroclor 1242
+4880,Aroclor 1254,173047,Aroclor 1254
+4881,Aroclor 1262,274183,Aroclor 1262
+603,Benzene,4754,Benzene
+1822,Fluoride,206706,Fluoride
+558,Bacteria,52451846,Bacteria
+571,Bardac,17135500,Bardac
+572,Barium,149997,Barium
+579,Barium compound,761403,Barium compounds
+451,Aroclor 1232,173583,Aroclor 1232
+4677,Whole effluent toxicity,1647379,Whole effluent toxicity
+365,Aluminum oxide,86132,Alumina
+6622,Automotive runoff,17135492,Automotive runoff
+6623,Furniture stripping solvents,17135690,Furniture stripping solvents
+6624,Wastewater,17136185,Wastewater
+6625,Untreated drinking water,17136102,Untreated drinking water
+6626,Leachate,17005596,Leachate
+6638,Turbidity,1640507,Turbidity
+817,Carbon disulfide,5348,Carbon disulfide
+447,Aroclor [unspecified],183020,Aroclor
+500,Asbestos,85282,Asbestos
+5286,Ethanol,3822,Ethanol
+1,Number,,Number
+6,"Diesel oil, no. 2",439216,"Fuels, diesel, no. 2"
+8,"Fuel oil, no. 4",439182,"Fuel oil, no. 4"
+454,Aroclor 1248,182766,Aroclor 1248
+460,Aroclor 1268,173120,AROCLOR 1268
+137,"1,3-Butadiene",24042,"1,3-Butadiene"
+5492,Isobutane,5470,"Propane, 2-methyl-"
+5498,K001,740837,Sludge from the treatment of wastewaters from wood preserving processes as defined
+4647,Freshwater in drilling fluids,153171,Water
+4818,Alfol,17135419,Alfol
+5350,Flow,,Flow
+5357,Fly ash,17136573,FLY ASH
+6561,Copper concentrate,17135617,Copper concentrate
+6562,Lead,149583,Lead
+6580,Fill material,17136250,Fill material
+6581,Solvents,17135989,Solvents
+6583,Gasoline,599746,Gasoline
+6594,Brine,17135518,Brine
+6596,Salt water,17135930,Salt water
+6598,Earthen fill material,17136227,Earthen fill material
+6599,Flow rate,1643246,Flow rate
+6613,Sediment,17136284,Sediment
+6614,Hazardous waste,17135708,Hazardous waste
+6618,Sanitary sewage,17136276,Sanitary sewage
+6619,Zinc compounds,649699,Zinc compounds
+4915,Beryllium,150003,Beryllium
+4800,Methyl ethyl ketone,7443,2-Butanone
+4819,"Algae, presence",764357,Algae
+4820,Algae-Tron,17135468,Algae-Tron
+5474,Hydrochloric acid,152231,Hydrochloric acid
+5478,Hydrofluoric acid,152371,Hydrofluoric acid
+6037,Semi-volatile inorganic compounds,17135948,Semi-volatile inorganic compounds
+1165,Copper,150086,Copper
+5567,Lead oxide,85712,Lead oxide
+1363,Detergents,,DETERGENTS
+1444,Diethylene Glycol,27557,DIETHYLENE GLYCOL
+1476,Diphosphoric acid,17135310,Diphosphoric acid
+1485,Discharge,,Discharge
+1675,Explosive wastes,17136235,Explosive wastes
+1742,Faty acid chemicals,357897,Fatty acids
+5123,Cyanide,2444,Cyanide
+6758,Formic acid,3830,Formic acid
+6761,Aircraft stripping waste,17135450,Aircraft stripping waste
+5033,Chloride,205955,Chloride
+6639,Microbiology,17136375,Microbiology
+6656,Carbon,150037,Carbon
+6658,Molybdenum,149641,Molybdenum
+6662,"Pesticides, general",966580,Pesticides
+6677,Spilled catalyst,17136029,Spilled catalyst
+6696,VHAP,17136144,VHAP
+6698,Caustic salts,17135526,Caustic salts
+6699,Magnesium,149617,Magnesium
+6700,Storm water,17136037,Storm water
+6716,Heavy metals,17135716,Heavy metals
+6718,Various lab chemicals,17136342,Various lab chemicals
+6725,Contaminated soil,17135583,Contaminated soil
+6726,Registered use pesticide,17135914,Registered use pesticide
+6727,Unregistered pesticide,17136094,Unregistered pesticide
+6756,Cyclohexane,27003,Cyclohexane
+5713,Nitrate,197186,Nitrate
+1034,Chromium[VI] trioxide,85571,Chromium oxide [CrO3]
+6215,Triclosan,115139,"Phenol, 5-chloro-2-[2,4-dichlorophenoxy]-"
+1916,Giardia,761718,GIARDIA
+1939,Glycol mix applied,17132135,Glycols
+1942,Gold,150144,Gold
+1956,Grease,402768,Grease
+1976,"Halogens, tot organics bottom sediment",966242,Halogenated organics
+6352,Zinc,150235,Zinc
+6372,Zirconium,150243,Zirconium
+1315,Cyclohexanone [waste solvents],17135666,Cyclohexanone [waste solvents]
+905,Chemical oxygen demand [COD],1641638,Chemical Oxygen Demand
+928,Chlorine,154328,Chlorine
+1012,Chromium,150060,Chromium
+3494,Propane,5207,Propane
+1274,Cryptosporidium,761684,Cryptosporidium
+5878,Phosphate,194464,Phosphate
+5883,Phosphoric acid,152363,Phosphoric acid
+5889,Phosphorus,153049,Phosphorus
+5617,Methanol,4283,Methanol
+7879,Organic chemicals in drinking water,17135773,Organic chemicals in drinking water
+7880,Inorganic chemicals in drinking water,17135732,Inorganic chemicals in drinking water
+7899,Unleaded fuel,17136326,Unleaded fuel
+7938,Vehicle fluids,17136136,Vehicle fluids
+7999,Motor oil,777383,Motor oil
+8039,Copper compounds,761429,Copper compounds
+8078,Asphaltic oil,17135484,Asphaltic oil
+8098,Uranium contaminated material,17136128,Uranium contaminated material
+8198,Pentane,26021,Pentane
+8240,Nickel compounds,650036,Nickel compounds
+8241,Manganese compounds,650010,Manganese compounds
+8278,Treating solution [diesel],17136086,Treating solution [diesel]
+8279,PCP & treating solution,17135849,PCP & treating solution
+8298,Corrosive waste [solid],17135641,Corrosive waste [solid]
+8299,Corrosive waste [liquid],17135625,Corrosive waste [liquid]
+8538,Calcium,150268,Calcium
+8398,Contaminated debris,17135542,Contaminated debris
+8418,Creosote,156950,Creosote
+8558,Septage [domestic],17135963,Septage [domestic]
+8459,Contaminated groundwater,17135559,Contaminated groundwater
+8498,Lead contaminated material,17136417,Lead contaminated material
+4234,Toxaphene,156919,Toxaphene
+4245,Toxicity,1647064,Toxicity
+10240,Chlorinated dibenzo-p-dioxins,629345,"Dibenzo[b,e][1,4]dioxin, chloro derivs."
+7435,Oil refinery waste,17135757,Oil refinery waste
+7515,Lead contaminated soil,17136409,Lead contaminated soil
+7536,Flammables,17001645,Flammables
+7540,Lead compounds,650002,Lead compounds
+3814,Sodium polyborate,17135971,Sodium polyborate
+3542,Pyrolysis oil,17135898,Pyrolysis oil
+3545,QUATERNARY AMMONIUM COMPOUNDS,5243613,QUATERNARY AMONIUM COMPOUNDS
+3565,Radioactivity,966358,Radioactivity
+3569,Radium,149765,Radium
+7827,Phenanthrene,10199,Phenanthrene
+3575,Rainfall,1644699,Rainfall
+3636,Sand in drilling fluids,17026907,Sand
+1090,Cobalt,150078,Cobalt
+1130,Conductivity,1640291,Conductivity
+724,Bromide,227538,Bromide
+776,Cadmium,150029,Cadmium
+814,Carbon dioxide,33548,Carbon dioxide
+5680,Naphthalene,13326,Naphthalene
+743,Butane,24026,Butane
+3572,Radon,167205,Radon
+1055,Chrysene,40733,Chrysene
+5948,Potassium,149740,Potassium
+3283,Petroleum waste,17135872,Petroleum waste
+3321,Phenol,25510,Phenol
+3341,Phosphates,17135880,Phosphates
+3344,Phosphine,156588,Phosphine
+3356,Tri-n-butyl phosphate,33977,Phosphoric acid tributyl ester
+10490,Sodium tripolyphosphate,153460,"Triphosphoric acid, pentasodium salt"
+10491,Tungsten,149948,Tungsten
+10492,Uranium tetrafluoride,167346,"Uranium fluoride [UF4], [T-4]-"
+10493,K114,742015,Vicinals from the purification of toluenediamine in the production of toluenediamine via hydrogenation of dinitrotoluene.
+10496,F034,740787,Waste from wood preserving processes where creosote formulations have been used.
+10498,K032,741132,Wastewater treatment sludge from the production of chlordane.
+10499,K002,740845,Wastewater treatment sludge from the production of chrome yellow and orange pigments.
+10501,F019,740670,Wastewater treatment sludges from the chemical conversion coating of aluminum except as defined.
+10502,White mineral oil [petroleum],159889,"White mineral oil, petroleum"
+10503,Zinc bromide,152710,Zinc bromide [ZnBr2]
+10504,Zinc cyanide,54213,Zinc cyanide [Zn[CN]2]
+10505,Zinc oxide,82941,Zinc oxide [ZnO]
+10506,Zinc sulfide,83212,Zinc sulfide [ZnS]
+10508,Benzidine,14498,"[1,1'-Biphenyl]-4,4'-diamine"
+10510,pH,1644285,pH -- CWA 304B
+10107,"BOD, carbonaceous [5 day, 20 C]",1640614,"Oxygen demand, carbonaceous biochemical, standard conditions"
+10108,Alkalies,966838,Bases
+10109,Benz[a]anthracene,2212,Benz[a]anthracene
+10111,4-Fluoro-3-phenoxybenzaldehyde,695478,"Benzaldehyde, 4-fluoro-3-phenoxy-"
+10112,Trimethamide,17135344,"Benzamide, N-[[2-amino-6-methyl-3-pyridinyl]methyl]-3,4,5-trimethoxy-"
+10114,p-Cresidine,31369,"Benzenamine, 2-methoxy-5-methyl-"
+10115,o-Toluidine,16196,"Benzenamine, 2-methyl-"
+10116,"4,4'-Methylenedianiline",20347,"Benzenamine, 4,4'-methylenebis-"
+10118,p-Nitroaniline,19109,"Benzenamine, 4-nitro-"
+10119,Diethylaniline,13615,"Benzenamine, N,N-diethyl-"
+10120,"N,N-Dimethylaniline",31880,"Benzenamine, N,N-dimethyl-"
+10121,N-Nitrosodiphenylamine,10702,"Benzenamine, N-nitroso-N-phenyl-"
+10123,Cumene,18309,"Benzene, [1-methylethyl]-"
+10124,Benzyl chloride,19430,"Benzene, [chloromethyl]-"
+10125,"p,p'-DDT",1107,"Benzene, 1,1'-[2,2,2-trichloroethylidene]bis[4-chloro-"
+10127,"p,p'-DDE",4945,"Benzene, 1,1'-[dichloroethenylidene]bis[4-chloro-"
+10128,"4,4'-Methylenedi[phenyl isocyanate]",20263,"Benzene, 1,1'-methylenebis[4-isocyanato-"
+10054,Acrolein,24075,2-Propenal
+10055,N-Methylolacrylamide,73718,"2-Propenamide, N-[hydroxymethyl]-"
+10056,2-Propenamide,624320,"2-Propenamide, reaction products with formaldehyde-melamine polymer Bu Me pentyl ether and hydrogen peroxide"
+10057,Acrylonitrile,24182,2-Propenenitrile
+10058,Methacrylonitrile,34082,"2-Propenenitrile, 2-methyl-"
+10059,Methacrylic acid,7831,"2-Propenoic acid, 2-methyl-"
+10060,Methyl methacrylate,8458,"2-Propenoic acid, 2-methyl-, methyl ester"
+10061,Butyl acrylate,38281,"2-Propenoic acid, butyl ester"
+10062,Polyvinylpyrrolidone,161539,"2-Pyrrolidinone, 1-ethenyl-, homopolymer"
+10063,N-Methyl-2-pyrrolidone,72744,"2-Pyrrolidinone, 1-methyl-"
+10064,Cyclophosphamide,1057,"2H-1,3,2-Oxazaphosphorin-2-amine, N,N-bis[2-chloroethyl]tetrahydro-, 2-oxide"
+10065,Lorazepam,17000837,"2H-1,4-Benzodiazepin-2-one, 7-chloro-5-[2-chlorophenyl]-1,3-dihydro-3-hydroxy-"
+10066,Methyl vinyl ketone,7450,3-Buten-2-one
+10067,Paraquat,126730,"4,4'-Bipyridinium, 1,1'-dimethyl-"
+10068,Chlordane,2683,"4,7-Methano-1H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-"
+10069,Dicyclopentadiene,6643,"4,7-Methano-1H-indene, 3a,4,7,7a-tetrahydro-"
+10070,Daunomycin,218735,"5,12-Naphthacenedione, 8-acetyl-10-[[3-amino-2,3,6-trideoxy-.alpha.-L-lyxo-hexopyranosyl]oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-, [8S-cis]-"
+10071,Carbofuran,88666,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-, methylcarbamate"
+10072,Fluorene,10892,9H-Fluorene
+10074,Acenaphthene,9555,"Acenaphthylene, 1,2-dihydro-"
+10075,Metolachlor,291013,"Acetamide, 2-chloro-N-[2-ethyl-6-methylphenyl]-N-[2-methoxy-1-methylethyl]-"
+10077,Vinyl acetate,24828,Acetic acid ethenyl ester
+10078,Ethyl acetate,38455,Acetic acid ethyl ester
+10079,"2,4,5-T",15065,"Acetic acid, [2,4,5-trichlorophenoxy]-"
+10080,"2,4-D",15651,"Acetic acid, [2,4-dichlorophenoxy]-"
+10081,Ammonium acetate,65185,"Acetic acid, ammonium salt"
+10082,n-Butyl acetate,33233,"Acetic acid, butyl ester"
+10083,Chloroacetic acid,7625,"Acetic acid, chloro-"
+661,Biosolids weight including admixtures,17027921,Biosolids
+725,Bromine,153072,Bromine
+3887,Storm Event,,Storm Event
+3907,Sulfates,761320,Sulfates
+3708,Silica [Silicone dioxide],151977,Silica
+2838,Sodium nitrite,152058,"Nitrous acid, sodium salt"
+2856,"Fuel oil, no. 2",439174,"Fuel oil, no. 2"
+2857,"Fuel oil, no. 6",453886,"Fuel oil, no. 6"
+3256,Petroleum [Crude Oil],157081,Petroleum
+3666,Selenium,154310,Selenium
+2983,Olefinic hydrocarbon,17135765,Olefinic hydrocarbon
+3009,Organophosphates,17135781,Organophosphates
+10025,Hexamethylenediamine,33381,"1,6-Hexanediamine"
+10026,1-Butanol,4739,1-Butanol
+10027,Methoxypropylamine,131037,"1-Propanamine, 3-methoxy-"
+10028,Isobutanol,7351,"1-Propanol, 2-methyl-"
+10029,Tris-chloropropyl phosphate,709444,"1-Propanol, 3-chloro-, phosphate [3:1]"
+10030,Propylene,29009,1-Propene
+10031,"1,3-Dichloropropene",52449,"1-Propene, 1,3-dichloro-"
+10032,"cis-1,3-Dichloropropene",167445,"1-Propene, 1,3-dichloro-, [Z]-"
+10033,Allyl chloride,24109,"1-Propene, 3-chloro-"
+10034,Polypropylene,161315,"1-Propene, homopolymer"
+10035,Molinate,98590,"1H-Azepine-1-carbothioic acid, hexahydro-, S-ethyl ester"
+10037,Bromacil,42127,"2,4[1H,3H]-Pyrimidinedione, 5-bromo-6-methyl-3-[1-methylpropyl]-"
+10039,Dieldrin,3426,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, [1a.alpha.,2.beta.,2a.alpha.,3.beta.,6.beta.,6a.alpha.,7.beta.,7a.alpha.]-"
+10041,Methyl ethyl ketone peroxide,85969,"2-Butanone, peroxide"
+10042,Isophorone,7187,"2-Cyclohexen-1-one, 3,5,5-trimethyl-"
+10043,Furfural,17699,2-Furancarboxaldehyde
+10044,2-Furanmethanol,17681,2-Furanmethanol
+4151,"Solids, total dissolved",1642222,Total dissolved solids
+4448,Vanadium,150193,Vanadium
+4146,Total coliforms,761700,Total coliforms
+7636,Chromium compounds,649962,Chromium compounds
+7656,Dredged material,17136219,Dredged material
+7658,Lead paint,17136383,Lead paint
+7659,Petroleum products,17135864,Petroleum products
+7736,Oxidizers,17005620,Oxidizers
+7756,Bacteriological quality,17136193,Bacteriological quality
+7776,Contaminated water [ ground & surface],17135609,Contaminated water [ ground & surface]
+7797,TCE contaminated groundwater,17136078,TCE contaminated groundwater
+7817,PCB oil,17135823,PCB oil
+7818,Strychnine compounds,17136045,Strychnine compounds
+7355,Radiation waste,17135906,Radiation waste
+7415,Color,1640283,Color
+10045,Tetracycline hydrochloride,3905,"2-Naphthacenecarboxamide, 4-[dimethylamino]-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, monohydrochloride, [4S,4aS,5aS,6S,12aS]-"
+6796,Corrosives,17135658,Corrosives
+6798,Toxics,17028218,Toxics
+6802,Sodium,149856,Sodium
+6841,Ignitables [TPH],17135724,Ignitables [TPH]
+6843,Spent nitric acid wastewater,17136003,Spent nitric acid wastewater
+6845,Spent stripper wastewater [metals],17136011,Spent stripper wastewater  [metals]
+6846,Spent HCL wastewater,17135997,Spent HCL wastewater
+6848,Corrosive waste [sludge],17135633,Corrosive waste [sludge]
+6849,Inorganic toxic waste,17135740,Inorganic toxic waste
+6850,Waste corrosive liquid,17136151,Waste corrosive liquid
+6851,Waste paint related material,17136177,Waste paint related material
+6852,Waste cyanide solution,17136169,Waste cyanide solution
+6854,Paint related material,17135799,Paint related material
+6861,Untreated sewage,17136110,Untreated sewage
+6862,PCB contaminated soil,17135815,PCB contaminated soil
+6900,Restricted use pesticide,17135922,Restricted use pesticide
+6901,Methane,5066,Methane
+6960,General debris,17136268,General debris
+6984,Uv inhibitors,17136334,UV inhibitors
+7006,Manure wastewater,17136391,Manure wastewater
+7047,PCB contaminated debris,17135807,PCB contaminated debris
+7048,Arsenic contaminated oil,17135476,Arsenic contaminated oil
+7069,Asphalt,160119,Asphalt
+7152,Contaminated wastewater,17135591,Contaminated wastewater
+7153,Contaminated sediment,17135575,Contaminated sediment
+7190,Underground storage tank,17136318,Underground storage tank
+7212,Chlorite,198119,Chlorite
+7215,Spent PPE/respirator cartridges,17136300,Spent PPE/respirator cartridges
+7216,PCP residue/ash,17135856,PCP residue/ash
+7217,Chrome waste,17135534,Chrome waste
+10167,Trimethylbenzene,233320,"Benzene, trimethyl-"
+10169,Toluenediamine,232421,"Benzenediamine, ar-methyl-"
+10170,Benzylamine,19448,Benzenemethanamine
+4008,Tantalum,149872,Tantalum
+4068,Thallium,149898,Thallium
+4078,Thiourea,3665,Thiourea
+4082,Thorium-232,149906,Thorium
+4088,Titanium,149930,Titanium
+10468,Ferrous sulfate,152926,"Sulfuric acid, iron[2+] salt [1:1]"
+10469,Ferric sulfate,166702,"Sulfuric acid, iron[3+] salt [3:2]"
+10470,Lead sulfate,201160,"Sulfuric acid, lead salt"
+10471,Lead[II] sulfate,150383,"Sulfuric acid, lead[2+] salt [1:1]"
+10472,Potassium magnesium sulfate,17135369,"Sulfuric acid, magnesium potassium salt [3:2:2]"
+10473,Sodium bisulfate,152496,"Sulfuric acid, monosodium salt"
+10474,Sodium bisulfite,151993,"Sulfurous acid, monosodium salt"
+10475,Foaming agents,755298,Surfactants -- CWA 304B
+10476,Synthetic organic chemicals in drinking water,17136060,Synthetic organic chemicals
+10477,K052,741330,Tank bottoms [leaded] from the petroleum refining industry.
+10478,"Cresylic tar acids, phenyl phosphates",498394,"Tar acids, cresylic, Ph phosphates"
+10479,Coal tar,157958,"Tar, coal"
+10480,Sodium thiocyanate,51938,"Thiocyanic acid, sodium salt"
+10481,Sulfolane,33845,"Thiophene, tetrahydro-, 1,1-dioxide"
+10482,Thiourea dioxide,17135336,"Thiourea, S,S-dioxide"
+10483,Titanium tetrachloride,151449,Titanium chloride [TiCl4] [T-4]-
+10484,Titanium dioxide,186908,Titanium oxide [TiO2]
+10485,Total petroleum hydrocarbon - gasoline,17132184,Total petroleum hydrocarbon - gasoline
+10486,"Solids, total suspended",1642818,"Total suspended solids, nonfilterable -- CWA 304B"
+4419,Urea,2451,Urea
+7822,Fluoranthene,40691,Fluoranthene
+10105,Cutback asphalt,17135435,"Asphalt, cutback"
+10106,Mitomycin C,1032,"Azirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione, 6-amino-8-[[[aminocarbonyl]oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-5-methyl-, [1aS,8S,8aR,8bS]-"
+7829,Pyrene,34843,Pyrene
+4324,"1,2,3-Trimethylbenzene",50153,"Benzene, 1,2,3-trimethyl-"
+3917,Sulfur,152744,Sulfur
+3929,Sulfur oxide,17135351,Sulfur oxide
+3935,Sulfuric acid,152405,Sulfuric acid
+3953,Sulfuryl chloride,156497,Sulfuryl chloride
+10001,Polychlorinated biphenyls,85878,"1,1'-Biphenyl, chloro derivs."
+10002,Glycerine,2279,"1,2,3-Propanetriol"
+10003,Nitroglycerin,1941,"1,2,3-Propanetriol, trinitrate"
+10004,"1,2,4,5-Benzenetetracarboxylic acid",12179,"1,2,4,5-Benzenetetracarboxylic acid"
+10005,Di[2-ethylhexyl] phthalate [DEHP],29934,"1,2-Benzenedicarboxylic acid, bis[2-ethylhexyl] ester"
+10006,Butyl benzyl phthalate,10470,"1,2-Benzenedicarboxylic acid, butyl phenylmethyl ester"
+10007,Dibutyl phthalate,10025,"1,2-Benzenedicarboxylic acid, dibutyl ester"
+10008,Diethyl phthalate,9985,"1,2-Benzenedicarboxylic acid, diethyl ester"
+10009,Di-n-octyl phthalate,29967,"1,2-Benzenedicarboxylic acid, dioctyl ester"
+10010,Ethylenediamine,24208,"1,2-Ethanediamine"
+10011,Diethylenetriamine,27490,"1,2-Ethanediamine, N-[2-aminoethyl]-"
+10012,Ethylene glycol,24257,"1,2-Ethanediol"
+10013,"3-Chloro-1,2-propanediol",16733,"1,2-Propanediol, 3-chloro-"
+10014,Mirex,100883,"1,3,4-Metheno-1H-cyclobuta[cd]pentalene, 1,1a,2,2,3,3a,4,5,5,5a,5b,6-dodecachlorooctahydro-"
+10015,Atrazine,94128,"1,3,5-Triazine-2,4-diamine, 6-chloro-N-ethyl-N'-[1-methylethyl]-"
+10016,Bendiocarb,222505,"1,3-Benzodioxol-4-ol, 2,2-dimethyl-, methylcarbamate"
+10018,Chloroprene,34090,"1,3-Butadiene, 2-chloro-"
+10019,Isoprene,7328,"1,3-Butadiene, 2-methyl-"
+10020,Pentaerythritol,29223,"1,3-Propanediol, 2,2-bis[hydroxymethyl]-"
+10021,Tris[hydroxymethyl]aminomethane,6734,"1,3-Propanediol, 2-amino-2-[hydroxymethyl]-"
+10023,Chlorthal-dimethyl,93518,"1,4-Benzenedicarboxylic acid, 2,3,5,6-tetrachloro-, dimethyl ester"
+10274,Triethylene glycol monobutyl ether,39248,"Ethanol, 2-[2-[2-butoxyethoxy]ethoxy]-"
+10275,Ethanolamine,38315,"Ethanol, 2-amino-"
+10276,2-Butoxyethanol,27847,Ethylene glycol monobutyl ether
+10277,Ethylene glycol monopropyl ether,107573,"Ethanol, 2-propoxy-"
+10278,"1,1-Dichloroethylene",5538,"Ethene, 1,1-dichloro-"
+10280,"trans-1,2-Dichloroethylene",40469,"Ethene, 1,2-dichloro-, [1E]-"
+10281,"cis-1,2-Dichloroethylene",40451,"Ethene, 1,2-dichloro-, [1Z]-"
+10282,Vinyl chloride,5231,"Ethene, chloro-"
+10283,Polyvinyl chloride,161174,"Ethene, chloro-, homopolymer"
+10285,Trichloroethylene,7526,"Ethene, trichloro-"
+10286,Acetylene,5108,Ethyne
+10287,"Coliform, fecal general",761692,Fecal coliforms
+10288,Formaldehyde,1008,Formaldehyde
+10289,"N,N-Dimethylformamide",4416,"Formamide, N,N-dimethyl-"
+10290,Sodium formate,38349,"Formic acid, sodium salt"
+10292,"Fuel, diesel, #1",420257,"Fuels, diesel"
+10293,Furans,650069,"Furans, dibenzo-"
+10294,Hydraulic fluid,712554,Fyrquel 220
+10295,Aviation fuel,17075268,"Gasoline, aviation"
+10296,"Gasoline, natural",157628,"Gasoline, natural"
+10298,Glycol ethers,649996,Glycol ethers -- CAA 112B
+10299,Gypsum,710830,Gypsum [Ca[SO4].2H2O]
+10300,K050,741314,Heat exchanger bundle cleaning sludge from the petroleum refining industry.
+10302,K115,742023,Heavy ends from the purification of toluenediamine in the production of toluenediamine via hydrogenation of dinitrotoluene.
+10304,K016,740977,Heavy ends or distillation residues from the production of carbon tetrachloride.
+10306,"Chlorinated hydrocarbons, total",966499,"Hydrocarbons, chlorinated"
+10307,"Petrol hydrocarbons, total recoverable",966473,"Hydrocarbons, petroleum"
+10309,Hydrogen sulfide,154518,Hydrogen sulfide [H2S]
+10310,Hydrogen oxide,17135328,Hydroxyl
+10311,Sodium hypochlorite,152512,"Hypochlorous acid, sodium salt"
+10312,RCRA ignitable,1647676,Ignitability -- RCRA Char
+10313,"Indeno[1,2,3-cd]pyrene",40626,"Indeno[1,2,3-cd]pyrene"
+10314,Iodine pentafluoride,154807,Iodine fluoride [IF5]
+10315,Ferrous chloride,153502,Iron chloride [FeCl2]
+10316,Ferric chloride,152793,Iron chloride [FeCl3]
+10317,Ferric oxide,82495,Iron oxide [Fe2O3]
+10318,Polymeric diphenylmethane diisocyanate,163485,"Isocyanic acid, polymethylenepolyphenylene ester"
+10319,Kerosene,158055,Kerosine [petroleum]
+10320,Melphalan,39834,"L-Phenylalanine, 4-[bis[2-chloroethyl]amino]-"
+10321,F039,740829,"Leachate resulting from the disposal of more than one restricted waste classified as hazardous, as defined."
+10322,Lead and copper,1647908,Lead and Copper Rule
+10323,Lead monoxide,83345,Lead oxide [PbO]
+10324,Lead dioxide,82537,Lead oxide [PbO2]
+10325,Light Non-Aqueous Phase Liquids [LNAPLs],17136367,Light Non-Aqueous Phase Liquids
+10326,F002,740563,"Listed spent halogenated solvents and spent solvent mixtures/blends, and still bottoms from their recovery."
+10327,F001,740555,Listed spent halogenated solvents used in degreasing and still bottoms from their recovery.
+10328,F003,740571,"Listed spent non-halogenated solvents and spent solvent mixtures/blends, and still bottoms from their recovery."
+10329,F004,740589,Listed spent non-halogenated solvents and still bottoms from their recovery.
+10330,F005,740597,"Listed spent non-halogenated solvents, spent solvent mixtures/blends, and still bottoms from their recovery."
+10331,Used oil,777573,"Lubricating oils, used"
+10332,Magnesium oxide,82529,Magnesium oxide [MgO]
+10334,Dimethylamine,33555,"Methanamine, N-methyl-"
+10335,N-Nitrosodimethylamine,3707,"Methanamine, N-methyl-N-nitroso-"
+10337,Methyl bromide,5074,"Methane, bromo-"
+10338,Chloromethane,5116,"Methane, chloro-"
+10340,Methylene chloride,5306,"Methane, dichloro-"
+10342,Methyl isocyanide,17136359,"Methane, isocyano-"
+10344,Carbon tetrachloride,2071,"Methane, tetrachloro-"
+10345,Chloroform,4317,"Methane, trichloro-"
+10346,CFC-11,5785,"Methane, trichlorofluoro-"
+10763,Endothall salts and esters,755157,"7-Oxabicyclo[2.2.1]heptane-2,3-dicarboxylic acid, salts and esters"
+10765,7-Day sum of WLA values,1640986,7-day sum of waste load allocation values
+10766,8-Quinolinol,39735,8-Quinolinol
+10767,Linolenic acid,46466,"9,12,15-Octadecatrienoic acid, [9Z,12Z,15Z]-"
+10769,Oleic acid,28720,9-Octadecenoic acid [9Z]-
+10771,Carbazole,10900,9H-Carbazole
+10772,Chloral,5959,"Acetaldehyde, trichloro-"
+10774,Propachlor,94235,"Acetamide, 2-chloro-N-[1-methylethyl]-N-phenyl-"
+10776,"N,N-Dimethyl acetamide, whole water",34165,"Acetamide, N,N-dimethyl-"
+10085,Methyl acetate,7674,"Acetic acid, methyl ester"
+10086,n-Amyl acetate,64394,"Acetic acid, pentyl ester"
+10087,Potassium Acetate,34124,"Acetic acid, potassium salt"
+10089,Trichloroacetic acid,6072,"Acetic acid, trichloro-"
+10090,K064,741371,Acid plant blowdown slurry/sludge from primary copper production as defined.
+10092,Aldehyde,761379,Aldehydes
+10093,Aluminum chloride,150482,Aluminum chloride [AlCl3]
+10094,Ammonium chloride,179416,Ammonium chloride [[NH4]Cl]
+10095,Ammonium hydroxide,85860,Ammonium hydroxide [[NH4][OH]]
+10097,"Asbestos, total amphibole",709485,Amphibole-group minerals
+10098,Antimony hexafluoride,17135377,"Antimonate[1-], hexafluoro-, [OC-6-11]-"
+10100,Polycyclic aromatic hydrocarbons,627059,"Aromatic hydrocarbons, polycyclic"
+10101,Calcium arsenate,153890,"Arsenic acid [H3AsO4], calcium salt [2:3]"
+10102,Copper arsenate,168047,"Arsenic acid [H3AsO4], copper salt"
+10103,Chrysotile asbestos,17074808,"Asbestos, chrysotile"
+10104,Coal ash,396671,"Ashes, residues"
+10957,Benzofuran,40865,Benzofuran
+10958,"Dicamba, 5-hydroxy-, total recoverable",52450384,"Benzoic acid, 2,5-dichloro-3-hydroxy-6-methoxy-"
+10959,Aspirin,1198,"Benzoic acid, 2-[acetyloxy]-"
+10376,Zinc permanganate,17135393,"Permanganic acid [HMnO4], zinc salt"
+10378,Sodium persulfate,153809,"Peroxydisulfuric acid [[[HO]S[O]2]2O2], disodium salt"
+10380,"2,4,5-Trichlorophenol",16519,"Phenol, 2,4,5-trichloro-"
+10381,Picric acid,12070,"Phenol, 2,4,6-trinitro-"
+10382,"2,4-Dimethylphenol",22970,"Phenol, 2,4-dimethyl-"
+10383,o-Chlorophenol,16238,"Phenol, 2-chloro-"
+10384,"4,6-Dinitro-o-cresol",51102,"Phenol, 2-methyl-4,6-dinitro-"
+10385,o-Nitrophenol,12005,"Phenol, 2-nitro-"
+10387,"4,4'-Isopropylidenediphenol",8110,"Phenol, 4,4'-[1-methylethylidene]bis-"
+10388,p-Cresol,23606,"Phenol, 4-methyl-"
+10389,p-Nitrophenol,19117,"Phenol, 4-nitro-"
+10390,Chlorinated phenols,650291,"Phenol, chloro derivs."
+10201,Acrylates,5244744,Certain acrylates [generic]
+10204,Sodium chlorate,153767,"Chloric acid, sodium salt"
+10205,Chlorinated organic compounds,966259,Chlorinated organic compounds
+10206,Chlorine dioxide,167296,Chlorine oxide [ClO2]
+10207,Sodium chlorite,153445,"Chlorous acid, sodium salt"
+10208,Dichromic acid,188128,Chromic acid [H2Cr2O7]
+10209,Sodium dichromate,172593,"Chromic acid [H2Cr2O7], disodium salt"
+10210,Chromic[VI] acid,153213,Chromic acid [H2CrO4]
+10211,Sodium chromate[VI],153775,"Chromic acid [H2CrO4], disodium salt"
+10212,Chromium MACT,17136201,Chromium Maximum Achievable Control Technology [MACT]
+10213,Chromium[III] hydroxide,82412,Chromium hydroxide [Cr[OH]3]
+10214,"Chromium, Hexavalent",212357,"Chromium, hexavalent"
+10215,"Chromium, Trivalent",203000,"Chromium, ion [Cr3]"
+10216,K170,742304,Clarified slurry oil tank sediment and/or in-line filter/separation solids from petroleum refining operations.
+10217,Colbalt compounds,649970,Cobalt compounds
+10218,K030,741116,Column bottoms or heavy ends from the combined production of trichloroethylene and perchloroethylene.
+10219,K113,742007,Condensed liquid light ends from the purification of toluenediamine in the production of toluenediamine via hydrogenation of dinitrotoluene.
+10220,Cuprous chloride,153494,Copper chloride [CuCl]
+10221,Copper oxychloride sulfate,158279,"Copper chloride hydroxide [Cu2Cl[OH]3], mixture with copper hydroxide sulfate [Cu4[OH]6[SO4]]"
+10222,Copper[I] cyanide,52886,Copper cyanide [Cu[CN]]
+10224,Cuprous oxide,83378,Copper oxide [Cu2O]
+10225,D002,1647668,Corrosivity -- RCRA Char
+10226,Wood creosote,159038,"Creosote, wood"
+10227,Calcium cyanamide,40477,"Cyanamide, calcium salt [1:1]"
+10229,Limonene,37267,"Cyclohexene, 1-methyl-4-[1-methylethenyl]-"
+10230,Fenpropathrin,279604,"Cyclopropanecarboxylic acid, 2,2,3,3-tetramethyl-, cyano[3-phenoxyphenyl]methyl ester"
+10232,"Cyclotetrasiloxane, octamethyl-",53975,"Cyclotetrasiloxane, octamethyl-"
+10233,Sodium gluconate,50229,"D-Gluconic acid, monosodium salt"
+10234,D-gluconic acid sodium salt,197657,"D-Gluconic acid, sodium salt"
+10235,Streptozotocin,213348,"D-Glucose, 2-deoxy-2-[[[methylnitrosoamino]carbonyl]amino]-"
+10236,Azobenzene,21337,"Diazene, diphenyl-"
+10237,Azodicarbonamide,33175,Diazenedicarboxamide
+10238,"Dibenz[a,h]anthracene",1685,"Dibenz[a,h]anthracene"
+11036,"Calcium hypochlorite, number of applications",17027558,"Calcium hypochlorite, number of applications"
+11037,"Calcium hypochlorite, weight/application grams",17027566,"Calcium hypochlorite, weight per application"
+11038,Calcium oxide,82263,Calcium oxide [CaO]
+11039,"Calcium, pct exchange",17027574,"Calcium, percent exchange"
+11041,Chlorpropham,19984,"Carbamic acid, [3-chlorophenyl]-, 1-methylethyl ester"
+11042,Barban,20016,"Carbamic acid, [3-chlorophenyl]-, 4-chloro-2-butynyl ester"
+10130,"1,2,4-Trichlorobenzene",31435,"Benzene, 1,2,4-trichloro-"
+10131,"1,2,4-Triethylbenzene",17135302,"Benzene, 1,2,4-triethyl-"
+10132,"1,2,4-Trimethylbenzene",16261,"Benzene, 1,2,4-trimethyl-"
+10133,o-Dichlorobenzene,16162,"Benzene, 1,2-dichloro-"
+10134,o-Xylene,16139,"Benzene, 1,2-dimethyl-"
+10135,"1,3,5-Trimethylbenzene",25262,"Benzene, 1,3,5-trimethyl-"
+10136,m-Dichlorobenzene,52217,"Benzene, 1,3-dichloro-"
+10137,"Toluene-2,6-diisocyanate",13243,"Benzene, 1,3-diisocyanato-2-methyl-"
+10138,Toluene diisocyanate,239681,"Benzene, 1,3-diisocyanatomethyl-"
+10139,m-Xylene,25056,"Benzene, 1,3-dimethyl-"
+10140,p-Dichlorobenzene,23622,"Benzene, 1,4-dichloro-"
+10141,"1,4-Phenylene diisocyanate",22111,"Benzene, 1,4-diisocyanato-"
+10142,p-Xylene,23580,"Benzene, 1,4-dimethyl-"
+10143,"o,p'-DDT",70516,"Benzene, 1-chloro-2-[2,2,2-trichloro-1-[4-chlorophenyl]ethyl]-"
+10144,"2,4-Dinitrotoluene",31575,"Benzene, 1-methyl-2,4-dinitro-"
+10145,p-Nitrotoluene,19083,"Benzene, 1-methyl-4-nitro-"
+10146,"Toluene-2,4-diisocyanate",55939,"Benzene, 2,4-diisocyanato-1-methyl-"
+10147,"Benzene, 2-bromo-1,4-dimethoxy-",231399,"Benzene, 2-bromo-1,4-dimethoxy-"
+10148,Oxyfluorfen,286278,"Benzene, 2-chloro-1-[3-ethoxy-4-nitrophenoxy]-4-[trifluoromethyl]-"
+10149,Trinitrotoluene [TNT],30460,"Benzene, 2-methyl-1,3,5-trinitro-"
+10150,"2,6-Dinitrotoluene",58875,"Benzene, 2-methyl-1,3-dinitro-"
+10151,Chlorobenzene,25478,"Benzene, chloro-"
+10152,Dichlorobenzene,231902,"Benzene, dichloro-"
+10153,Xylene,84970,"Benzene, dimethyl-"
+10348,Methyl mercaptan,5157,Methanethiol
+10350,Nickel[II] chloride,152868,Nickel chloride [NiCl2]
+10351,Nickel[II] oxide,82891,Nickel oxide [NiO]
+10352,Nickel oxide,176727,Nickel oxide [NiO2]
+10353,Nitrate compounds,649616,Nitrate compounds -- TRI
+10354,Inorganic Nitrogen [nitrate and nitrite] [as N],701177,Nitrate-nitrite
+10356,Sodium nitrate,152041,Nitric acid sodium salt
+10357,Magnesium nitrate,170803,"Nitric acid, magnesium salt"
+10359,Nitrous oxide,166389,Nitrogen oxide [N2O]
+10362,Stearic acid,2436,Octadecanoic acid
+10363,Ammonium perfluoroctanoate,119495,"Octanoic acid, pentadecafluoro-, ammonium salt"
+10364,Oil and grease,749655,Oil and grease -- CWA 304B
+10365,Total organic carbon,701250,Organic carbon
+10366,VOC,966598,"Organics, volatile"
+10368,Phenyl glycidyl ether,32383,"Oxirane, [phenoxymethyl]-"
+10369,Diglycidyl ether,99226,"Oxirane, 2,2'-[oxybis[methylene]]bis-"
+10370,Propylene oxide,5660,"Oxirane, methyl-"
+10371,PCB transformer fluid,17135831,PCB transformer fluid
+10374,Pentaborane,215244,Pentaborane[9]
+10375,Glutaraldehyde,27425,Pentanedial
+10046,Methyl isobutyl ketone,24851,"2-Pentanone, 4-methyl-"
+10047,Isopropanol,4291,2-Propanol
+10048,"1,3-Dichloro-2-propanol",16725,"2-Propanol, 1,3-dichloro-"
+10049,TCPP [Tris [1-chloro-2-propyl] phosphate],189555,"2-Propanol, 1-chloro-, 2,2',2''-phosphate"
+10050,tert-Butanol,5751,"2-Propanol, 2-methyl-"
+10051,Acetone,4309,2-Propanone
+10053,2-Propen-1-ol,24224,2-Propen-1-ol
+10391,Dimethylphenol,81836,"Phenol, dimethyl-"
+10392,Isobutylenated phenol phosphate [3:1],496026,"Phenol, isobutylenated, phosphate [3:1]"
+10393,Isopropylated phenol phosphate [3:1],496034,"Phenol, isopropylated, phosphate [3:1]"
+10394,Cresol,83550,"Phenol, methyl-"
+10395,Nonylphenol,230318,"Phenol, nonyl-"
+10396,Pentachlorophenol,11437,"Phenol, pentachloro-"
+10397,Total phenols,749630,Phenols and phenolic compounds
+10398,O-Ethyl S-[2-diisopropylaminoethyl] methylphosphonothioate,289512,"Phosphonothioic acid, methyl-, S-[2-[bis[1-methylethyl]amino]ethyl] O-ethyl ester"
+10399,Acephate,256677,"Phosphoramidothioic acid, acetyl-, O,S-dimethyl ester"
+10400,Aluminum phosphate,155010,"Phosphoric acid, aluminum salt [1:1]"
+10401,Ammonium phosphate,168286,"Phosphoric acid, ammonium salt"
+10402,Lead[II] phosphate,150458,"Phosphoric acid, lead[2+] salt [2:3]"
+10403,Trisodium phosphate,151746,"Phosphoric acid, trisodium salt"
+10404,Phosphorus oxychloride,166488,Phosphoric trichloride
+10405,Disulfoton,41210,"Phosphorodithioic acid, O,O-diethyl S-[2-[ethylthio]ethyl] ester"
+10406,Azinphos-methyl,10777,"Phosphorodithioic acid, O,O-dimethyl S-[[4-oxo-1,2,3-benzotriazin-3[4H]-yl]methyl] ester"
+10407,Parathion,2147,"Phosphorothioic acid, O,O-diethyl O-[4-nitrophenyl] ester"
+10408,Diazinon,42705,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-[1-methylethyl]-4-pyrimidinyl] ester"
+10409,Methyl parathion,41194,"Phosphorothioic acid, O,O-dimethyl O-[4-nitrophenyl] ester"
+10410,Polyethylene glycol,231977,"Poly[oxy-1,2-ethanediyl], .alpha.-hydro-.omega.-hydroxy-"
+10412,Potassium cyanide,40261,Potassium cyanide [K[CN]]
+10413,Potassium hydroxide,82610,Potassium hydroxide [K[OH]]
+10414,Potassium superoxide [K[O2]],176024,Potassium superoxide [K[O2]]
+10416,"1,2-Dibromo-3-chloropropane",16618,"Propane, 1,2-dibromo-3-chloro-"
+10417,"1,2-Dichloropropane",7393,"Propane, 1,2-dichloro-"
+10418,Methyl tert-butyl ether,89870,"Propane, 2-methoxy-2-methyl-"
+10419,2-Nitropropane,7872,"Propane, 2-nitro-"
+10420,Propionic acid,7609,Propanoic acid
+10421,Dichlorprop,31146,"Propanoic acid, 2-[2,4-dichlorophenoxy]-"
+10422,Propionic anhydride,33068,"Propanoic acid, anhydride"
+10423,Sodium propionate,36954,"Propanoic acid, sodium salt"
+10424,Pydraul 50E,695270,Pydraul 50E
+10425,2-Methylpyridine,25601,"Pyridine, 2-methyl-"
+10426,Nicotine,1727,"Pyridine, 3-[[2S]-1-methyl-2-pyrrolidinyl]-"
+10428,Natural gas condensate,485169,"Pyridinium, 1-methyl-, Et Me derivs., chlorides"
+10429,Radionuclides [including radon],649632,Radionuclides [including radon] -- CAA 112B
+10430,Radium-226,192856,"Radium, isotope of mass 226"
+10431,Radium-228,199026,"Radium, isotope of mass 228"
+10433,D003,1647684,Reactivity -- RCRA Char
+10454,"Solids, total",1640382,"Solids, total"
+10456,K028,741090,"Spent catalyst in the production of 1,1,1-trichloroethane as defined."
+10458,K062,741363,Spent pickle liquor generated by steel finishing operations as defined.
+10460,Brucine,43794,"Strychnidin-10-one, 2,3-dimethoxy-"
+10462,Sulfur hexafluoride,104364,"Sulfur fluoride [SF6], [OC-6-11]-"
+10463,Cupric sulfate,153536,Sulfuric acid copper[2+] salt [1:1]
+10464,Aluminum sulfate,167106,"Sulfuric acid, aluminum salt [3:2]"
+10465,Cadmium sulfate,168294,"Sulfuric acid, cadmium salt [1:1]"
+10466,Calcium sulfate,153858,"Sulfuric acid, calcium salt [1:1]"
+10678,Didecyl dimethyl ammonium chloride,147520,"1-Decanaminium, N-decyl-N,N-dimethyl-, chloride"
+10679,2-Ethylhexanol,22327,"1-Hexanol, 2-ethyl-"
+10680,Iprodione,272120,"1-Imidazolidinecarboxamide, 3-[3,5-dichlorophenyl]-N-[1-methylethyl]-2,4-dioxo-"
+10681,Carbaryl,3723,"1-Naphthalenol, methylcarbamate"
+10682,1-Pentanol,4747,1-Pentanol
+10683,Abietic acid,49627,"1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,4b,5,6,10,10a-decahydro-1,4a-dimethyl-7-[1-methylethyl]-, [1R,4aR,4bR,10aR]-"
+10684,Dehydroabietic acid,91827,"1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-[1-methylethyl]-, [1R,4aS,10aR]-"
+10685,Isopimaric acid,135202,"1-Phenanthrenecarboxylic acid, 7-ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-, [1R-[1-.alpha.,4a-.beta.,4b-.alpha.,7-.alpha.,10a-.alpha.]]-"
+10686,Monochlorodehydroabietic acid,694240,"1-Phenanthrenecarboxylic acid, chloro-1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-[1-methylethyl]-, [1R-[1.alpha.,4a.beta.,10a.alpha.]]-"
+10687,Dichlorodehydroabietic acid,694257,"1-Phenanthrenecarboxylic acid, dichloro-1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-[1-methylethyl]-, [1R-[1.alpha.,4a.beta.,10a.alpha.]]-"
+10689,N-Nitrosodi-n-propylamine,62257,"1-Propanamine, N-nitroso-N-propyl-"
+11375,Hafnium,150151,Hafnium
+10690,1-Propanol,4713,1-Propanol
+10691,"Tris[2,3-dibromopropyl] phosphate",33969,"1-Propanol, 2,3-dibromo-, phosphate [3:1]"
+10693,"trans-1,3-Dichloropropene",167452,"1-Propene, 1,3-dichloro-, [1E]-"
+10694,"2,3-Dichloropropene",7401,"1-Propene, 2,3-dichloro-"
+10696,Tebuconazole,699223,"1H-1,2,4-Triazole-1-ethanol, .alpha.-[2-[4-chlorophenyl]ethyl]-.alpha.-[1,1-dimethylethyl]-"
+10697,Bentazon,228676,"1H-2,1,3-Benzothiadiazin-4[3H]-one, 3-[1-methylethyl]-, 2,2-dioxide"
+10699,Tolytriazole,252866,"1H-Benzotriazole, 4[or 5]-methyl-"
+10700,"Butyl, 5-benzotriazole, total",17026915,"1H-Benzotriazole, 5-butyl-"
+10701,Indene,15891,1H-Indene
+10703,"1H-Isoindole-1,3[2H]-dione, 3a,4,7,7a-tetrahydro-2-[[1,1,2,2-tetrachloroethyl]thio]-",101816,"1H-Isoindole-1,3[2H]-dione, 3a,4,7,7a-tetrahydro-2-[[1,1,2,2-tetrachloroethyl]thio]-"
+10705,Caffeine,2741,"1H-Purine-2,6-dione, 3,7-dihydro-1,3,7-trimethyl-"
+10706,Theophylline,2816,"1H-Purine-2,6-dione, 3,7-dihydro-1,3-dimethyl-"
+10707,Dyphylline,47027,"1H-Purine-2,6-dione, 7-[2,3-dihydroxypropyl]-3,7-dihydro-1,3-dimethyl-"
+10708,2-Mercaptobenzothiazole,39883,2[3H]-Benzothiazolethione
+10710,"2,3,7,8-TCDD TEC",17027483,"2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEC"
+10711,TCDD equivalents,524672185,"2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ"
+10713,"Bromacil, lithium salt",298505,"2,4[1H,3H]-Pyrimidinedione, 5-bromo-6-methyl-3-[1-methylpropyl]-, lithium salt"
+10714,"2,4-D Dioxin congener/chlorophen",17132119,"2,4-D Dioxin congener/chlorophen"
+10716,Heptachlor epoxide,76661,"2,5-Methano-2H-indeno[1,2-b]oxirene,2,3,4,5,6,7,7-heptachloro-1a,1b,5,5a,6,6a-hexahydro-,[1aR,1bS,2R,5S,5aR,6S,6aR]-rel-"
+10972,Chlorendic acid,29124,"Bicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid, 1,4,5,6,7,7-hexachloro-"
+10718,Triadimefon,286872,"2-Butanone, 1-[4-chlorophenoxy]-3,3-dimethyl-1-[1H-1,2,4-triazol-1-yl]-"
+10719,Crotonaldehyde,122135,2-Butenal
+10720,"trans-1,4-Dichloro-2-butene",26765,"2-Butene, 1,4-dichloro-, [2E]-"
+10721,Crotoxyphos,152728,"2-Butenoic acid, 3-[[dimethoxyphosphinyl]oxy]-, 1-phenylethyl ester, [2E]-"
+10722,Mevinphos,155309,"2-Butenoic acid, 3-[[dimethoxyphosphinyl]oxy]-, methyl ester"
+10723,2-Hexanone,57000,2-Hexanone
+10724,5-Methyl-2-hexanone,26401,"2-Hexanone, 5-methyl-"
+10725,Ethylene thiourea,16857,2-Imidazolidinethione
+10727,2-Naphthalenamine,13540,2-Naphthalenamine
+10728,N-[Methylpropylidenepropanamine],17026808,"2-Propanamine, N-[1-methylpropylidene]-"
+10729,Propylene glycol monobutyl ether,129601,"2-Propanol, 1-butoxy-"
+10730,Chlorophenoxypropananol,127530,"2-Propanol, 1-chloro-3-phenoxy-"
+10731,Propylene glycol 1-methyl ether,24778,"2-Propanol, 1-methoxy-"
+10732,Acrylic acid,7617,2-Propenoic acid
+10733,Polymethylacrylic acid,229435,"2-Propenoic acid, 2-methyl-, homopolymer"
+10734,Polyacrylic acid,161265,"2-Propenoic acid, homopolymer"
+10735,Sodium polyacrylate,161281,"2-Propenoic acid, homopolymer, sodium salt"
+10736,Methyl acrylate,16790,"2-Propenoic acid, methyl ester"
+10639,Propylene glycol,2584,"1,2-Propanediol"
+11243,Phenyltoloxamine,13904,"Ethanamine, N,N-dimethyl-2-[2-[phenylmethyl]phenoxy]-"
+11244,Diethylamine,26245,"Ethanamine, N-ethyl-"
+11245,Diethylhydroxylamine,118380,"Ethanamine, N-ethyl-N-hydroxy-"
+11246,N-Nitrosodiethylamine,1875,"Ethanamine, N-ethyl-N-nitroso-"
+11247,Methyl ethyl sulfide,63347,"Ethane, [methylthio]-"
+11248,Bis[2-chloroethoxy]methane,27987,"Ethane, 1,1'-[methylenebis[oxy]]bis[2-chloro-"
+11249,"1,1,1,2-Tetrachloroethane",65102,"Ethane, 1,1,1,2-tetrachloro-"
+11250,"1,1,1,2-tretrafluoroethane",70623,"Ethane, 1,1,1,2-tetrafluoro-"
+11251,"1,1,1-Trichloro-2,2,2-trifluoroethane",43570,"Ethane, 1,1,1-trichloro-2,2,2-trifluoro-"
+11253,"Trimethyl orthoacetate, total",86801,"Ethane, 1,1,1-trimethoxy-"
+11254,CFC-113,6148,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-"
+11256,"1,1-Dichloro-2,2-diethoxyethane",61648,"Ethane, 1,1-dichloro-2,2-diethoxy-"
+11257,"HFC-152a [1,1-difluoroethane]",5553,"Ethane, 1,1-difluoro-"
+11258,"1,2-Bis[2-chloroethoxy] ethane",28274,"Ethane, 1,2-bis[2-chloroethoxy]-"
+11259,"1,2-Dichloro-1,2-difluoroethane",685636,"Ethane, 1,2-dichloro-1,2-difluoro-"
+11261,HCFC-123,41855,"Ethane, 2,2-dichloro-1,1,1-trifluoro-"
+11262,"2-Bromo-1,1-dichloroethane",67397,"Ethane, 2-bromo-1,1-dichloro-"
+11263,Bromoethane,5181,"Ethane, bromo-"
+11264,Chlorinated ethanes,426601,"Ethane, chloro derivs."
+11266,Dichloroethane,81786,"Ethane, dichloro-"
+11267,Dichlorotrifluoroethane,265744,"Ethane, dichlorotrifluoro-"
+11268,Pentachloroethane,6056,"Ethane, pentachloro-"
+11269,HFC-125 [Pentafluoroethane],43539,"Ethane, pentafluoro-"
+11270,Tetrachloroethane,231951,"Ethane, tetrachloro-"
+11272,Oxalic acid,39446,Ethanedioic acid
+11273,Thiodicarb,315127,"Ethanimidothioic acid, N,N'-[thiobis[[methylimino]carbonyloxy]]bis-, dimethyl ester"
+11275,Triethylene glycol,28282,"Ethanol, 2,2'-[1,2-ethanediylbis[oxy]]bis-"
+11276,Diethylene glycol dinitrate,67819,"Ethanol, 2,2'-oxybis-, dinitrate"
+11277,Diethylaminoethanol,19372,"Ethanol, 2-[diethylamino]-"
+11279,2-Chloroethanol,24125,"Ethanol, 2-chloro-"
+11280,2-Ethoxyethanol,26989,"Ethanol, 2-ethoxy-"
+11281,2-Methoxyethanol,26211,"Ethanol, 2-methoxy-"
+11282,Ethylene glycol monophenyl ether,32664,"Ethanol, 2-phenoxy-"
+11283,Acetophenone,18333,"Ethanone, 1-phenyl-"
+11284,Hydroxyacetophenone,963124,"Ethanone, 1-phenyl-, monohydroxy deriv."
+11285,Ethylene,5090,Ethene
+11286,2-Chloroethyl vinyl ether,26948,"Ethene, [2-chloroethoxy]-"
+11287,Dichloroethylene,232025,"Ethene, dichloro-"
+11290,"Excess cement slurry, free oil",1642552,"Excess cement slurry, free oil"
+11291,Excess thermal load,17132366,Excess thermal load
+11292,"Explosives, combined TNT + RDX + tetryl",1640036,"Explosives, combined TNT, RDX and Tetryl"
+11293,"Streptococci, fecal plate count KF agar",763862,Fecal Streptococcus
+11295,Ferricyanide,962290,"Ferrate[3-], hexakis[cyano-.kappa.C]-, [OC-6-11]-"
+11296,Ferrocyanide,185876,"Ferrate[4-], hexakis[cyano-C]-, [OC-6-11]-"
+11298,Fine bleached kraft,1648633,Fine bleached kraft
+11299,Fine paper machine - dried,1648138,Fine paper machine-dried
+11300,Fish feed used,1642727,Fish food fed per day
+11301,Fish on hand,764340,Fish present
+10738,Chlorpheniramine,35584,"2-Pyridinepropanamine, .gamma.-[4-chlorophenyl]-N,N-dimethyl-"
+10739,Dazomet,50955,"2H-1,3,5-Thiadiazine-2-thione, tetrahydro-3,5-dimethyl-"
+10740,Caprolactam,22921,"2H-Azepin-2-one, hexahydro-"
+10741,Isothiazolone,17026634,3[2H]-Isothiazolone
+10742,Norflurazon,245191,"3[2H]-Pyridazinone, 4-chloro-5-[methylamino]-2-[3-[trifluoromethyl]phenyl]-"
+10743,Methyl butenol,29041,"3-Buten-2-ol, 2-methyl-"
+10744,.alpha.-Terpineol,18127,"3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-"
+10745,Pheophytin,58529,"3-Phorbinepropanoic acid, 9-ethenyl-14-ethyl-21-[methoxycarbonyl]-4,8,13,18-tetramethyl-20-oxo-, [2E,7R,11R]-3,7,11,15-tetramethyl-2-hexadecenyl ester, [3S,4S,21R]-"
+10746,Nicotinamide,18382,3-Pyridinecarboxamide
+10747,cis-Chlordane,129353,"4,7-Methano-1H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-, [1.alpha.,2.alpha.,3a.alpha.,4.beta.,7.beta.,7a.alpha.]"
+10748,Heptachlor,6262,"4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-"
+10749,"2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",133777,"4,7-Methano-1H-indene, 2,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-"
+10752,Surfynol 104E,34025,"5-Decyne-4,7-diol, 2,4,7,9-tetramethyl-"
+10754,5-Day sum of BOD5 discharged,1640911,5-day sum of BOD5 discharged
+10755,5-Day sum of WLA values,1640978,5-day sum of waste load allocation values
+10756,Endosulfan sulfate,76737,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3,3-dioxide"
+10758,.beta.-Endosulfan,263996,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide, [3.alpha.,5a.alpha.,6.beta.,9.beta.,9a.alpha.]-"
+10760,"THC, dry & O2",17003682,"6H-Dibenzo[b,d]pyran-1-ol, 6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-, [6aR,10aR]-"
+10761,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol",88658,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-"
+10762,Endothall,39560,"7-Oxabicyclo[2.2.1]heptane-2,3-dicarboxylic acid"
+10487,"Organics, total toxic [TTO]",749648,Total toxic organics -- CWA 304B
+10488,Tricarboxylic acid,5242789,Tricarboxylic acid
+10489,"Trihalomethane, tot.",701045,"Trihalomethanes, total -- SDWA NPDWR"
+10435,Reofos 65,713792,Reofos 65
+10437,"Rubber, reclaimed",630277,"Rubber, reclaimed"
+10438,Silver cyanide,49031,Silver cyanide [Ag[CN]]
+10439,Silver oxide,218230,Silver oxide [Ag2O]
+10440,Silver oxide,81885,Silver oxide [AgO]
+10441,Skydrol 500B,693457,Skydrol 500B
+10171,Oryzalin,213793,"Benzenesulfonamide, 4-[dipropylamino]-3,5-dinitro-"
+10172,4-Methylbenzenesulfonic acid,21931,"Benzenesulfonic acid, 4-methyl-"
+10173,Dodecylbenzenesulfonic acid,244327,"Benzenesulfonic acid, dodecyl-"
+10175,Benzo[j]fluoranthene,40675,Benzo[j]fluoranthene
+10176,Benzo[k]fluoranthene,40709,Benzo[k]fluoranthene
+10177,Camphor,6205,"Bicyclo[2.2.1]heptan-2-one, 1,7,7-trimethyl-"
+10179,Butyraldehyde,33134,Butanal
+10180,2-Methylbutane,7310,"Butane, 2-methyl-"
+10181,Cadmium dichloride,168096,Cadmium chloride [CdCl2]
+10182,Calcium chloride,167155,Calcium chloride [CaCl2]
+10183,Calcium fluoride,156026,Calcium fluoride [CaF2]
+10184,Calcium hydroxide,82255,Calcium hydroxide [Ca[OH]2]
+10186,Urethane,1495,"Carbamic acid, ethyl ester"
+10187,Ethylenebis[dithiocarbamates],17135401,"Carbamodithioic acid, 1,2-ethanediyl ester"
+10189,Sodium dimethyldithiocarbamate,34462,"Carbamodithioic acid, dimethyl-, sodium salt"
+10190,Butylate,95398,"Carbamothioic acid, bis[2-methylpropyl]-, S-ethyl ester"
+10191,Pebulate,78329,"Carbamothioic acid, butylethyl-, S-propyl ester"
+10194,Carbonyl sulfide,46508,Carbon oxide sulfide [COS]
+10195,Calcium carbonate,46755,Carbonic acid calcium salt [1:1]
+10196,Sodium carbonate,48017,Carbonic acid disodium salt
+10197,Sodium bicarbonate,39438,Carbonic acid monosodium salt
+10199,Potassium carbonate,55863,"Carbonic acid, dipotassium salt"
+10200,Phosgene,5587,Carbonic dichloride
+10241,Diesel particulates,1647528,Diesel particulates [PM10] -- CAA 202A
+10242,Diosocynatos,649715,Diisocyanates -- TRI
+10243,Dioxins/furans,17001637,Dioxins and dibenzofurans
+10244,Tetrasodium pyrophosphate,153031,"Diphosphoric acid, tetrasodium salt"
+10245,F027,740753,"Discarded unused formulations containing tri-, tetra-, or pentachlorophenol as defined."
+10246,Fenbutatin oxide,185488,"Distannoxane, hexakis[2-methyl-2-phenylpropyl]-"
+10247,Distillate [oil],425009,"Distillates [petroleum], crude oil"
+10248,K095,741538,"Distillation bottoms from the production of 1,1,1-trichloroethane"
+10249,K085,741454,Distillation or fractionation column bottoms from the production of chlorobenzenes.
+10250,K061,741355,Emission control dust/sludge from the primary production of steel in electric furnaces.
+10251,E. coli,457804,Escherichia coli
+10252,Triethylamine,31708,"Ethanamine, N,N-diethyl-"
+10253,Ethyl ether,3335,"Ethane, 1,1'-oxybis-"
+10254,Bis[2-chloroethyl] ether,27532,"Ethane, 1,1'-oxybis[2-chloro-"
+10256,"1,1,1-Trichloroethane",4796,"Ethane, 1,1,1-trichloro-"
+10257,"1,1,2,2-Tetrachloroethane",7773,"Ethane, 1,1,2,2-tetrachloro-"
+10258,"1,1,2-Trichloroethane",7518,"Ethane, 1,1,2-trichloro-"
+10259,"1,1-Dichloroethane",5520,"Ethane, 1,1-dichloro-"
+10260,HCFC-141b,91348,"Ethane, 1,1-dichloro-1-fluoro-"
+10261,Ethylene dibromide,23986,"Ethane, 1,2-dibromo-"
+10262,"1,2-Dichloroethane",24117,"Ethane, 1,2-dichloro-"
+10263,1-Bromo-2-chloroethane,24091,"Ethane, 1-bromo-2-chloro-"
+10264,Chloroethane,5223,"Ethane, chloro-"
+10265,Dichlorofluoroethane,230540,"Ethane, dichlorofluoro-"
+10266,Hexachloroethane,4341,"Ethane, hexachloro-"
+10267,Trichloroethane,232058,"Ethane, trichloro-"
+10268,Ethyl mercaptan,5298,Ethanethiol
+10270,Triethanolamine,20917,"Ethanol, 2,2',2''-nitrilotris-"
+10271,Diethanolamine,27516,"Ethanol, 2,2'-iminobis-"
+10272,Diethylene glycol monobutyl ether,28340,"Ethanol, 2-[2-butoxyethoxy]-"
+10273,Diethylene glycol monobutyl ether acetate,33449,"Ethanol, 2-[2-butoxyethoxy]-, acetate"
+10883,"3-Nitroaniline, total in water",18507,"Benzenamine, 3-nitro-"
+10885,p-Chloroaniline,23630,"Benzenamine, 4-chloro-"
+10886,4-Dimethylaminoazobenzene,3269,"Benzenamine, N,N-dimethyl-4-[phenylazo]-"
+10887,Pendimethalin,281436,"Benzenamine, N-[1-ethylpropyl]-3,4-dimethyl-2,6-dinitro-"
+10889,N-Ethylaniline,21584,"Benzenamine, N-ethyl-"
+10890,Ethalfluralin,303834,"Benzenamine, N-ethyl-N-[2-methyl-2-propenyl]-2,6-dinitro-4-[trifluoromethyl]-"
+10891,N-Methylaniline,19588,"Benzenamine, N-methyl-"
+10892,Diphenylamine,32250,"Benzenamine, N-phenyl-"
+10893,Toluidine,242800,"Benzenamine, ar-methyl-"
+10895,sec-Butylbenzene,36574,"Benzene, [1-methylpropyl]-"
+10896,Nitrostyrene,21063,"Benzene, [2-nitroethenyl]-"
+10897,"Isopropyl-1,2-diphenylethane",17026964,"Benzene, 1,1'-[1,2-ethanediyl]bis-, isopropylated"
+10899,Methoxychlor,4903,"Benzene, 1,1'-[2,2,2-trichloroethylidene]bis[4-methoxy-"
+10900,"sec-Butyl-1,1-diphenylethane",17026972,"Benzene, 1,1'-ethylidenebis-, isopropylated"
+10902,Polybrominated diphenyl oxides,966630,"Benzene, 1,1'-oxybis-, polybrominated"
+10903,Diphenylsulfone,34330,"Benzene, 1,1'-sulfonylbis-"
+10904,o-Xylene + p-Xylene,966671,"Benzene, 1,2[and 1,4]-dimethyl-"
+10905,"1,2,3-Trichlorobenzene",11288,"Benzene, 1,2,3-trichloro-"
+10906,"1,2,4,5-Tetrachlorobenzene",16501,"Benzene, 1,2,4,5-tetrachloro-"
+10908,"Xylene, meta & para in combination",966689,"Benzene, 1,3[and 1,4]-dimethyl-"
+10909,"1,3,5-Trinitrobenzene",18671,"Benzene, 1,3,5-trinitro-"
+10910,Chloroneb,106088,"Benzene, 1,4-dichloro-2,5-dimethoxy-"
+10912,o-Chlorobenzyl chloride,59873,"Benzene, 1-chloro-2-[chloromethyl]-"
+10913,Monochlorobenzyl trifluoride,11593,"Benzene, 1-chloro-2-[trifluoromethyl]-"
+10914,o-Chlorotoluene,16154,"Benzene, 1-chloro-2-methyl-"
+10916,p-Chlorophenyl phenyl ether,146647,"Benzene, 1-chloro-4-phenoxy-"
+10917,p-Ethyltoluene,62653,"Benzene, 1-ethyl-4-methyl-"
+10918,p-Cymene,18986,"Benzene, 1-methyl-4-[1-methylethyl]-"
+10919,Bromobenzene,25437,"Benzene, bromo-"
+10920,n-Butylbenzene,22137,"Benzene, butyl-"
+10922,Chloronitrobenzene,230557,"Benzene, chloronitro-"
+10923,Dichlorobenzyl trifluoride,17026790,"Benzene, dichloro[trifluoromethyl]-"
+10924,Dichlorotoluene,254524,"Benzene, dichloromethyl-"
+10926,"Benzene, ethylbenzene, toluene, xylene combination",966515,"Benzene, ethylbenzene, toluene, xylene combination"
+10927,Methylethylbenzene,233270,"Benzene, ethylmethyl-"
+10928,"Benzene, halogenated",966309,"Benzene, halogenated"
+10803,Alkyl dimethyl ethyl ammonium bromide,17026949,Alkyl dimethyl ethyl ammonium bromide
+10804,"Alpha, total",182451,Alpha particle
+10805,"Alpha, total, counting error",17027509,"Alpha, counting error"
+10806,"Aluminum, ion",17026758,"Aluminum, ion [Al3+]"
+10807,Aminotrol methylene phosphate,17026956,Aminotrol methylene phosphate
+10808,Ammonia & ammonium- total,966655,Ammonia and ammonium
+10810,Anesthetics,966267,Anesthetics
+10811,"Animals, total estimated no. of",17027517,"Animals, total number estimated"
+10812,Ann. amt sludge disposed by other method,1641042,Annual amount of sludge disposed by other method
+10813,Annual amt of sludge incinerated,1641059,Annual amount of sludge incinerated
+10951,Diethylmethylbenzenesulfonamide,17027012,"Benzenesulfonamide, diethylmethyl-"
+10952,Benzenesulfonic acid,17798,Benzenesulfonic acid
+10953,p-Phenolsulfonic acid,18226,"Benzenesulfonic acid, 4-hydroxy-"
+10954,Alkyl benzene sulfonated [ABS],285890,"Benzenesulfonic acid, alkyl derivs."
+10955,"Benzo[b,k]fluoranthene",524671799,Benzo[b]fluoranthene mixt. with benzo[k]fluoranthene
+10956,Benzo[ghi]perylene,40576,Benzo[ghi]perylene
+11099,Betz clam-trol CT-2,17026899,Clam-trol CT-2
+11100,Betz clam-trol CT-4,17027079,Clam-trol CT-4
+11101,Cloud cover [pct],1641711,Cloud cover [percent]
+11102,Coagulants added,1641729,Coagulants added
+11313,Flow [dry weather],17027756,"Flow, dry weather"
+10960,Dicamba,94219,"Benzoic acid, 3,6-dichloro-2-methoxy-"
+10961,Chloramben,35956,"Benzoic acid, 3-amino-2,5-dichloro-"
+10962,"Acifluorfen, sodium salt",325225,"Benzoic acid, 5-[2-chloro-4-[trifluoromethyl]phenoxy]-2-nitro-, sodium salt"
+10963,"Chlorobenzoic acid, in water",962795,"Benzoic acid, chloro-"
+10964,"Benzoic acids, total",17027020,Benzoic acids
+10965,Benzonitrile,19455,Benzonitrile
+10966,Bromoxynil,90837,"Benzonitrile, 3,5-dibromo-4-hydroxy-"
+10967,Benzothiazole,15925,Benzothiazole
+10968,"Benzothiazole, 2-[methythio]-",60632,"Benzothiazole, 2-[methylthio]-"
+10969,"Beta, total",182469,Beta particle
+10970,"Beta, total, counting error",17027533,"Beta, counting error"
+10971,Betzdearborn DG5671,17132523,BetzDearborn DG 5671
+11783,NOEL LETHAL STATRE 48HR ACU CYPRINODON,17015678,Noel Lethal Statre 48Hr Acute Cyprinodon
+11785,NOEL LETHAL STATRE 48HR ACU MENIDIA,17015686,Noel Lethal Statre 48Hr Acute Menidia
+11786,NOEL LETHAL STATRE 48HR ACU MYSID. BAHIA,17015660,Noel Lethal Statre 48Hr Acute Mysid. Bahia
+11787,NOEL LETHAL STATRE 48HR ACU PIMEPHALES,17015694,Noel Lethal Statre 48Hr Acute Pimephales
+11789,NOEL LETHAL STATRE 7DAY CHR CYPRINODON,17015728,Noel Lethal Statre 7Day Chronic Cyprinodon
+11790,NOEL LETHAL STATRE 7DAY CHR MENIDIA,17015736,Noel Lethal Statre 7Day Chronic Menidia
+11791,NOEL LETHAL STATRE 7DAY CHR MYSID. BAHIA,17015710,Noel Lethal Statre 7Day Chronic Mysid. Bahia
+12424,Total agg concentration #8,1647049,Total agg concentration #8
+12425,"Hardness, total [as CaCO3]",1640416,Total hardness -- SDWA NPDWR
+12426,"Metals, total",755314,Total metals -- CWA 304B
+10973,Bioaccumulation testing performed,1641273,Bioaccumulation testing performed
+10974,Bioassay [24 hr],1641281,Bioassay [24 hr]
+10975,Bioassay [48 hr],1641299,Bioassay [48 hr]
+10976,Bioassay [96 hr],1641307,Bioassay [96 hr]
+10977,Biocides,966119,Biocides
+10979,"Biomass, plankton",1647841,"Biomass, plankton"
+10980,Bis ether,17027038,Bis ether
+10981,"Bisazer, total, water, ug/L",1641331,"Bisazer, total, water, ug/L"
+10982,Bismuth,150250,Bismuth
+10983,Bleached kraft,1648641,Bleached kraft
+10984,Blend ratio,17027541,Blend ratio
+10985,Fluoroborates,205906,"Borate[1-], tetrafluoro-, hydrogen"
+10986,Orthoboric acid,167148,Boric acid [H3BO3]
+10987,Boron,150011,Boron
+10989,Bromine chloride,192104,Bromine chloride [BrCl]
+10990,"1,4-Dichlorobutane",26757,"Butane, 1,4-dichloro-"
+10991,"1,1,1,3,3-Pentafluorobutane",964494,"Butane, pentafluoro-"
+10993,Butyric acid,24729,Butanoic acid
+10994,"2,4-DB",15701,"Butanoic acid, 4-[2,4-dichlorophenoxy]-"
+10995,MCPB,15693,"Butanoic acid, 4-[4-chloro-2-methylphenoxy]-"
+10996,Dichlorobutene [isomers],689778,"Butene, dichloro-"
+10997,Bypass valve,1641364,Bypass of treatment
+10998,CBOD5/NH3-N,1641414,CBOD5/NH3-N
+10930,Halogenated toluene,966564,"Benzene, methyl-, halogenated"
+10931,3-Phenoxylbenzyl,17027004,"Benzene, methyl-3-phenoxy-, alkyl-substituted"
+10932,Dinitrotoluene,231894,"Benzene, methyldinitro-"
+10933,sec-Butyldiphenylmethane,17026998,"Benzene, methylenebis-, sec-butyl derivative"
+10934,Octachlorostyrene,251777,"Benzene, pentachloro[trichloroethenyl]-"
+10935,Pentachloronitrobenzene,9373,"Benzene, 1,2,3,4,5-pentachloro-6-nitro-"
+10936,n-Propylbenzene,21568,"Benzene, propyl-"
+10937,Tetramethylbenzene,233775,"Benzene, tetramethyl-"
+10938,"Benzene, toluene, xylene in combination",777441,"Benzene, toluene, xylene mix"
+10939,Trichlorobenzene,173682,"Benzene, trichloro-"
+10940,Trichlorotoluene,256784,"Benzene, trichloromethyl-"
+10941,Fenvalerate,292094,"Benzeneacetic acid, 4-chloro-.alpha.-[1-methylethyl]-, cyano[3-phenoxyphenyl]methyl ester"
+11392,Hexadecane,52852,Hexadecane
+10942,Chlorobenzilate,49320,"Benzeneacetic acid, 4-chloro-.alpha.-[4-chlorophenyl]-.alpha.-hydroxy-, ethyl ester"
+10943,Benzyl alcohol,19497,Benzenemethanol
+10944,Phenylpropanolamine,197376,"Benzenemethanol, .alpha.-[[1R]-1-aminoethyl]-, [.alpha.S]-rel-"
+10945,Ephedrine sulfate,36160,"Benzenemethanol, .alpha.-[[1S]-1-[methylamino]ethyl]-, [.alpha.R]-, sulfate [2:1] [salt]"
+10946,Dicofol,29157,"Benzenemethanol, 4-chloro-.alpha.-[4-chlorophenyl]-.alpha.-[trichloromethyl]-"
+10947,Isoxsuprine,44826,"Benzenemethanol, 4-hydroxy-.alpha.-[1-[[1-methyl-2-phenoxyethyl]amino]ethyl]-"
+10948,Sulfathiazole,4846,"Benzenesulfonamide, 4-amino-N-2-thiazolyl-"
+10949,n-Butylbenzene sulfonamide [in water],117432,"Benzenesulfonamide, N-butyl-"
+10950,N-Methylbenzenesulfonamide,129981,"Benzenesulfonamide, N-methyl-"
+10434,Reofos 50,694919,Reofos 50
+11162,Dewatering effluent pH,17132309,Dewatering effluent pH
+11163,"1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",113837,"Dibenzo-p-dioxin, 1,2,3,4,6,7,8,9-octachloro-"
+11165,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",270140,"Dibenzo[b,e][1,4]dioxin, 1,2,3,4,6,7,8-heptachloro-"
+11166,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",711986,"Dibenzo[b,e][1,4]dioxin, 1,2,3,4,7,8-hexachloro-"
+10442,Skydrol LD,694075,Skydrol LD
+10443,Emulsion [oil],741306,Slop oil emulsion solids from the petroleum refining industry.
+10591,%SURV   FLTH 96HR GASTEROST. ACULEATUS,17016296,%Surv Flth 96Hr Gasterost. Aculeatus
+10592,%SURV   FLTH 96HR ONCORHYNCHUS MYKISS,17016288,%Surv Flth 96Hr Oncorhynchus Mykiss
+10595,%SURV FLTH 96HR ACU PIMEPHALES PROMELAS,17016270,%Surv Flth 96Hr Acute Pimephales Promelas
+10607,Dimethoxybenzidine,85183,"[1,1'-Biphenyl]-4,4'-diamine, ar,ar'-dimethoxy-"
+10609,Biphenyl,14183,"1,1'-Biphenyl"
+10610,"Isopropylbiphenyl, total",233999,"1,1'-Biphenyl, [1-methylethyl]-"
+10611,Decachlorobiphenyl,96222,"1,1'-Biphenyl, 2,2',3,3',4,4',5,5',6,6'-decachloro-"
+10612,"2,3',4,4',5'-Pentachlorobiphenyl",739888,"1,1'-Biphenyl, 2,3',4,4',5'-pentachloro-"
+10613,"2,3',4,4',5,5'-Hexachlorobiphenyl",739557,"1,1'-Biphenyl, 2,3',4,4',5,5'-hexachloro-"
+10614,"2,3',4,4',5-Pentachlorobiphenyl",692087,"1,1'-Biphenyl, 2,3',4,4',5-pentachloro-"
+10615,"2,3,3',4,4',5'-Hexachlorobiphenyl",740019,"1,1'-Biphenyl, 2,3,3',4,4',5'-hexachloro-"
+10616,"2,3,3',4,4',5,5'-Heptachlorobiphenyl",739284,"1,1'-Biphenyl, 2,3,3',4,4',5,5'-heptachloro-"
+10617,"2,3,3',4,4',5-Hexachlorobiphenyl",692855,"1,1'-Biphenyl, 2,3,3',4,4',5-hexachloro-"
+10618,"2,3,3',4,4'-Pentachlorobiphenyl",692152,"1,1'-Biphenyl, 2,3,3'4,4'-pentachloro-"
+10619,"2,3,4,4',5-Pentachlorobiphenyl",740266,"1,1'-Biphenyl, 2,3,4,4',5-pentachloro-"
+10620,"3,3',4,4',5,5'-Hexachlorobiphenyl",739102,"1,1'-Biphenyl, 3,3',4,4',5,5'-hexachloro-"
+10621,"3,3',4,4',5-Pentachlorobiphenyl",739771,"1,1'-Biphenyl, 3,3',4,4',5-pentachloro-"
+10622,"3,3',4,4'-Tetrachlorobiphenyl",692145,"1,1'-Biphenyl, 3,3',4,4'-tetrachloro-"
+10623,"3,4,4',5-Tetrachlorobiphenyl",740092,"1,1'-Biphenyl, 3,4,4',5-tetrachloro-"
+10624,Hexachlorobiphenyl,240572,"1,1'-Biphenyl, hexachloro-"
+10625,Chloral hydrate,41574,"1,1-Ethanediol, 2,2,2-trichloro-"
+10626,Citric acid,6775,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-"
+10627,Endrin aldehyde,149336,"1,2,4-Methenocyclopenta[cd]pentalene-5-carboxaldehyde, 2,2a,3,3,4,7-hexachlorodecahydro-, [1.alpha.,2.beta.,2a.beta.,4.beta.,4a.beta.,5.beta.,6a.beta.,6b.beta.,7R*]-"
+10628,Metribuzin,219204,"1,2,4-Triazin-5[4H]-one, 4-amino-6-[1,1-dimethylethyl]-3-[methylthio]-"
+10629,Phthalic acid,12138,"1,2-Benzenedicarboxylic acid"
+10815,Annual amt sludge disposed in landfill,1641075,"Annual amount of sludge, disposed in landfill"
+10816,Annual amt. sludge disposed surface unit,1641083,"Annual amount of sludge, disposed surface unit"
+10817,Annual amount of sludge land applied,1641067,"Annual amount of sludge, land applied"
+10819,Annual whole sludge application rate,1641117,Annual whole sludge application rate
+10820,Applicable temperature limitation,1641125,Applicable temperature limitation
+10821,Application daily spray irrigation,1641133,Application daily spray irrigation
+10446,Sodium azide,240754,Sodium azide [Na[N3]]
+10447,Sodium chloride,152256,Sodium chloride [NaCl]
+10448,Sodium cyanide,39305,Sodium cyanide [Na[CN]]
+10449,Sodium bifluoride,85589,Sodium fluoride [Na[HF2]]
+10451,Sodium hydroxide,82644,Sodium hydroxide [Na[OH]]
+10452,Tetra sodium hydroxide,17135385,"Sodium hydroxide [Na[OH]], tetrahydrate"
+10453,Sodium peroxide,82842,Sodium peroxide [Na2[O2]]
+10649,Simazine,32219,"1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-diethyl-"
+10650,Terbuthylazine,136101,"1,3,5-Triazine-2,4-diamine, 6-chloro-N-[1,1-dimethylethyl]-N'-ethyl-"
+10652,Prometryn,148098,"1,3,5-Triazine-2,4-diamine, N,N'-bis[1-methylethyl]-6-[methylthio]-"
+10653,Terbutryn,73189,"1,3,5-Triazine-2,4-diamine, N-[1,1-dimethylethyl]-N'-ethyl-6-[methylthio]-"
+10655,"2,4-Toluenediamine",16410,"1,3-Benzenediamine, 4-methyl-"
+10656,Chlorothalonil,93971,"1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-"
+10657,Resorcinol,25130,"1,3-Benzenediol"
+10658,m-Benzenedisulfonic acid,18051,"1,3-Benzenedisulfonic acid"
+10660,Safrole,15537,"1,3-Benzodioxole, 5-[2-propenyl]-"
+10661,Dichlorobutadiene,90142,"1,3-Butadiene, 2,3-dichloro-"
+10662,Hexachlorocyclopentadiene,6494,"1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-"
+10664,"2-Methyl-1,3-dioxolane",48025,"1,3-Dioxolane, 2-methyl-"
+10665,Phthalic anhydride,10355,"1,3-Isobenzofurandione"
+10666,Pentaerythritol tetranitrate,6882,"1,3-Propanediol, 2,2-bis[[nitrooxy]methyl]-, dinitrate [ester]"
+10668,"2,5-Toluenediamine",16311,"1,4-Benzenediamine, 2-methyl-"
+10669,Dimethyl terephthalate,31310,"1,4-Benzenedicarboxylic acid, dimethyl ester"
+10670,Hydroquinone,32904,"1,4-Benzenediol"
+10671,Dichlone,29926,"1,4-Naphthalenedione, 2,3-dichloro-"
+10673,Butylamine,26088,1-Butanamine
+10674,Tributhylamine,20990,"1-Butanamine, N,N-dibutyl-"
+10675,"N,N-Dimethyl-1-butanamine",74021,"1-Butanamine, N,N-dimethyl-"
+10676,"Dibutylamine, whole water",27995,"1-Butanamine, N-butyl-"
+10677,N-Nitrosodi-n-butylamine,73700,"1-Butanamine, N-butyl-N-nitroso-"
+11097,Chlorophyll C,172783,Chlorophyll C
+11098,Chrysotile,173617,Chrysotile [Mg3H2[SiO4]2.H2O]
+11871,NOEL SUB-LETH STATRE 7DAY CHR MYSID. BAHIA,17015868,Noel Sub-Leth Statre 7Day Chronic Mysid. Bahia
+11872,NOEL SUB-LTH STATRE 7DAY CHR CERIODAPHNIA,17015850,Noel Sub-Lth Statre 7Day Chronic Ceriodaphnia
+11873,NOEL SUB-LTH STATRE 7DAY CHR PIMEPHALES,17015892,Noel Sub-Lth Statre 7Day Chronic Pimephales
+11386,Heat [winter] [per hour],1643659,"Heat, winter, per hour"
+11387,Helminth ova,17027442,Helminth ova
+11388,Hematite [Fe2O3],83410,Hematite [Fe2O3]
+11389,n-Heptadecane,64915,Heptadecane
+11390,"Herbaceous vegetation, presence",17027459,Herbaceous vegetation
+11391,n-Hexacosane,65011,Hexacosane
+10154,Dinitrobenzene,230326,"Benzene, dinitro-"
+10155,Styrene,19414,"Benzene, ethenyl-"
+10156,Styrene resin,161596,"Benzene, ethenyl-, homopolymer"
+10157,Ethylbenzene,19406,"Benzene, ethyl-"
+10158,Polyethylbenzene,246074,"Benzene, ethyl-, homopolymer"
+10159,Hexachlorobenzene,30346,"Benzene, hexachloro-"
+10160,Phenyl isocyanate,21600,"Benzene, isocyanato-"
+10161,Toluene,25452,"Benzene, methyl-"
+10162,Dibenzyltoluene,242727,"Benzene, methylbis[phenylmethyl]-"
+10163,Nitrotoluene,83691,"Benzene, methylnitro-"
+10165,Pentachlorobenzene,59261,"Benzene, pentachloro-"
+10166,Tetrachlorobenzene,689919,"Benzene, tetrachloro-"
+10782,"2,4,5-T, isooctyl ester",230599,"Acetic acid, [2,4,5-trichlorophenoxy]-, isooctyl ester"
+10783,"2,4-D, isobutyl ester",91314,"Acetic acid, [2,4-dichlorophenoxy]-, 2-methylpropyl ester"
+10785,Isopropyl acetate,24943,"Acetic acid, 1-methylethyl ester"
+10786,Isobutyl acetate,26476,"Acetic acid, 2-methylpropyl ester"
+10787,Phenoxyacetic acid,32375,"Acetic acid, phenoxy-"
+10788,Propyl acetate,25973,"Acetic acid, propyl ester"
+10790,Acidity-mineral methyl orange [as CaCO3],1640200,"Acidity, mineral methyl orange [as CaCO3]"
+10792,"Acids, total volatile [as acetic acid]",17026931,"Acids, volatile"
+10793,Actinium-227,197814,"Actinium, isotope of mass 227"
+10794,Aldrin + Dieldrin,741587,Aldrin/Dieldrin -- CWA 307A
+10795,"Algae, floating mats [severity]",1647700,"Algae, floating mats [severity]"
+10796,Algal growth potential,1641000,Algal growth potential
+10797,"Algal, biomass percent",1647734,"Algal, biomass percent"
+10799,"Alkalinity, total [as CaCO3]",1640192,Alkalinity
+10800,"Alkalinity, bicarbonate [as CaCO3]",1640226,"Alkalinity, bicarbonate [as CaCO3]"
+10801,"Alkalinity, carbonate [as CaCO3]",1640242,"Alkalinity, carbonate [as CaCO3]"
+10809,"Nitrogen, ammonia total [as NH4]",197202,Ammonium ion [NH4]
+10552,%EFFECT STATRE 7DAY CHR CERIODAPHNIA,17012600,%Effect Statre 7Day Chronic Ceriodaphnia
+10823,Application period spray irrigation,1641158,Application period spray irrigation
+10824,"Application rate, daily spray irrigation.",17027525,Application rate
+10825,Application rate area sprayed,1641166,Application rate area sprayed
+10826,Application weekly spray irrigation,1641174,Application weekly spray irrigation
+10828,Area of disposal-used,1647973,Area of disposal-used
+10829,"Hydrocarbons, aromatic",713099,Aromatic hydrocarbons
+10830,Purgeable aromatics Method 602,966366,"Aromatics, purgeable"
+10831,"Aromatics, substituted",966705,"Aromatics, substituted"
+10832,Sodium arsenite,155101,"Arsenenous acid, sodium salt"
+10834,Avg. of 7-day sum of BOD5 values,1641208,Average of 7-day sum of BOD5 values
+10835,Azide,962423,Azide
+10836,"BOD, 11-day [20 deg. C]",1640820,"BOD, 11-day 20 deg C"
+10837,"BOD, 20-day [20 deg. C]",1640838,"BOD, 20-day, 20 deg C"
+10839,"BOD, 35-day [20 deg. C]",1640697,"BOD, 35-day 20 deg C"
+10840,"BOD, 5 day carbonaceous, % rmvl, dry",1640762,"BOD, 5 day carbonaceous, percent removal, dry"
+10842,"BOD, 5 day percent removal, dry",1640853,"BOD, 5 day percent removal, dry"
+10843,"BOD, 5 day percent removal, wet",1640713,"BOD, 5 day percent removal, wet"
+10844,"BOD, 5 lb/cu ft process",1641349,"BOD, 5 lb/cu ft process"
+10845,"BOD, 5-day, 20 deg C per cfs of streamflw",1640861,"BOD, 5-day 20 deg C per cfs of streamflw"
+10846,"BOD, 5-day, percent removal",1640598,"BOD, 5-day percent removal"
+10848,"BOD, carbonaceous [40 day, 20 C]",1640630,"BOD, carbonaceous 40 day, 20 deg C"
+10849,"BOD, carbonaceous [5 day, 5 C]",1640648,"BOD, carbonaceous 5 day, 5 C"
+10850,"BOD, carbonaceous [25 day, 20 C]",1640754,"BOD, carbonaceous, 25 day, 20 deg C"
+10852,"BOD, carb-5 day, 20 deg C, percent removal",1640895,"BOD, carbonaceous, 5 day, 20 deg C, percent removal"
+10853,"BOD, carbonaceous, percent removal",1640663,"BOD, carbonaceous, percent removal"
+10855,"BOD, mass, times flow prop. multiplier",1640929,"BOD, mass"
+10856,"BOD, nitrogen inhib 5-day [20 deg. C]",1640937,"BOD, nitrogen inhibitor 5-day at 20 deg C"
+10857,"BOD, 5-day, 20 deg. C per production",1640879,"BOD, per production, 5-day, 20 deg C"
+10858,"BOD, % over influent",1640705,"BOD, percent over influent"
+10859,"BOD, percent removal[total]",1640945,"BOD, total percent removal"
+10860,"Oxygen demand, ultimate",1640747,"BOD, ultimate"
+10861,"CBOD, non-standard conditions",1640960,"BOD, ultimate carbonaceous"
+10862,"BOD, [ult. 1st stage]",1640721,"BOD, ultimate first stage"
+10863,"BOD, [ult. 2nd stage]",1640739,"BOD, ultimate second stage"
+10864,"Backwash cycles, total number of",1641216,"Backwash cycles, total number"
+10865,Ballast water flow,1641224,Ballast water flow
+10866,"Baroid nos. 2,4,5,6 imco no. 1,2,3,6",1641240,"Baroid Drilling Fluids, nos. 2,4,5,6 and Imco nos. 1,2,3,6"
+10867,"Baroid nos. 3, 7",1641257,"Baroid Drilling Fluids, nos. 3,7"
+10868,Base neutrals and acid,966390,Base neutrals and acids
+10869,Base/neutral compounds,966143,Base/neutral compounds
+10870,Benomyl and carbendazim,755066,Benomyl and carbendazim -- CWA 304B
+10871,Bentonite in drilling fluids,81968,Bentonite
+10872,"Chlorosyringaldehyde, effluent",588236,"Benzaldehyde, 2-chloro-4-hydroxy-3,5-dimethoxy-"
+10873,Pronamide,225102,"Benzamide, 3,5-dichloro-N-[1,1-dimethyl-2-propynyl]-"
+10874,Clonitralid,86587,"Benzamide, 5-chloro-N-[2-chloro-4-nitrophenyl]-2-hydroxy-, compound with 2-aminoethanol [1:1]"
+10875,"N,N-Diethyl-m-toluamide",36137,"Benzamide, N,N-diethyl-3-methyl-"
+10876,Sulfabenzamide,34389,"Benzamide, N-[[4-aminophenyl]sulfonyl]-"
+10877,"2,3-Dichloroaniline",59147,"Benzenamine, 2,3-dichloro-"
+10878,Dichloran,18630,"Benzenamine, 2,6-dichloro-4-nitro-"
+10879,Trifluralin,89060,"Benzenamine, 2,6-dinitro-N,N-dipropyl-4-[trifluoromethyl]-"
+10880,o-Chloroaniline,16170,"Benzenamine, 2-chloro-"
+10881,2-Ethylbenzeneamine,55319,"Benzenamine, 2-ethyl-"
+10882,o-Nitroaniline,11999,"Benzenamine, 2-nitro-"
+11181,"2,3,7,8-Tetrachlorodibenzofuran",291005,"Dibenzofuran, 2,3,7,8-tetrachloro-"
+11182,Chlorodibenzofurans,629352,"Dibenzofuran, chloro derivs."
+11183,Heptachlorodibenzofuran,278200,"Dibenzofuran, heptachloro-"
+11184,Hexachlorodibenzofuran,304824,"Dibenzofuran, hexachloro-"
+11185,"1,2,3,4,6,7,8,9-Octachlorodibenzofuran",278218,"Dibenzofuran, octachloro-"
+11186,Pentachlorodibenzofuran,256289,"Dibenzofuran, pentachloro-"
+11187,Tetrachlorodibenzofuran,256271,"Dibenzofuran, tetrachloro-"
+11188,"Dibenzothiophene, 1,2,3,4-Tetrahydro-8-methyl-",17027087,"Dibenzothiophene, 1,2,3,4-Tetrahydro-8-methyl-"
+11189,"Diesel range organics diesel, total, wtr",52450921,Diesel range organics
+11190,Differential pressure annular well head,1642123,Differential pressure annular well head
+11191,Diffuser validation rpt % effl mix zone,1642131,Diffuser validation
+11192,"Digester solids content, percent",1642149,"Digester solids content, percent"
+11193,Dilution factor,1642156,Dilution factor
+11194,Dioxin laboratory - alpha code,17027939,Dioxin laboratory - alpha code
+11195,"Phosphate, total [P2O5], water",17026741,Diphosphite
+10777,Phenacetin,3590,"Acetamide, N-[4-ethoxyphenyl]-"
+10778,Acetaminophen,21774,"Acetamide, N-[4-hydroxyphenyl]-"
+10779,Butachlor,223263,"Acetamide, N-[butoxymethyl]-2-chloro-N-[2,6-diethylphenyl]-"
+10780,2-Acetylaminofluorene,1719,"Acetamide, N-9H-fluoren-2-yl-"
+11321,"Flow, recycled",1643360,"Flow, recycled"
+11322,"Flow, restrictive",1643378,"Flow, restrictive"
+11323,"Flow, return factor",17132341,"Flow, return factor"
+11324,"Flow, total",1643428,"Flow, total"
+11325,"Flow, wastewater by-passing trtmnt plant",1643436,"Flow, wastewater by-passing treatment plant"
+11326,"Flow, well water",1643444,"Flow, well water"
+11327,Fluorine,154286,Fluorine
+11328,"Formation test fluids, free oil",1643451,"Formation test fluids, free oil"
+11329,"Formation test fluids, pH",1643469,"Formation test fluids, pH"
+11330,Methyl formate,24307,"Formic acid, methyl ester"
+11331,Free acid,1643477,Free acid
+11332,"Free acid, total",1643485,"Free acid, total"
+11333,Free liquids in sludge,1643493,Free liquids in sludge
+11334,"Free oil, dewatering effluent",17132218,"Free oil, dewatering effluent"
+11335,Freeboard,17132382,Freeboard
+11336,Tetrahydrofuran,26310,"Furan, tetrahydro-"
+11338,Nitrofurans,966408,"Furans, nitro-"
+11339,Gallium,150128,Gallium
+11340,Gallons distilled,1643519,Gallons distilled
+11341,"Gamma, total",701029,Gamma radioactivity emitters -- SDWA NPDWR
+11342,Gas bubble severity,1643527,Gas bubble severity
+11343,Digester gas,1643535,"Gas, digester"
+11344,"Gases, total dissolved",1643543,"Gases, total dissolved"
+11345,"Organics, gasoline range",52450913,Gasoline range organics
+11346,Germanium,150136,Germanium
+11348,Ethylenediaminetetraacetic acid ammonium salt,148874,"Glycine, N,N'-1,2-ethanediylbis[N-[carboxymethyl]-, ammonium salt"
+11350,Nitrilotriacetic acid,37374,"Glycine, N,N-bis[carboxymethyl]-"
+11351,Dodecylguanidine salts,966648,"Guanidine, dodecyl-, salts"
+11352,Guanidine nitrate,49122,"Guanidine, mononitrate"
+11353,Nitroguanidine,54056,"Guanidine, nitro-"
+12556,Pirimicarb,223123,"Carbamic acid, dimethyl-, 2-[dimethylamino]-5,6-dimethyl-4-pyrimidinyl ester"
+12557,Pymetrozine,964296,"1,2,4-Triazin-3[2H]-one, 4,5-dihydro-6-methyl-4-[[3-pyridinylmethylene]amino]-, [E]-"
+12460,Uranium-235,198606,"Uranium, isotope of mass 235"
+12461,Uranium-236,192864,"Uranium, isotope of mass 236"
+12462,Uranyl-ion,964684,Uranyl ion[+3]
+12463,Diuron,42606,"Urea, N'-[3,4-dichlorophenyl]-N,N-dimethyl-"
+12464,Linuron,42614,"Urea, N'-[3,4-dichlorophenyl]-N-methoxy-N-methyl-"
+12466,"N,N'-Diethylcarbanilide",10603,"Urea, N,N'-diethyl-N,N'-diphenyl-"
+12467,Fluometuron,98004,"Urea, N,N-dimethyl-N'-[3-[trifluoromethyl]phenyl]-"
+12468,Fenuron,20081,"Urea, N,N-dimethyl-N'-phenyl-"
+12470,Tebuthiuron,265652,"Urea, N-[5-[1,1-dimethylethyl]-1,3,4-thiadiazol-2-yl]-N,N'-dimethyl-"
+12471,Neburon,748962,"Urea, N-butyl-N'-[3,4-dichlorophenyl]-N-methyl-"
+12473,Vector attraction reduction alternative used,1648443,"Vector attraction reduction, alternative used"
+12474,Vegetative cover,1641620,Vegetative cover
+12475,"Velocity of discharge, meters/sec.",1645555,Velocity of discharge
+12477,Human enteric virus,761759,Viruses [enteric]
+12478,Viscosity,1647213,Viscosity
+11196,Tetraethyl pyrophosphate,24422,"Diphosphoric acid, tetraethyl ester"
+11197,Diquat dibromide,10181,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide"
+11198,Diquat,107094,"Dipyrido[1,2-a:2',1'-c]pyrazinedium, 6,7-dihydro-"
+11199,DMR submitted,17132564,Discharge Monitoring Report
+11200,"Discharge drill cuttings, base fluids retained",17027681,"Discharge drill cuttings, base fluids retained"
+11201,"Discharge drill cuttings, formation oil",17027699,"Discharge drill cuttings, formation oil"
+11202,"Discharge drill cuttings, sediment toxicity",17027707,"Discharge drill cuttings, sediment toxicity"
+11203,Discharge event observation,1642164,Discharge event observation
+11204,Discharge flow as % of stream flow,1642172,Discharge flow as percent of stream flow
+11205,"Oxygen, dissolved percent saturation",1642198,Dissolved oxygen saturation
+11206,Dissolved oxygen injected,17027715,"Dissolved oxygen, injected"
+11207,Dissolved radioactive gasses,1642214,Dissolved radioactive gasses
+11208,Distance from shore,17027723,Distance from shore
+11210,Methyl disulfide,63362,"Disulfide, dimethyl"
+11211,Xanthates,966317,"Dithiocarbonic acid, salts and esters"
+11212,Docosane,64998,Docosane
+11213,n-Dodecane,28407,Dodecane
+11214,Dodecene,232504,Dodecene
+11215,"Domestic waste, solids",1642255,"Domestic waste, solids"
+11216,Drain field insp assessment,1642271,Drain field inspection assessment
+11217,"Drill cuttings, free oil",1642297,"Drill cuttings, free oil"
+11219,"Drilling cuttings, volume",1642313,"Drill cuttings, volume"
+11220,Drilled solids in drilling fluids,1642305,Drilled solids in drilling fluids
+11221,"Drilling fluid, end of well, 96-hr IC50",1642321,"Drilling fluid, end of well, 96-hr lc50"
+11223,"Drilling fluids, end of well toxicity",1642354,"Drilling fluids, end of well toxicity"
+11224,"Drilling fluids, free oil",1642362,"Drilling fluids, free oil"
+11225,"Drilling fluids, oil content",1642370,"Drilling fluids, oil content"
+11226,"Drilling fluid, toxicity",1642339,"Drilling fluids, toxicity"
+11228,Ferrochrome lignosulfonated frwtr mud,17027947,"Drilling mud, treated with ferrochrome lignosulfonate."
+11230,Duration,1642404,Duration of discharge
+11231,"Effluent back pressure, discharge pipe",1642412,"Effluent back pressure, discharge pipe"
+11232,Effluent dilution ratio,1642420,Effluent dilution ratio
+11233,n-Eicosane,28829,Eicosane
+11234,Elevation of original ground,1642438,Elevation of original ground
+11236,"Elevation, top of mine pool",17027731,"Elevation, top of mine pool"
+11237,Enterococci,763854,Enterococci
+11238,Equipment inspection - visual,1642511,"Equipment inspection, visual"
+11239,"Equipment outage, length of downtime",1642529,"Equipment outage, length of downtime"
+11242,Ethylamine,5264,Ethanamine
+11302,"Flash point, deg C [40 CFR 403/261.21]",1643188,Flash point
+10640,Guafensin,14704,"1,2-Propanediol, 3-[2-methoxyphenoxy]-"
+10641,Methocarbamol,50724,"1,2-Propanediol, 3-[2-methoxyphenoxy]-, 1-carbamate"
+10642,Chlordecone,39313,"1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-"
+10643,"1,3,5,7-Tetranitro-1,3,5,7-tetrazocine",106294,"1,3,5,7-Tetrazocine, octahydro-1,3,5,7-tetranitro-"
+10644,Cyclonite,31948,"1,3,5-Triazine, hexahydro-1,3,5-trinitro-"
+10645,RDX+HMX,17026923,"1,3,5-Triazine, hexahydro-1,3,5-trinitro-, mixt. with Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine-"
+10646,Hexazinone,291062,"1,3,5-Triazine-2,4[1H,3H]-dione, 3-cyclohexyl-6-[dimethylamino]-1-methyl-"
+10647,Cyanuric acid,25387,"1,3,5-Triazine-2,4,6[1H,3H,5H]-trione"
+11376,"Halocarbons, purgeable scan, effluent",966432,"Halocarbons, purgeable"
+11377,"Halogen, total residual",966895,Halogen
+11378,"Halogens, total combined",17132150,"Halogens, total combined"
+11379,Halomethanes,741744,"Halomethanes, total, N.O.S. from CWA 307A 40 CFR part 401"
+11380,"Hardness, tot calc. [Ca, Mg, Fe] as CaC03",1643592,"Hardness, total calculated"
+11381,Hatchery flow,1643600,Hatchery flow
+11382,Hatchery flow treated,1643618,Hatchery flow treated
+11383,Heat [summer] [per day],1643626,"Heat, summer, per day"
+11384,Heat [summer] [per hour],1643634,"Heat, summer, per hour"
+11385,Heat [winter] [per day],1643642,"Heat, winter, per day"
+11043,Carbosulfan,303842,"Carbamic acid, [[dibutylamino]thio]methyl-, 2,3-dihydro-2,2-dimethyl-7-benzofuranyl ester"
+11044,Thiophanate ethyl,224279,"Carbamic acid, [1,2-phenylenebis[iminocarbonothioyl]]bis-, diethyl ester"
+11045,Benomyl,209593,"Carbamic acid, [1-[[butylamino]carbonyl]-1H-benzimidazol-2-yl]-, methyl ester"
+11046,Propham,32276,"Carbamic acid, phenyl-, 1-methylethyl ester"
+11047,Carbamates,966374,"Carbamic acid, salts and esters"
+11048,Potassium N-hydroxymethyl-N-methyldithiocarbamate,290452,"Carbamodithioic acid, [hydroxymethyl]methyl-, monopotassium salt"
+11049,Nabam,38844,"Carbamodithioic acid, 1,2-ethanediylbis-, disodium salt"
+11050,Disodium cyanodithioimidocarbonate,37309,"Carbamodithioic acid, cyano-, disodium salt"
+11052,Potassium N-methyldithiocarbamate,36962,"Carbamodithioic acid, methyl-, monopotassium salt"
+11054,Triallate,99903,"Carbamothioic acid, bis[1-methylethyl]-, S-[2,3,3-trichloro-2-propenyl] ester"
+11055,Cycloate,79624,"Carbamothioic acid, cyclohexylethyl-, S-ethyl ester"
+11057,Vernolate,94458,"Carbamothioic acid, dipropyl-, S-propyl ester"
+11058,Carbonate ion- [as CO3],119396,Carbonate [CO3]
+11059,Bicarbonate ion- [as HCO3],4788,"Carbonate, hydrogen"
+11060,"1,3-Diaminourea",48009,Carbonic dihydrazide
+11061,Carcinogen additivity factor,17027582,Carcinogen additivity factor
+11062,Cation exchange capacity,1641372,Cation exchange capacity
+11064,Caustic in drilling fluids,1641406,Caustic in drilling fluids
+11065,Cellulose,161794,Cellulose
+11066,Nitrocellulose,161968,"Cellulose, nitrate"
+11067,Cerium,150045,Cerium
+11069,Certified operator class,1647999,Certified operator class
+11070,Certified operator name,1648005,Certified operator name
+11071,Certified operator number,1648013,Certified operator number
+11072,Cesium,150052,Cesium
+11073,Chem. oxygen demand per production,1641687,Chemical oxygen demand per production
+11074,"Oxygen demand, chem. [high level] [COD]",1641653,"Chemical oxygen demand, [high level]"
+11076,"Oxygen demand, chem. [COD], dissolved",1641646,"Chemical oxygen demand, dissolved"
+11077,Chem. oxygen demand [COD] % removal,1641679,"Chemical oxygen demand, percent removal"
+11078,Chemi-mechanical pulp,1641695,Chemical-mechanical pulp
+11079,"Chloramine, total",172726,Chloramide
+11081,"Chlordane, CA Ocean Plan definition",17027046,"Chlordane, CA Ocean Plan Definition"
+11082,Monoboro chlorate,295865,"Chloric acid, sodium salt, mixture with boric acid [HBO2], sodium salt"
+11084,Chlorinated paraffin in sludge,17027053,"Chlorinated paraffin, in sludge"
+11085,"Chlor, phenoxy acid gp, none found",966150,Chlorinated phenoxy acid group
+11086,Chlorination,17027590,Chlorination
+11087,Chlorination duration,17027608,Chlorination duration
+11089,"Chlorine demand, 1 hr",1641703,Chlorine demand
+11090,Chlorine dose,17027624,Chlorine dose
+11091,Chlorine produced oxidants,17027632,Chlorine produced oxidants
+11092,Chlorine rate,17027640,Chlorine rate
+11093,Chlorine usage,17027657,Chlorine usage
+11095,"Freon, total",761411,Chlorofluorocarbons
+11096,"Chloroform extractables, total",17027061,Chloroform extractables
+11984,Palladium,149708,Palladium
+11986,"Panthalium, total",1640044,"Panthalium, total"
+11987,Paper Production,1648195,Paper Production
+11988,Paper-grade sulfite pulp & paper,1648203,Paper-grade sulfite pulp and paper
+11989,Paraben [methyl and propyl],966663,"Paraben, methyl and propyl esters"
+11990,"Particulates, floating",1642594,"Particulates, floating"
+11992,2-Methylpentane,24646,"Pentane, 2-methyl-"
+11993,3-Methylpentane,16634,"Pentane, 3-methyl-"
+11994,Pentanoic acid,25908,Pentanoic acid
+11995,% of fecal coliform samples < detectable,1648021,Percent of Fecal coliform samples less than deteclevel
+11997,Potassium permanganate,152975,"Permanganic acid [HMnO4], potassium salt"
+11998,Permission to discharge,1644277,Permission to discharge
+11999,"Chlorinated pesticides, total",966531,"Pestcides, chlorinated"
+12000,"Chlorinated pesticides, total  & PCB's",966549,"Pesticides, chlorinated and PCB's"
+12002,"2,3,4,5-Tetrachlorophenol",128272,"Phenol, 2,3,4,5-tetrachloro-"
+12003,Tetrachloroguaiacol,104083,"Phenol, 2,3,4,5-tetrachloro-6-methoxy-"
+12004,"2,3,4,6-Tetrachlorophenol",2931,"Phenol, 2,3,4,6-tetrachloro-"
+12006,"2,3-Dichlorophenol, total",55210,"Phenol, 2,3-dichloro-"
+12007,"2,4,6-Trichlorophenol",11536,"Phenol, 2,4,6-trichloro-"
+12008,Ammonium picrate,35501,"Phenol, 2,4,6-trinitro-, ammonium salt"
+12009,"2,4-Di-tert-pentylphenol, total",31518,"Phenol, 2,4-bis[1,1-dimethylpropyl]-"
+12011,"2,4-Dinitrophenol",1313,"Phenol, 2,4-dinitro-"
+12012,"2,5-Dichlorophenol",55822,"Phenol, 2,5-dichloro-"
+12013,"2,6-Di-tert-butyl-p-cresol",34496,"Phenol, 2,6-bis[1,1-dimethylethyl]-4-methyl-"
+12076,Terbufos,183806,"Phosphorodithioic acid, S-[[[1,1-dimethylethyl]thio]methyl] O,O-diethyl ester"
+12077,Carbophenothion,70458,"Phosphorodithioic acid, S-[[[4-chlorophenyl]thio]methyl] O,O-diethyl ester"
+12078,"O,O,O-Triethyl phosphorothioate",33944,"Phosphorothioic acid, O,O,O-triethyl ester"
+12080,Demeton,160234,"Phosphorothioic acid, O,O-diethyl O-[2-[ethylthio]ethyl] ester, mixture with O,O-diethyl S-[2-[ethylthio]ethyl] phosphorothioate"
+12267,Spray irrigation,1646728,Spray irrigation
+12268,"Spray irrigation, application rate",1646736,"Spray irrigation, application rate"
+12269,Tributyltin,67579,"Stannane, tributyl-"
+12270,Starch in drilling fluids,162230,Starch
+12271,Stickwater discharge,1646744,Stickwater discharge
+12015,Propoxur,28928,"Phenol, 2-[1-methylethoxy]-, methylcarbamate"
+12017,Methallyloxyphenol,650374,"Phenol, 2-[[2-methyl-2-propenyl]oxy]-"
+12018,4-t-Amyl-2-chlorophenol,17026667,"Phenol, 2-chloro-4-[1,1-dimethylpropyl]-"
+12019,o-Cresol,16147,"Phenol, 2-methyl-"
+12021,"3,4,5-Trichloroguaiacol",308627,"Phenol, 3,4,5-trichloro-2-methoxy-"
+12022,"3,4,6-Trichloroguaiacol",749234,"Phenol, 3,4,6-trichloro-2-methoxy-"
+12023,"3,4-Dichlorophenol",16386,"Phenol, 3,4-dichloro-"
+12024,"3,4-Dimethylphenol",16287,"Phenol, 3,4-dimethyl-"
+12026,3-Chlorophenol,25106,"Phenol, 3-chloro-"
+12027,4-Nitro-m-cresol,104752,"Phenol, 3-methyl-4-nitro-"
+12028,Diethylstilbestrol,2196,"Phenol, 4,4'-[[1E]-1,2-diethyl-1,2-ethenediyl]bis-"
+11899,Oil & grease [polar],17132168,"Oil & grease , polar"
+11900,"Oil & grease, non polar material",17132143,"Oil & grease, nonpolar"
+11901,"Oil and Grease, calculated limit",17028093,"Oil and Grease, calculated limit"
+11902,Oil - separator obsv - assessment,1644152,"Oil separator, observed assessment"
+11903,Number of operating tubes,17132689,Operating tubes
+11904,Operation of turbines,17027954,Operation of turbines
+11905,Organic active ingredients [40 CFR455],967802,Organic active ingredients -- CWA 304B
+11906,"Amines, organic total",966424,Organic amines
+11907,Total organic carbon % removal,17132226,"Organic carbon, percent removal"
+11908,"Organics, total halogens [TOX]",701268,"Organic halides, total -- SWDA NPDWR"
+11909,"Organic nitrogen sludge, tot dry wt.",1644178,Organic nitrogen sludge
+11910,Organic pesticide chemicals [40 CFR455],755231,Organic pesticide chemicals -- CWA 304B
+11912,"Osmotic pressure, total, unf whl wtr",1644194,"Osmotic pressure, total, unf whl wtr"
+11913,"Outfall observation,visual, y/n response",1648187,"Outfall observation, visual"
+11914,Overflow use,1644202,Overflow use
+11915,"Overflow use, occurrences",1644210,"Overflow use, occurrences"
+11916,"Overflow volume [SS0 volume, CSO volume]",17132374,"Overflow volume [SS0 volume, CSO volume]"
+11917,"Oxidants released, total residual",1644228,"Oxidants released, total residual"
+11918,"Oxidants, free available",1644236,"Oxidants, free available"
+11919,"Oxidants, total residual",1644244,"Oxidants, total residual"
+11920,Redox [oxidation reduction potential],1644251,Oxidation reduction potential [ORP]
+11921,Epichlorohydrin,23945,"Oxirane, [chloromethyl]-"
+11922,"9,10-Epoxystearic acid",961664,"Oxiraneoctanoic acid, 3-octyl-"
+11923,"Oxygen demand, dissolved",1642651,"Oxygen demand, dissolved"
+11924,"Oxygen demand, nitrogenous, ultimate",17132200,"Oxygen demand, nitrogenous, ultimate"
+11925,"Oxygen demand, sum product",1642669,"Oxygen demand, sum product"
+11926,"Oxygen demand, total [tod]",1640333,"Oxygen demand, total"
+11927,"Oxygen demand, ult., percent removal",1642677,"Oxygen demand, ultimate, percent removal"
+11928,Oxygen injection diversion,17027780,Oxygen injection
+11929,Oxygen transfer efficiency,17027798,Oxygen transfer efficiency
+11930,"Oxygen, dissolved, % of time violated",1642685,"Oxygen, dissolved, percent of time violated"
+12398,Thermal efficiency,1646918,Thermal efficiency
+12399,Thiocarbamates,966325,"Thiocarbamic acid, salts and esters"
+12401,2-[Benzothiazolylthio]methyl thiocyanate,220012,"Thiocyanic acid, [2-benzothiazolylthio]methyl ester"
+12403,Methylene dithiocyanate,139857,"Thiocyanic acid, methylene ester"
+12404,Sulfotep,118141,"Thiodiphosphoric acid [[[HO]2P[S]]2O], tetraethyl ester"
+12405,Tetrapropyl dithiopyrophosphate,113530,"Thiodiphosphoric acid [[[HO]2P[S]]2O], tetrapropyl ester"
+12407,Thorium-230,194514,"Thorium, isotope of mass 230"
+12408,"Threatened & endangered species, presence",17027467,"Threatened and endangered species, presence"
+12409,Tide stage,1645522,Tide stage
+12411,Time of bromine addition,1648385,Time of bromine addition
+12412,Time of ferrous sulfate addition,1648393,Time of ferrous sulfate addition
+12413,"Time, ending [HHMM using 24-hour clock]",1648401,"Time, ending"
+12414,"Time, starting [HHMM using 24-hour clock]",1648419,"Time, starting"
+12427,"Fats, oils & grease [total o & g less TPH]",17027244,"Total oil and grease, less total petroleum hydrocarbons [TPH]"
+12428,Total petroleum hydrocarbon - diesel,17132176,Total petroleum hydrocarbon - diesel
+12429,Production,1647056,Total Production
+12430,Total susp. solids- lb/cu ft process,1643170,"Total suspended solids, lb/cu ft process"
+12431,Total water accumulations,17132457,Total water accumulations
+12432,Toxicity characteristic leaching procedure,1647072,Toxicity characteristic leaching procedure
+12433,"Toxicity, ceriodaphnia acute",17027996,"Toxicity, ceriodaphnia acute"
+12434,"Toxicity, ceriodaphnia chronic",17028002,"Toxicity, ceriodaphnia chronic"
+12435,"Toxicity, choice of species",1647106,"Toxicity, choice of species"
+12437,"Toxicity, final conc toxicity units",1647122,"Toxicity, final concentration toxicity units"
+12438,"Toxicity, pimephales acute",17028028,"Toxicity, pimephales acute"
+12439,"Toxicity, pimephales chronic",17028036,"Toxicity, pimephales chronic"
+12440,"Toxicity, salmo acute",17028044,"Toxicity, salmo acute"
+12441,"Toxicity, salmo chronic",17028051,"Toxicity, salmo chronic"
+12442,"Toxicity, sand dollar",17028069,"Toxicity, sand dollar"
+12443,"Toxicity, trout",17028077,"Toxicity, trout"
+12444,"Toxics, percent removal",1647155,"Toxics, percent removal"
+12445,"Tin, tri-organo-",17027251,Triorganostannate
+12446,Tritium,166686,Tritium
+12447,"Tritium, total counting error [pc/L]",17027871,"Tritium, counting error"
+12448,"Tritium, total net increase H-3 units",17027889,"Tritium, increase in H-3 units"
+12449,Turbidity [severity],1646090,Turbidity severity
+12450,"Turbidity, change",17132473,"Turbidity, change"
+12451,"Turbidity, hellige [silicon dioxide]",1646116,"Turbidity, hellige"
+12452,"Turbidity, increase over background",17132481,"Turbidity, increase over background"
+12453,"Turbidity, % increas over intake",1646108,"Turbidity, percent increase over intake"
+12454,"Turbidity, time above limit",1646124,"Turbidity, time above limit"
+12455,"Turbidity, transmissometer, %",1646132,"Turbidity, transmissometer, percent"
+12456,Ultraviolet light dosage,1647171,Ultraviolet light dosage
+12457,Ultraviolet light intensity,1647189,Ultraviolet light intensity
+12458,Ultraviolet light transmittance,1647197,Ultraviolet light transmittance
+12551,"2,4-DDE [O,P-DDE]",775866,"Benzene, 1-chloro-2-[2,2-dichloro-1-[4-chlorophenyl]ethenyl]-"
+12552,Propicanazole,316398,"1H-1,2,4-Triazole, 1-[[2-[2,4-dichlorophenyl]-4-propyl-1,3-dioxolan-2-yl]methyl]-"
+12555,Esfenvalerate [Asana],355552,"Benzeneacetic acid, 4-chloro-.alpha.-[1-methylethyl]-, cyano[3-phenoxyphenyl]methyl ester, [S-[R*,R*]]-"
+11645,Lignosulfate in drilling fluids,160226,Lignosulfonic acid
+11393,3-Methylhexane,56374,"Hexane, 3-methyl-"
+11394,"Chlorohexane, total",962761,"Hexane, chloro-"
+11395,Di[2-ethylhexyl] adipate,21238,"Hexanedioic acid, bis[2-ethylhexyl] ester"
+11396,Hexanoic acid,38877,Hexanoic acid
+11397,"Hexene, total water",231464,Hexene
+11399,"1,2-Diphenylhydrazine",32425,"Hydrazine, 1,2-diphenyl-"
+11400,Methyl hydrazine,3376,"Hydrazine, methyl-"
+11401,"Hydrazines, total",966713,"Hydrazines, total"
+11402,"Hydrocarbon, total recoverable",966481,Hydrocarbons
+11403,"Hydrocarbons, in H2O, IR, CC14 extractible chromatograph",966614,"Hydrocarbons, carbon tetrachloride extractable"
+11405,"Hydrocarbons, nitrated, total",966218,"Hydrocarbons, nitrated"
+11406,"Purgeable hydrocarbons, Meth. 601",966622,"Hydrocarbons, purgeable"
+11407,Volatile hydrocarbons,966606,"Hydrocarbons, volatile"
+11408,Hydrogen cyanide,5140,Hydrocyanic acid
+11409,Hydrogen ion,182113,Hydrogen ion
+11412,Imco Lube 106 in drilling fluids,17027103,IMCO Lube 106
+11413,Imco Lubrikleen in drilling fluids,17027111,IMCO Lubrikleen
+11414,"Imco nos. 1,2,3,6",17027129,"IMCO Nos. 1,2,3,6"
+11415,"Imco nos. 4,5",17027137,"IMCO Nos. 4,5"
+11416,Imco phos in drilling fluids,17027145,IMCO Phos
+11417,"Ice cover, floating or solid [severity]",1643683,"Ice cover, floating or solid"
+11418,Indium,150276,Indium
+11419,Industrial contribution % of influent,17027764,"Industrial contribution, percent of influent"
+11420,Inert plastic spheres in drill fluids,1643709,Inert plastic spheres in drill fluids
+11421,Infiltration capacity,17132390,Infiltration capacity
+11422,"Injection pressure, at well head",1643717,"Injection pressure, at well head"
+11423,Stream width,1645241,"Instream features, est. stream width"
+11425,Iodide [as I],217679,Iodide
+11426,Iodine-129,198267,"Iodine, isotope of mass 129"
+11427,"Iron and manganese, total",966457,Iron and manganese
+11428,"Iron, ferrous",199620,"Iron, ion [Fe2+]"
+11429,Isooctane,240796,Isooctane
+11430,Kappa number,1643733,Kappa number
+11431,Klebsiella species,764126,Klebsiella
+11432,Kwik Seal in drilling fluids,17026873,Kwik Seal
+10630,Phthalate esters,741819,"1,2-Benzenedicarboxylic acid esters"
+10631,Dimethyl phthalate,35295,"1,2-Benzenedicarboxylic acid, dimethyl ester"
+10633,Tetrachlorocatechol,80937,"1,2-Benzenediol, 3,4,5,6-tetrachloro-"
+10634,"3,4,5-Trichlorocatechol",712596,"1,2-Benzenediol, 3,4,5-trichloro-"
+10635,"3,4,6-Trichlorocatechol",711705,"1,2-Benzenediol, 3,4,6-trichloro-"
+10637,"1,2-Benzisothiazole, 3-methoxy-",17026824,"1,2-Benzisothiazole, 3-methoxy-"
+10638,Ethylene glycol dinitrate,64527,"1,2-Ethanediol, dinitrate"
+11177,"1,2,3,7,8,9-Hexachlorodibenzofuran",570150,"Dibenzofuran, 1,2,3,7,8,9-hexachloro-"
+11178,"1,2,3,7,8-Pentachlorodibenzofuran",308817,"Dibenzofuran, 1,2,3,7,8-pentachloro-"
+11179,"2,3,4,6,7,8-Hexachlorodibenzofuran",317966,"Dibenzofuran, 2,3,4,6,7,8-hexachloro-"
+11180,"2,3,4,7,8-Pentachlorodibenzofuran",308809,"Dibenzofuran, 2,3,4,7,8-pentachloro-"
+11637,Lagoon freeboard,1643741,Lagoon freeboard
+11638,Lagoon observation visual,1643758,Lagoon observation visual
+11639,Lanthanum,149575,Lanthanum
+11641,Lead-210,194316,"Lead, isotope of mass 210"
+11642,Length of longest pH excursion,1643790,Length of longest pH excursion
+11643,Level of pathogen requirements achieved,1643816,Level of pathogen requirements achieved
+11644,Lightly treated lignosulfonated mud,17028085,Lignosulfonated mud
+11646,"Explosive limit, lower",1642560,Lower explosive limit
+11648,Nalco Macrotrol 9210,17027152,Macrotrol 9210
+11650,Chlorophyll A,47076,"Magnesium, [[2E,7R,11R]-3,7,11,15-tetramethyl-2-hexadecenyl [3S,4S,21R]-9-ethenyl-14-ethyl-21-[methoxycarbonyl]-4,8,13,18-tetramethyl-20-oxo-3-phorbinepropanoato[2-]-.kappa.N23,.kappa.N24,.kappa.N25,.kappa.N26]-, [SP-4-2]-"
+11651,"Magnesium, pct exchange",17027772,"Magnesium, percent exchange"
+11652,MB 121,1643956,Mb 121
+11653,"Mercaptans, total",966283,Mercaptans
+11654,Metals toxicity ratio,1643964,Metals toxicity ratio
+12265,Spectrus CT 1300,17027210,Spectrus CT 1300
+12266,Spinosad,965574,Spinosad
+12358,TUC STATRE 7DA CHR  ATHERINOPS AFFINIS,17016700,TUC Statre 7Da Chronic Atherinops Affinis
+12360,TUC STATRE 7DAY CHR HOLMESIMYSIS COSTATA,17016676,TUC Statre 7Day Chronic Holmesimysis Costata
+12057,Dicrotophos,38406,"Phosphoric acid, 3-[dimethylamino]-1-methyl-3-oxo-1-propenyldimethyl ester, [E]-"
+12060,Isodecyl diphenyl phosphate,254391,"Phosphoric acid, isodecyl diphenyl ester"
+12064,Bensulide,69021,"Phosphorodithioic acid, O,O-bis[1-methylethyl] S-[2-[[phenylsulfonyl]amino]ethyl] ester"
+12067,"O,O-Diethyl S-methyl dithiophosphate",114165,"Phosphorodithioic acid, O,O-diethyl S-methyl ester"
+12070,Sulprofos,269266,"Phosphorodithioic acid, O-ethyl O-[4-[methylthio]phenyl] S-propyl ester"
+12073,Ethion,54577,"Phosphorodithioic acid, S,S'-methylene O,O,O',O'-tetraethyl ester"
+11678,Chlordimeform,138040,"Methanimidamide, N'-[4-chloro-2-methylphenyl]-N,N-dimethyl-"
+11240,"Equipment outage, number of occurrences",1642537,"Equipment outage, number of occurrences"
+12381,Temperature rate of change deg. F/hour,1645803,"Temperature rate of change, deg F/hour"
+12386,"Temperature, length of excursion",1645829,"Temperature, length of excursion"
+12391,"Temperature, winter [deg. F]",1645779,"Temperature, winter, deg F"
+12579,"Chlordane - Nonachlor, Cis",129361,"4,7-Methano-1H-indene, 1,2,3,4,5,6,7,8,8-nonachloro-2,3,3a,4,7,7a-hexahydro-, [1.alpha.,2.alpha.,3.alpha.,3a.alpha.,4.beta.,7.beta.,7a.alpha.]-"
+12584,Chloramine-T,34348,"Benzenesulfonamide, N-chloro-4-methyl-, sodium salt"
+12588,Ethyl methacrylate,17459,"2-Propenoic acid, 2-methyl-, ethyl ester"
+12590,Oxychlordane,245050,"2,5-Methano-2H-indeno[1,2-b]oxirene, 2,3,4,5,6,6a,7,7-octachloro-1a,1b,5,5a,6,6a-hexahydro-, [1a.alpha.,1b.beta.,2.alpha.,5.alpha.,5a.beta.,6.beta.,6a.alpha.]-"
+12490,"WWT drill fluids/cuttings, chlorides",1647452,"WWT drill fluids/cuttings, chlorides"
+12495,WWT drill fluids/cuttings free oil,1644897,"Waste water treatment, drill fluids/cuttings, free oil"
+12499,Water Level,1647262,Water level at sample collection time
+11655,"Metals, tox priority pollutants, total",761619,"Metals, a subset of SARA 104 list -- MTL"
+11660,Dichlorobromomethane,5462,"Methane, bromodichloro-"
+11665,Dibromodichloromethane,57588,"Methane, dibromodichloro-"
+12189,Rubidium,149799,Rubidium
+12195,"Sanitary waste, BOD, 5-day",1646421,"Sanitary waste, BOD, 5-day"
+12199,"Sanitary waste, flow",1646447,"Sanitary waste, flow"
+12203,"Seafood production, effluent # day/mo",1646488,"Seafood production, effluent, number discharges"
+10122,.alpha.-Methylstyrene,18317,"Benzene, [1-methylethenyl]-"
+10126,"p,p'-DDD",4937,"Benzene, 1,1'-[2,2-dichloroethylidene]bis[4-chloro-"
+10073,K051,741322,API separator sludge from the petroleum refining industry.
+10076,Acetochlor,266114,"Acetamide, 2-chloro-N-[ethoxymethyl]-N- [2-ethyl-6-methylphenyl]-"
+10084,Lead[II] acetate,41483,"Acetic acid, lead[2+] salt"
+10088,Sodium acetate,34132,"Acetic acid, sodium salt"
+10091,"Halogens, adsorbable organic",755215,Adsorbable organic halides
+10096,Zinc ammonium chloride,295931,Ammonium zinc chloride
+10099,F038,740811,Any sludge and/or float generated from the physical and/or chemical separation of oil/water/solids from wastewaters at petroleum refineries.
+10377,Benzoyl peroxide,15420,"Peroxide, dibenzoyl"
+10379,Tri[tert-butylphenyl] phosphate,691774,"Phenol, [1,1-dimethylethyl]-, phosphate"
+10386,m-Cresol,25064,"Phenol, 3-methyl-"
+10223,Cupric hydroxide,217554,Copper hydroxide [Cu[OH]2]
+10228,Lindane,2923,"Cyclohexane, 1,2,3,4,5,6-hexachloro-, [1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha.,6.beta.]-"
+10231,Deltamethrin,297093,"Cyclopropanecarboxylic acid, 3-[2,2-dibromoethenyl]-2,2-dimethyl-, cyano[3-phenoxyphenyl]methyl ester, [1R-[1.alpha.[S*],3.alpha.]]"
+11040,Swep,748988,"Carbamic acid, [3,4-dichlorophenyl]-, methyl ester"
+10164,Nitrobenzene,18408,"Benzene, nitro-"
+10436,F008,740621,"Residues from electroplating operations where cyanides are used, as defined."
+10174,Benzo[a]pyrene,1115,Benzo[a]pyrene
+10178,"BOD, 5-day, 20 deg. C",1640606,Biochemical oxygen demand -- CWA 304B
+10185,3-Iodo-2-propynyl butylcarbamate,304113,"Carbamic acid, butyl-, 3-iodo-2-propynyl ester"
+10188,Potassium dimethyldithiocarbamate,34454,"Carbamodithioic acid, dimethyl-, potassium salt"
+10192,S-Ethyl dipropylthiocarbamate,69252,"Carbamothioic acid, dipropyl-, S-ethyl ester"
+10198,Lithium carbonate,53553,"Carbonic acid, dilithium salt"
+10269,Oxamyl,223180,"Ethanimidothioic acid, 2-[dimethylamino]-N-[[[methylamino]carbonyl]oxy]-2-oxo-, methyl ester"
+10279,"1,2-Dichloroethylene",51904,"Ethene, 1,2-dichloro-"
+10284,Tetrachloroethylene,34157,"Ethene, tetrachloro-"
+10297,Glyphosate,77438,"Glycine, N-[phosphonomethyl]-"
+10301,K019,741009,Heavy ends from the distillation of ethylene dichloride in ethylene dichloride production.
+10303,K020,741017,Heavy ends in vinyl chloride monomer production as defined.
+10308,Hydrogen peroxide,153015,Hydrogen peroxide [H2O2]
+12387,"Temperature, summer [deg. C]",1645746,"Temperature, summer, deg C"
+12388,"Temperature, summer [deg. F]",1645753,"Temperature, summer, deg F"
+12389,"Temperature, water deg. fahrenheit",1645605,"Temperature, water, deg F"
+12390,"Temperature, winter [deg. C]",1645761,"Temperature, winter, deg C"
+12392,Terpineol,156729,Terpineol
+12393,Tetrachlorobiphenyl,242784,Tetrachlorobiphenyl
+12394,n-Tetradecane,64808,Tetradecane
+12578,Tert-Amyl Methyl Ether,75663,"Butane, 2-methoxy-2-methyl-"
+12580,"Chlordane - Nonachlor, Trans",280156,"4,7-Methano-1H-indene, 1,2,3,4,5,6,7,8,8-nonachloro-2,3,3a,4,7,7a-hexahydro-, [1.alpha.,2.beta.,3.alpha.,3a.alpha.,4.beta.,7.beta.,7a.alpha.]-"
+12581,p-Chlorotoluene,23598,"Benzene, 1-chloro-4-methyl-"
+12582,Permanganate,17158296,Permanganate [MnO41-]
+12583,"Chlordene, Gamma",694174,"1,6-Methano-1H-indene, 2,3,3a,4,5,8-hexachloro-3a,6,7,7a-tetrahydro-, [1R,3aR,6S,7aR,8R]-rel-"
+12585,PVP-Iodine,234112,"2-Pyrrolidinone, 1-ethenyl-, homopolymer, compd. with iodine"
+12586,"Nitrogen, Total as NO3 + NH3",52450988,"Nitrogen, mixed forms [NH3], [NH4], organic, [NO2] and [NO3]"
+12587,Sodium Hypochlorite Bleach,17162595,Sodium Hypochlorites
+12589,"Chlordene, Alpha",694141,"1,4-Ethenopentalene, 1,2,3,5,7,8-hexachloro-1,3a,4,5,6,6a-hexahydro-, [1R,3aS,4S,5S,6aS]-rel-"
+12591,Methylmercury,222877,"Mercury[1+], methyl-"
+12415,Torq trim it in drilling fluids,1646967,Torq-Trim in drilling fluids
+12417,Total agg concentration #1,1646975,Total agg concentration #1
+12418,Total agg concentration #2,1646983,Total agg concentration #2
+12419,Total agg concentration #3,1646991,Total agg concentration #3
+12420,Total agg concentration #4,1647007,Total agg concentration #4
+12422,Total agg concentration #6,1647023,Total agg concentration #6
+12423,Total agg concentration #7,1647031,Total agg concentration #7
+12029,"4,4'-Butylidenebis[6-tert-butyl-m-cresol]",10447,"Phenol, 4,4'-butylidenebis[2-[1,1-dimethylethyl]-5-methyl-"
+12030,Mexacarbate,42135,"Phenol, 4-[dimethylamino]-3,5-dimethyl-, methylcarbamate [ester]"
+12031,Aminocarb,95661,"Phenol, 4-[dimethylamino]-3-methyl-, methylcarbamate [ester]"
+12032,p-Chlorophenol,23648,"Phenol, 4-chloro-"
+12033,"Phenol, 4-chloro-2,6-dinitro-",12054,"Phenol, 4-chloro-2,6-dinitro-"
+12034,4-Chloro-2-methylphenol,88799,"Phenol, 4-chloro-2-methyl-"
+12035,"4-Chloro-3,5-dimethylphenol",11510,"Phenol, 4-chloro-3,5-dimethyl-"
+12036,p-Chloro-m-cresol,3103,"Phenol, 4-chloro-3-methyl-"
+12037,"Phenol, 4-nitro-3-[trifluoromethyl]-",11718,"Phenol, 4-nitro-3-[trifluoromethyl]-"
+12038,"Dichlorophenol, in water, ug/L",230516,"Phenol, dichloro-"
+12039,"Dichloro-4-[1,1-dimethylpropylphenol]",17027178,"Phenol, dichloro-4-[1,1--dimethylpropyl]-"
+12040,Octylphenol,760371,"Phenol, octyl-"
+12041,Sodium pentachlorophenate,35394,"Phenol, pentachloro-, sodium salt"
+12042,Trichlorophenol,230524,"Phenol, trichloro-"
+12043,Phosphated pesticides,966333,Phosphated pesticides
+12044,Etidronic acid [HEDP],107607,"Phosphonic acid, [1-hydroxyethylidene]bis-"
+12045,Fonofos,74971,"Phosphonodithioic acid, ethyl-, O-ethyl S-phenyl ester"
+12046,Trichloronate,42424,"Phosphonothioic acid, ethyl-, O-ethyl O-[2,4,5-trichlorophenyl] ester"
+12047,Leptophos,220087,"Phosphonothioic acid, phenyl-, O-[4-bromo-2,5-dichlorophenyl] O-methyl ester"
+12048,O-Ethyl O-[p-nitrophenyl] phenylphosphonothioate,96982,"Phosphonothioic acid, phenyl-, O-ethyl O-[4-nitrophenyl] ester"
+12049,"O-[2,4-Dichlorophenyl] O-methyl isopropylphosphoramidothioate",41376,"Phosphoramidothioic acid, [1-methylethyl]-, O-[2,4-dichlorophenyl] O-methyl ester"
+12050,Methamidophos,169813,"Phosphoramidothioic acid, O,S-dimethyl ester"
+12052,Naled,41426,"Phosphoric acid, 1,2-dibromo-2,2-dichloroethyl dimethyl ester"
+12053,Dichlorvos,3681,"Phosphoric acid, 2,2-dichloroethenyl dimethyl ester"
+12055,Chlorfenvinphos,46706,"Phosphoric acid, 2-chloro-1-[2,4-dichlorophenyl]ethenyl diethyl ester"
+12056,Phosphamidon,184523,"Phosphoric acid, 2-chloro-3-[diethylamino]-1-methyl-3-oxo-1-propenyl dimethyl ester"
+12058,Diazoxon,17026626,"Phosphoric acid, diethyl 6-methyl-2-[1-methylethyl]-4-pyrimidinyl ester"
+12059,Monocrotophos,145995,"Phosphoric acid, dimethyl [1E]-1-methyl-3-[methylamino]-3-oxo-1-propenyl ester"
+12061,Triaryl phosphate,966341,"Phosphoric acid, triaryl ester"
+12062,Triphenyl phosphate,29272,"Phosphoric acid, triphenyl ester"
+12063,Hexamethylphosphoramide,67314,"Phosphoric triamide, N,N,N',N',N'',N''-hexamethyl-"
+12065,Phorate,41202,"Phosphorodithioic acid, O,O-diethyl S-[[ethylthio]methyl] ester"
+12066,Azinphos-ethyl,105676,"Phosphorodithioic acid, O,O-diethyl S-[[4-oxo-1,2,3-benzotriazin-3[4H]-yl]methyl] ester"
+12068,Dimethoate,3400,"Phosphorodithioic acid, O,O-dimethyl S-[2-[methylamino]-2-oxoethyl] ester"
+12069,Prothiofos,267278,"Phosphorodithioic acid, O-[2,4-dichlorophenyl] O-methyl S-propyl ester"
+12071,Ethoprop,184630,"Phosphorodithioic acid, O-ethyl S,S-dipropyl ester"
+12072,Dioxathion,7047,"Phosphorodithioic acid, S,S'-1,4-dioxane-2,3-diyl O,O,O',O'-tetraethyl ester"
+12074,Phosmet,68957,"Phosphorodithioic acid, S-[[1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl]methyl] O,O-dimethyl ester"
+11676,Ethyl methanesulfonate,3616,"Methanesulfonic acid, ethyl ester"
+11677,Methyl methanesulfonate,4093,"Methanesulfonic acid, methyl ester"
+11679,Metiram,162537,Metiram
+11680,Microscopic analysis,1643972,Microscopic analysis
+11681,"Misc. discharges, free oil",1643980,"Miscellaneous discharges, free oil"
+11682,"Misc. free oil in Western GOM, OCS",1643998,"Miscellaneous free oil in Western GOM, OCS"
+11398,"1,1-Dimethylhydrazine",2469,"Hydrazine, 1,1-dimethyl-"
+11683,Mix ratio,17132408,Mix ratio
+11684,Mixed liquor,1644004,Mixed liquor
+11685,Moisture content,1644012,Moisture content
+11686,"Sodium molybdate, total",152017,"Molybdate [MoO42-], disodium, [T-4]-"
+11687,Monitoring well level from the surface,1644020,Monitoring well level from the surface
+11688,Month excursion time [min],1644038,Month excursion time [min]
+11689,Morpholine,27086,Morpholine
+11690,N-Nitrosomorpholine,3194,"Morpholine, 4-nitroso-"
+11691,"N-Nitroso compounds, volatile",966523,"N-Nitroso compounds, volatile"
+11104,Color [admi units],1641737,Color [ADMI units]
+11105,Color [pt-co units],1641745,Color [Pt-Co units]
+11107,"Color, apparent [unfiltered sample]",1641752,"Color, apparent, unfiltered sample"
+11108,"Color, concentration at wavelength",1641760,"Color, concentration at wavelength"
+11109,"Color, spectrophoto, water smpl at 7.6 pH",1641778,"Color, spectrophotometer, water sample at 7.6 pH"
+11110,"Color, spectrophoto-metric filter",1641786,"Color, spectrophotometric filter"
+11111,Combined metals sum,755090,Combined metals -- CWA 304B
+11112,Compliance w/part 258 sludge requirement,1641794,Compliance with part 258 sludge requirement
+11113,"Condenser cooling, water pumping rate",1641802,"Condenser cooling, water pumping rate"
+11114,Condenser cooling water temp. increase,1641810,"Condenser cooling, water temperature increase"
+11115,"Conductivity, net",1641828,"Conductivity, net"
+11116,Cupric oxide,83360,Copper oxide [CuO]
+11117,Corrugated media - markt pulp air-dried,1641836,"Corrugated media, air-dried market pulp"
+11118,Crop yield,1648062,Crop yield
+11119,Current direction deg from true north,1641844,Current direction degree from true north
+11120,Cyanate [as OCN],66902,Cyanate
+11121,Cyanide and thiocyanate - total,966416,Cyanide and thiocyanate
+11122,Cyclohexylamine,25486,Cyclohexanamine
+11123,Dicyclohexylamine,20396,"Cyclohexanamine, N-cyclohexyl-"
+11124,BHC,59220,"1,2,3,4,5,6-Hexachlorocyclohexane"
+11125,.delta.-BHC,42200,.delta.-Hexachlorocyclohexane
+11126,.alpha.-BHC,42184,.alpha.-Hexachlorocyclohexane
+11127,.beta.-BHC,42192,.beta.-Hexachlorocyclohexane
+11128,Hexachlorocyclohexane,244178,"Cyclohexane, hexachloro-"
+11129,Cyclohexanone,25502,Cyclohexanone
+11130,Methylcyclopentane,16824,"Cyclopentane, methyl-"
+11131,Octachlorocyclopentene,68528,"Cyclopentene, octachloro-"
+11133,DAPHNIA MAGNA % NOEC48 HOUR ACUTE WET,17015645,Daphnia Magna % Noec48 Hour Acute Wet
+11135,"DDT/DDD/DDE, sum of p,p' & o,p' isomers",966176,"DDT/DDD/DDE, sum of p,p' and o,p' isomers"
+11136,DOS-3 in drilling fluids,1642263,DOSd3 in drilling fluids
+11137,Daily excursion time [min],1648070,"Daily excursion time, minutes"
+200001681,Barium oxide,82164,Barium oxide ([aO]
+200001682,Manganese oxide,86173,Manganese oxide [MnO]
+11138,Day - max excursion time [min],1648096,"Daily maximum excursion time, minutes"
+11140,"Solids, floating - visual determination",1643147,Visual determination of floating solids
+11141,De-inked floatation fiber,1648104,De-inked floatation fiber
+11143,"Fish, dead [severity]",1647718,"Dead fish, severity"
+11144,n-Decane,33456,Decane
+11145,"Dechlorination reagent, gen",1641901,"Dechlorination reagent, general"
+11146,"Deck drainage, free oil",1641919,"Deck drainage, free oil"
+11147,"Deck drainage, volume",1641927,"Deck drainage, volume"
+11148,Delta pH,17027673,Delta pH
+11150,Depth of pond or reservoir in feet,1641992,Depth of pond or reservoir in feet
+11151,Depth to water level ft below landsurface,1642008,Depth to water level below land surface
+11152,"Depth, max of sample",1642057,"Depth, maximum of sample"
+11154,Description of pathogen option used,1642081,Description of pathogen option used
+11155,Detention time,1648120,Detention time
+11156,Dewatering effluent COD,17132275,Dewatering effluent COD
+11157,Dewatering effluent TDS,17132317,Dewatering effluent TDS
+11159,Dewatering effluent chlorides tidal,17132267,Dewatering effluent chlorides tidal
+11160,Dewatering effluent free oil,17132283,Dewatering effluent free oil
+11161,Dewatering effluent oil & grease,17132291,Dewatering effluent oil and grease
+11168,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin",650911,"Dibenzo[b,e][1,4]dioxin, 1,2,3,7,8-pentachloro-"
+11170,Hexachlorodibenzo-p-dioxin,266965,"Dibenzo[b,e][1,4]dioxin, hexachloro-"
+11171,Pentachlorodibenzo-p-dioxin,270520,"Dibenzo[b,e][1,4]dioxin, pentachloro-"
+11172,Tetrachlorodibenzo-p-dioxin,284596,"Dibenzo[b,e][1,4]dioxin, tetrachloro-"
+11174,"1,2,3,4,7,8,9-Heptachlorodibenzofuran",304782,"Dibenzofuran, 1,2,3,4,7,8,9-heptachloro-"
+11175,"1,2,3,4,7,8-Hexachlorodibenzofuran",525212,"Dibenzofuran, 1,2,3,4,7,8-hexachloro-"
+11176,"1,2,3,6,7,8-Hexachlorodibenzofuran",308825,"Dibenzofuran, 1,2,3,6,7,8-hexachloro-"
+11303,Flashpoint temp of oil/solvents ASTM,1643196,"Flashpoint temp of oil/solvents, ASTM"
+11304,"Debris, floating [severity]",1641851,"Floating debris, severity"
+11305,Floating solids or foam,1642826,"Solids, floating, or foam"
+11306,Flow meter calibration,1643238,Flow meter calibration
+11307,"Flow rate, instantaneous",1643253,"Flow rate, instantaneous"
+11308,"Flow volume daily, into a well",1643261,"Flow volume daily, into a well"
+11309,"Flow, as a portion of stream flow",17132333,"Flow, as a portion of stream flow"
+11310,"Flow, augmented water",1643279,"Flow, augmented water"
+11311,"Flow, average stream per composite sampl",1643287,"Flow, average stream per composite sample"
+11312,"Flow, direction",1643295,"Flow, direction"
+12227,"Sodium, % exchangeable soil, total",17027830,"Sodium, percent exchangeable soil"
+11874,1-Methylnaphthalene,12849,"Naphthalene, 1-methyl-"
+11314,"Flow, gallons/batch",1643303,"Flow, gallons per batch"
+11315,"Flow, in conduit or thru treatment plant",1643311,"Flow, in conduit or treatment plant"
+11316,"Flow, maximum during 24 hr period",1643329,"Flow, maximum during 24-hour period"
+11317,"Flow, maximum flow range",1643337,"Flow, maximum flow range"
+11318,"Flow, minimum flow range",1643345,"Flow, minimum flow range"
+11319,"Flow, process wastewater",1643352,"Flow, process wastewater"
+11320,"Flow, pump out",1643220,"Flow, pump out"
+12601,Ceriodaphnia dubia,1921063,Ceriodaphnia dubia
+12602,Pimephales promelas,1900778,Pimephales promelas
+12372,Temp. diff. between samp. & upstrm deg. C,1645621,"Temperature difference between sample and upstream, deg C"
+12373,Temp. diff. between samp. & upstrm deg. F,1645639,"Temperature difference between sample and upstream, deg F"
+12374,Temp. diff. between up/down stream deg. F,1645647,"Temperature difference between up/down stream, deg F"
+12375,"Temp. difference, summer [deg. F]",1645654,"Temperature difference summer, deg F"
+12376,"Temp. difference, winter [deg. F]",1645662,"Temperature difference winter, deg F"
+12377,"Temp. difference, summer [deg. C]",1645670,"Temperature difference, summer, deg C"
+12378,"Temp. difference, winter [deg. C]",1645688,"Temperature difference, winter, deg C"
+12379,Temperature of sampl upon arrival at lab,1645696,Temperature of sample upon arrival at lab
+12380,Temperature rate of change deg. C/hr,1645795,"Temperature rate of change, deg C/hr"
+12382,"Temperature rise, length of excursion",1645811,"Temperature rise, length of excursion"
+12383,"Temperature, air [degrees Centigrade]",1645720,"Temperature, air,  deg C"
+12384,"Temperature, air [degrees Fahrenheit]",1645738,"Temperature, air,  deg F"
+12385,Calculated limit,1645787,"Temperature, calculated limit"
+12479,"Volatile compounds, [GC/MS]",966697,"Volatile compounds, [GC/MS]"
+12480,Volatile halogenated hydrocarbons,966192,Volatile halogenated hydrocarbons
+12482,Total volatile priority pollutants,966101,Volatile pollutants
+12483,"Volume, daily",17132515,"Volume, daily"
+12484,"Volume, total",17132507,"Volume, total"
+12485,WLA BOD-5 day value,1647437,WLA BOD-5 day value
+12486,"WWT drill fluid/cutting, haz metal disch",1647445,"WWT drill fluid/cutting, haz. metal disch."
+12154,Cyanazine,220400,"Propanenitrile, 2-[[4-chloro-6-[ethylamino]-1,3,5-triazin-2-yl]amino]-2-methyl-"
+12159,Mecoprop,15008,"Propanoic acid, 2-[4-chloro-2-methylphenoxy]-"
+12241,"Solids, suspended percent removal, dry",1642990,"Solids, suspended percent removal, dry"
+12245,"Solids, total dissolved [inorganic]",17132440,"Solids, total dissolved [inorganic]"
+12249,"Solids, total suspd. non-volatile",17132358,"Solids, total suspended non-volatile"
+12253,"Solids, total susp. per cfs of streamflw",1643089,"Solids, total suspended per streamflow"
+12257,"Solids, total fixed",1640408,"Solids, total, fixed"
+12261,"Solids, volatile susp., in mixed liquor",1643121,"Solids, volatile suspended, in mixed liquor"
+12274,"Stock base fluid, PAH",17027855,"Stock base fluid, PAH"
+12278,Stream flow [severity],1645399,"Stream flow, [severity]"
+12284,Strontium,149864,Strontium
+12288,Sulfite pulp,1646827,Sulfite pulp
+12359,TUC STATRE 7DAY CHR CERIODAPHNIA DUBIA,17016650,TUC Statre 7Day Chronic Ceriodaphnia Dubia
+200000060,Nonmethane organic compounds,17133919,Nonmethane organic compounds
+200000081,2-Chlorobenzalmalonitrile,106377,"Propanedinitrile, [[2-chlorophenyl]methylene]-"
+12603,Trichloronitromethane,6106,Chloropicrin
+12604,Calcium chloride,167155,Calcium chloride [CaCl2]
+12605,Cesium-137,167254,"Cesium, isotope of mass 137"
+12606,Potassium-40,192690,"Potassium, isotope of mass 40"
+12607,Lead 212,198432,"Lead, isotope of mass 212"
+12608,Bismuth 214,650630,"Bismuth, isotope of mass 214"
+12609,Thorium-234,650671,"Thorium, isotope of mass 234"
+12610,Lead 214,650689,"Lead, isotope of mass 214"
+12611,Actinium 228,962407,"Actinium, isotope of mass 228"
+12612,Thallium 208,52459146,"Thallium, isotope of mass 208"
+12613,Niclosamide,960781,"Benzamide, 5-chloro-N-[2-chloro-4-nitrophenyl]-2-hydroxy-"
+12616,"1H-Isoindole-1,3[2H]-dione, 2-[[trichloromethyl]thio]-",35808,"1H-Isoindole-1,3[2H]-dione, 2-[[trichloromethyl]thio]-"
+12617,"Phosphonic acid, methyl-, bis [1-methylethyl] ester",86819,"Phosphonic acid, methyl-, bis [1-methylethyl] ester"
+12595,Stream Condition,1648344,Stream Condition
+12596,Bromate,650705,Bromate
+12559,Trichorofon,1586,"Phosphonic acid, [2,2,2-trichloro-1-hydroxyethyl]-, dimethyl ester"
+12560,Cycles Of Concentration,17163288,Cycles Of Concentration
+12562,"Acetate, Total",684910,"Acetic acid, ion[1-]"
+12563,Propionitrile,24174,Propanenitrile
+12564,"2,6-Dimethylphenol",55228,"Phenol, 2,6-dimethyl-"
+12565,"2,5-Dimethyphenol",16469,"Phenol, 2,5-dimethyl-"
+12566,"2,3-Dimethylphenol",50161,"Phenol, 2,3-dimethyl-"
+12567,Propanal,32953,Propionaldehyde
+12568,Pentanal,26815,Pentanal
+12569,m-Toluadehyde,61929,"Benzaldehyde, 3-methyl-"
+12570,Hexanal,4085,Hexanal
+12571,Bifenthrin,594945,"Cyclopropanecarboxylic acid, 3-[2-chloro-3,3,3-trifluoro-1-propenyl]-2,2-dimethyl-, [2-methyl[1,1'-biphenyl]-3-yl]methyl ester, cis-"
+12572,Chlorethoxyfos,302257,"Phosphorothioic acid, O,O-diethyl O-[1,2,2,2-tetrachloroethyl] ester"
+12573,Cyfluthrin,420992,"Cyclopropanecarboxylic acid,3-[2,2-dichloroethenyl]-2,2-dimethyl-, cyano[4-fluoro-3-phenoxyphenyl]methyl ester"
+12574,Tebupirimfos,606400,"Phosphorothioic acid, O-[2-[1,1-dimethylethyl]-5-pyrimidinyl] O-ethyl O-[1-methylethyl] ester"
+12145,"1,3-Dichloropropane",38737,"Propane, 1,3-dichloro-"
+12575,Profenofos,282798,"Phosphorothioic acid, O-[4-bromo-2-chlorophenyl] O-ethyl S-propyl ester"
+12576,Tefluthrin,591271,"Cyclopropanecarboxylic acid, 3-[[1Z]-2-chloro-3,3,3-trifluoro-1-propenyl]-2,2-dimethyl-, [2,3,5,6-tetrafluoro-4-methylphenyl]methyl ester, [1R,3R]-rel-"
+12577,Temephos,115162,"Phosphorothioic acid, O,O'-[thiodi-4,1-phenylene] O,O,O',O'-tetramethyl ester"
+8719,Seafood Processing Waste,17163312,Seafood Processing Waste
+12487,"WWT drill fluids/cuttings, COD",1647478,"WWT drill fluids/cuttings, COD"
+12488,"WWT drill fluids/cuttings, TDS",1647494,"WWT drill fluids/cuttings, TDS"
+12489,"WWT drill fluids/cuttings, TSS",1647502,"WWT drill fluids/cuttings, TSS"
+12491,"WWT drill fluids/cuttings, chromium",1647460,"WWT drill fluids/cuttings, chromium"
+12492,"WWT drill fluids/cuttings, pH",1647486,"WWT drill fluids/cuttings, pH"
+12493,"WWT drill fluids/cuttings, zinc",1647510,"WWT drill fluids/cuttings, zinc"
+12494,Waste heat rejection rate,1647221,Waste heat rejection rate
+12496,"WWT drill fluids/cuttings, oil & grease",1644905,"Waste water treatment, drill fluids/cuttings, oil and grease"
+12497,Volume of injected wastewater,17132499,"Wastewater, volume of injected"
+12498,Water backwash,17027897,Water backwash
+12500,Water level relative to mean sea level,1647296,Water level relative to mean sea level
+12501,Water softener backwash,17027905,Water softener backwash
+12502,"Transparency, secchi disc",1646140,"Water transparency, Secchi disc"
+12503,Water treatment additives,1647304,Water treatment additives
+11656,Sodium hexametaphosphate,168385,"Metaphosphoric acid [H6P6O18], hexasodium salt"
+11657,Methylamine,5132,Methanamine
+11658,Tetramethyl ammonium hydroxide,5694,"Methanaminium, N,N,N-trimethyl-, hydroxide"
+11659,Halon 1011,5199,"Methane, bromochloro-"
+11661,HCFC-22 [Water],5595,"Methane, chlorodifluoro-"
+11662,Chlorofluoromethane,57463,"Methane, chlorofluoro-"
+11663,Dibromomethane,5173,"Methane, dibromo-"
+11664,Chlorodibromomethane,33597,"Methane, dibromochloro-"
+12183,Reservoir storage,1648328,Reservoir storage
+12184,"Residue, tot fltrble [dried at 105 C]",1642230,"Residue, total filterable [dried at 105 C]"
+12185,"Residue, total non-settleable",1642859,"Residue, total non-settleable"
+12186,"Resin acids, total",966291,Resin acids
+12187,Rhenium,149773,Rhenium
+12188,Rhodium,149781,Rhodium
+12190,Runoff-spray irrigation field to stream,1646405,"Runoff, spray irrigation field to stream"
+12191,Ruthenium,149807,Ruthenium
+12192,Salinity,1646165,Salinity
+12193,Salmonella,763904,Salmonella
+12194,Samarium,149815,Samarium
+12196,"Sanitary waste, TSS",1646462,"Sanitary waste, TSS"
+12197,Sanitary waste discharged-assessmnt,1646413,"Sanitary waste, discharged, assessment"
+12198,"Sanitary waste, fecal coliform",1646439,"Sanitary waste, fecal coliform"
+12200,"Sanitary waste, residual chlorine",1646454,"Sanitary waste, residual chlorine"
+12201,"Sanitary waste, solids",1642875,"Sanitary waste, solids"
+12202,"Seabed survey, industry wide",17027822,Seabed survey
+12204,Seawater gel mud,1646496,Seawater gel mud
+12205,Seawater in drilling fluids,1646504,Seawater in drilling fluids
+12206,"Sediment sample, [dry weight]",1646520,"Sediment sample, [dry weight]"
+12207,Septage discharged to treatment fac.,1646538,Septage discharged to treatment facility
+12208,"Solids, settleable",1642842,Settleable solids -- CWA 304B
+12210,Settling index as pertaining to wells,1646546,Settling index as pertaining to wells
+12211,Silicon,149831,Silicon
+12212,"Silver, ionic",17026733,"Silver, ion [Ag1+]"
+12213,"Betz slimicide C-31, total",17027194,Slimicide C-31
+12214,"Betz slimicide C-74, total",17027202,Slimicide C-74
+12215,Sludge build-up in water,1646561,Sludge buildup in water
+12216,Sludge buildup visual,1646579,Sludge buildup visual
+12217,Sludge hydraulic loading,1648336,Sludge hydraulic loading
+12218,"Sludge return rate, % of plant flow",1646587,"Sludge return rate, percent of plant flow"
+12219,Sludge settleability 30 minute,1646595,"Sludge settleability, 30 minute"
+12220,Sludge volume daily into a well,1646603,Sludge volume daily into a well
+12221,Sludge volume index [SVI],1646611,Sludge volume index
+12222,Sludge waste from secondary clarifiers,1646629,Sludge waste from secondary use and disposal of domestic septage.
+11870,NOEL SUB-LETH STATRE 7DAY CHR MENIDIA,17015884,Noel Sub-Leth Statre 7Day Chronic Menidia
+12225,"Sludge, rate of wasting",1646652,"Sludge, rate of wasting"
+12226,Sodium adsorption ratio,1640523,Sodium adsorption ratio
+12459,Unit boundary to property line distance,1648427,Unit boundary to property line distance
+11876,2-Methylnaphthalene,13524,"Naphthalene, 2-methyl-"
+11877,Dimethylnaphthalene,250811,"Naphthalene, dimethyl-"
+11878,Methylnaphthalene,83782,"Naphthalene, methyl-"
+11879,Naphthenic acids,85977,Naphthenic acids
+11880,Neptune Blue,17026816,Neptune Blue
+11882,Nickel carbonyl,186866,"Nickel carbonyl [Ni[CO]4], [T-4]-"
+11883,"Nitrobodies, total",1644061,"Nitrobodies, total"
+11884,"Nitrogenous oxygen demand [20-day, 20 C]",1642628,"Nitrogenous oxygen demand, 20-day, 20 deg C"
+11886,Non-integrated fine paper,1648161,Non-integrated fine paper
+11887,Non-ionic dispersant [Nalsperse 7348],1644087,Non-ionic dispersant
+11888,Nonyl phenoxypoly ethanol,17132127,Nonyl phenoxypoly ethanol
+11889,Number of batches,1648179,Number of batches
+11890,Nutshells in drilling fluids,1644095,Nutshells in drilling fluids
+11891,n-Octadecane,57372,Octadecane
+11893,"n-Octane, total",27748,Octane
+11894,Bromoxynil octanoate,90845,"Octanoic acid, 2,6-dibromo-4-cyanophenyl ester"
+11895,Odor [threshold no. at 40 deg cent],1644103,"Odor,  threshold number at 40 deg C"
+11897,"Odor, atmospheric [severity]",1644145,"Odor, atmospheric"
+11898,Odor [threshold no. at room temperature],1644111,"Odor, threshold number at room temperature"
+12164,Pyrethrins,157362,Pyrethrins and Pyrethroids
+12165,3-Methylpyridine,25544,"Pyridine, 3-methyl-"
+12166,N-Nitrosopyrrolidine,74294,"Pyrrolidine, 1-nitroso-"
+12167,Quarternary ammonium compounds,966556,Quarternary ammonium compounds
+12168,Benzalkonium chloride,156943,"Quaternary ammonium compounds, alkylbenzyldimethyl, chlorides"
+12169,Quinoline,13342,Quinoline
+12170,Ethoxyquin,13490,"Quinoline, 6-ethoxy-1,2-dihydro-2,2,4-trimethyl-"
+12171,"RCRA/CERCLA substances, 40 CFR 261 subp c",966135,RCRA/CERCLA substances
+12172,"Alpha emitting radium isotopes, dissolved",966077,"Radium isotopes, alpha emitting"
+12173,Radium-223,200626,"Radium, isotope of mass 223"
+12174,Radium-224,184754,"Radium, isotope of mass 224"
+12175,"Radium 226 & 228, dissolved",701037,Radium-226 and Radium-228 combined
+12176,Rainfall duration,1644707,Rainfall duration
+12177,Rainfall events,17132531,Rainfall events
+12178,"Rare earth metals, total",966184,"Rare earth metals, total"
+12179,Raw materials processed,17027988,"Raw materials, processed"
+12180,Recirculation flow,1648310,Recirculation flow
+12181,"Recirculation, percent of plant flow",1646355,"Recirculation, percent of plant flow"
+12182,Report due [yrmoda],1646371,Report due
+12228,"Sodium, % total cations",1646660,"Sodium, percent total cations"
+12229,Solids accumulation rate tot dry weight,1642891,"Solids, accumulation rate in total dry weight"
+12230,"Solids, fixed dissolved",1640358,"Solids, dissolved, fixed"
+12231,"Solids, dissolved- tons",1642909,"Solids, dissolved, tons"
+12232,"Solids, volatile dissolved",1640366,"Solids, dissolved, volatile"
+12233,"Solids, dry, discharge to sol. handling sys.",1642917,"Solids, dry, discharged to solids handling system."
+12234,"Solids, dry, incin.as%ofdrysol.fromtrmtplt",1642925,"Solids, dry, incinerated, percent from treatment plant"
+12235,"Solids, dry, removed from sol. handling sys.",1642933,"Solids, dry, removed from solids handling system"
+12236,"Solids, fixed, % of total solids",1642941,"Solids, fixed, percent of total solids"
+12237,"Solids, large fraction, suspended",1642958,"Solids, large fraction, suspended"
+12238,"Solids, sludge, tot, dry weight",1642966,"Solids, sludge, total dry weight"
+12239,"Solids, small fraction, suspended",1642974,"Solids, small fraction, suspended"
+12240,"Solids, suspended percent removal",1642982,"Solids, suspended percent removal"
+12242,"Solids, suspended percent removal, wet",1643006,"Solids, suspended percent removal, wet"
+12243,"Solids, fixed suspended",1640341,"Solids, suspended, fixed"
+12244,"Solids, volatile suspended",1640374,"Solids, suspended, volatile"
+12246,"Solids, total dissolved, total tons",1643030,"Solids, total dissolved, in tons"
+12247,"Solids, total diss., percent by weight",1643022,"Solids, total dissolved, percent by weight"
+12248,"Solids, total non- volatile, non-fixed",1643048,"Solids, total non-volatile, non-fixed"
+12250,"Solids, total susp. per 1000 gallons",1643063,"Solids, total suspended per 1000 gallons"
+12251,"Solids, total susp. per batch",1643071,"Solids, total suspended per batch"
+12252,"Solids, total susp per production",1643055,"Solids, total suspended per production"
+12254,"Solids, total suspended, loading rate",17132432,"Solids, total suspended, loading rate"
+12255,"Solids, total volatile",1642867,"Solids, total volatile"
+12256,"Solids, tot. volatile percent removal",1643014,"Solids, total volatile, percent removal"
+12258,"Solids, total, percent",1643097,"Solids, total, percent"
+12259,"Solids, total, sludge, percent",1643105,"Solids, total, sludge, percent"
+12260,"Solids, volatile % of total solids",1643113,"Solids, volatile percent of total solids"
+12262,"Solids, volatile suspended, % removal",1643139,"Solids, volatile suspended, percent removal"
+12263,Specific conductance,1646694,Specific conductance
+12264,Specific gravity,1646710,Specific gravity
+12273,"Stickwater, effluent volume recycled",1646769,"Stickwater, effluent volume recycled"
+12275,"Stock base fluid, biodegredation rate",17027848,"Stock base fluid, biodegredation rate"
+12276,"Stock base fluid, sediment toxicity",17027863,"Stock base fluid, sediment toxicity"
+12277,Storm water flow,1646777,Storm water flow
+12279,"Stream flow, estimated",1645407,"Stream flow, estimated"
+12280,"Stream flow, instantaneous",1645415,"Stream flow, instantaneous"
+12281,Streamflow,1645423,Streamflow
+12282,"Stage, stream",1645514,Stream stage
+12283,Stream velocity,1645530,Stream velocity
+12285,Strontium-90,167601,"Strontium, isotope of mass 90"
+12286,Sulfide-hydrogen sulfide [undissociated],17132192,"Sulfide, mixt. with hydrogen sulfide"
+12287,Sulfite [as SO3],194472,Sulfite [SO3]
+12289,Sulfur dioxide,150367,Sulfur dioxide
+12290,Sodium sulfate,153320,Sulfuric acid disodium salt
+12291,Barium sulfate,153130,"Sulfuric acid, barium salt [1:1]"
+12292,Propargite,100073,"Sulfurous acid, 2-[4-[1,1-dimethylethyl]phenoxy]cyclohexyl 2-propynyl ester"
+12293,"Sum BOD and ammonia, water",1646835,"Sum BOD, and ammonia, water"
+12294,Surface area,1646868,Surface area
+12295,Surface loading rate,1646876,Surface loading rate
+12296,"Surfactants, as CTAS, effluent",1646892,"Surfactants, as CTAS, effluent"
+12297,Inorganic suspended solids,17027228,"Suspended solids, inorganic"
+12298,"Suspended solids, total annual",1643154,"Suspended solids, total annual"
+12299,"Suspended solids, total discharge",1643162,"Suspended solids, total discharge"
+12300,Syltherm,17027236,Syltherm
+320002241,Oil-Based Defoamer,,Oil-Based Defoamer
+320002242,Polydimethylsiloxanes,328815,"Siloxanes and Silicones, di-Me"
+11094,"Chlorine, total residual, duration of violation",17027665,"Chlorine, total residual, duration of violation"
+11985,Attapulgite in drilling fluids,180323,Palygorskite [[Mg[Al0.5-1Fe0-0.5]]Si4[OH]O10.4H2O]
+11991,"Particulates, floating, dry weight",1642602,"Particulates, floating, dry weight"
+11996,% of time exceeding pH limits,1648039,Percent of time exceeding pH limits
+12001,Dimethylpropylphenol,17027160,"Phenol, [dimethylpropyl]-"
+12005,"4,5,6-Trichloroguaiacol",687897,"Phenol, 2,3,4-trichloro-6-methoxy-"
+12010,"2,4-Dichlorophenol",31443,"Phenol, 2,4-dichloro-"
+12014,"2,6-Dichlorophenol",11312,"Phenol, 2,6-dichloro-"
+12075,Phosalone,100057,"Phosphorodithioic acid, S-[[6-chloro-2-oxo-3[2H]-benzoxazolyl]methyl] O,O-diethyl ester"
+12079,Chlorpyrifos,108852,"Phosphorothioic acid, O,O-diethyl O-[3,5,6-trichloro-2-pyridinyl] ester"
+12081,Fensulfothion,29298,"Phosphorothioic acid, O,O-diethyl O-[4-[methylsulfinyl]phenyl] ester"
+11784,NOEL LETHAL STATRE 48HR ACU D. PULEX,17015652,Noel Lethal Statre 48Hr Acute D. Pulex
+11788,NOEL LETHAL STATRE 7DAY CHR CERIODAPHNIA,17015702,Noel Lethal Statre 7Day Chronic Ceriodaphnia
+11792,NOEL LETHAL STATRE 7DAY CHR PIMEPHALES,17015744,Noel Lethal Statre 7Day Chronic Pimephales
+12550,"2,4-DDD [O,P-DDD]",775643,"Benzene, 1-chloro-2-[2,2-dichloro-1-[4-chlorophenyl]ethyl]-"
+12553,Chiral [Stereoisomer of MP062],17163296,Chiral
+12554,MP062 [Steward],964643,"Indeno[1,2-e][1,3,4]oxadiazine-4a[3H]-carboxylic acid, 7-chloro-2,5-dihydro-2-[[[methoxycarbonyl][4-[trifluoromethoxy]phenyl]amino]carbonyl]-, [S]-methyl ester"
+12558,Pyrifenox,963892,"Ethanone, 1-[2,4-dichlorophenyl]-2-[3-pyridinyl]-, O-methyloxime"
+12465,Monuron,40071,"Urea, N'-[4-chlorophenyl]-N,N-dimethyl-"
+12469,Siduron,95109,"Urea, N-[2-methylcyclohexyl]-N'-phenyl-"
+12472,"Tetramethylurea, total",65243,"Urea, tetramethyl-"
+12476,Velocity of intake,1647205,Velocity of intake
+12481,"Volatile halogenated organics [VHO], tot",966200,Volatile halogenated organics [VHO]
+11869,NOEL SUB-LETH STATRE 7DAY CHR CYPRINODON,17015876,Noel Sub-Leth Statre 7Day Chronic Cyprinodon
+11875,2-Chloronaphthalene,13532,"Naphthalene, 2-chloro-"
+11881,Net rate of additionof heat,1644046,Net rate of addition of heat
+11885,"Nitrogenous oxygen demand, % removal",1642636,"Nitrogenous oxygen demand, percent removal"
+11892,"Aluminum stearate, wat sol in drill fl",65763,"Octadecanoic acid, aluminum salt"
+11896,Odor [threshold no. at 60 deg. C],1644129,"Odor,  threshold number at 60 deg C"
+11640,Unit w/liner/leachate collection system,1648435,Leachate collection system for lined landfill unit
+11647,Macroinvertebrate assessment,1648153,Macroinvertebrate assessment
+11649,Chlorophyll B,49890,"Magnesium, [[2E,7R,11R]-3,7,11,15-tetramethyl-2-hexadecenyl [3S,4S,21R]-9-ethenyl-14-ethyl-13-formyl-21-[methoxycarbonyl]-4,8,18-trimethyl-20-oxo-3-phorbinepropanoato[2-]-.kappa.N23,.kappa.N24,.kappa.N25,.kappa.N26]-, [SP-4-2]-"
+12272,"Stickwater, effluent percent recycled",1646751,"Stickwater, effluent percent recycled"
+12016,Dinoseb,12047,"Phenol, 2-[1-methylpropyl]-4,6-dinitro-"
+12020,Trichlorosyringol,749002,"Phenol, 3,4,5-trichloro-2,6-dimethoxy-"
+12025,Methiocarb,95679,"Phenol, 3,5-dimethyl-4-[methylthio]-, methylcarbamate"
+12400,Thiocyanate,41558,Thiocyanate ion [SCN[1-]]
+12402,Chloroethylene bisthiocyanate,226779,"Thiocyanic acid, 1-chloro-1,2-ethanediyl ester"
+12406,Thiosulfate ion[2-],195222,Thiosulfate [S2O4]
+12410,Time each pumping rate utilized,1648377,Time each pumping rate utilized
+12416,Total residual ooxidant-discharge time,1647163,"Total Residual Oxidant, discharge time"
+12421,Total agg concentration #5,1647015,Total agg concentration #5
+12051,Stirophos,221416,"Phosphoric acid, [1Z]-2-chloro-1-[2,4,5-trichlorophenyl]ethenyl dimethyl ester"
+12054,Tetrachlorvinphos,75366,"Phosphoric acid, 2-chloro-1-[2,4,5-trichlorophenyl]ethenyl dimethyl ester"
+11404,"Halogenated hydrocarbons, total",966440,"Hydrocarbons, halogenated"
+11911,"Organics, tot purgeables [Method 624]",966234,"Organics, purgeables"
+12209,Settleable solids percent removal,1642883,Settleable solids percent removal
+11671,Bis[trichloromethyl] sulfone,111070,"Methane, sulfonylbis[trichloro-"
+12506,"Well fluids, pH",1647353,"Well fluids, pH"
+12510,Wind direction [deg from true N],1647395,"Wind direction, degrees from true North"
+12516,Ziram,36939,"Zinc, bis[dimethylcarbamodithioato-.kappa.S,.kappa.S']-, [T-4]-"
+12520,"3,3'-Dimethylbenzidine",30940,"[1,1'-Biphenyl]-4,4'-diamine, 3,3'-dimethyl-"
+12523,Rotenone,9746,"[1]Benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6[6aH]-one, 1,2,12,12a-tetrahydro-8,9-dimethoxy-2-[1-methylethenyl]-, [2R-[2.alpha.,6a.alpha.,12a.alpha.]]-"
+12126,Process to significntly reduce pathogens,1644566,Process to significantly reduce pathogens
+12133,"Produced water, toxicity",1644616,"Produced water, toxicity"
+12138,Aldicarb sulfoxide,90084,"Propanal, 2-methyl-2-[methylsulfinyl]-, O-[[methylamino]carbonyl]oxime"
+12141,Napropamide,199182,"Propanamide, N,N-diethyl-2-[1-naphthalenyloxy]-"
+12361,TUC STATRE 7DAY CHR MENIDIA BERYLLINA,17016692,TUC Statre 7Day Chronic Menidia Beryllina
+12362,TUC STATRE 7DAY CHR MYSIDOPSIS BAHIA,17016668,TUC Statre 7Day Chronic Mysidopsis Bahia
+12363,TUC STATRE 7DAY CHR PIMPHALES PROMELAS,17016684,TUC Statre 7Day Chronic Pimphales Promelas
+12364,Tannin and lignin,967364,Tannin and Lignin
+12365,Lignite in drilling fluids,351593,"Tar, coal, low-temp."
+12366,Taste [severity],1646900,Taste [severity]
+12367,"Taxa, total number",1648369,"Taxa, total number"
+12368,Technetium-99,650598,"Technetium, isotope of mass 99"
+12369,Technical information 2 R,17132556,Technical information 2 R
+12370,Tellurium,187799,Tellurium
+12371,Temp. diff. between intake and discharge,1645613,Temperature difference between intake and discharge
+12597,"Benzenamine, N-methyl-N,2,4,6-tetranitro-",47050,"Benzenamine, N-methyl-N,2,4,6-tetranitro-"
+12598,"Phenol, 2-methoxy-4-[1-propenyl]-",17392,"Phenol, 2-methoxy-4-[1-propenyl]-"
+12599,Heptachlor and its epoxide -- RCRA T,649558,Heptachlor and its epoxide -- RCRA T
+10759,.alpha.-Endosulfan,75333,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide, [3.alpha.,5a.beta.,6.alpha.,9.alpha.,9a.beta.]-"
+10764,7-Day sum of BOD5 discharged,1640903,7-day sum of BOD5 discharged
+10768,Linoleic acid,3368,"9,12-Octadecadienoic acid [9Z,12Z]-"
+10773,"2,2-Dibromo-3-nitrilopropionamide",169524,"Acetamide, 2,2-dibromo-2-cyano-"
+10775,Alachlor,202549,"Acetamide, 2-chloro-N-[2,6-diethylphenyl]-N-[methoxymethyl]-"
+10781,Sulfacetamide,39479,"Acetamide, N-[[4-aminophenyl]sulfonyl]-"
+10784,MCPA,15644,"Acetic acid, [4-chloro-2-methylphenoxy]-"
+10789,Acid compounds,966507,Acid compounds
+10791,"Acidity, total [as CaCO3]",1640580,"Acidity, total, phenolphthalein [as CaCO3]"
+10798,"Algicides, general",966168,"Algicides, general"
+10802,"Alkalinity, phenolphthaline method",1640218,"Alkalinity, phenolphthalein"
+10822,Application monthly spray irrigation,1641141,Application monthly spray irrigation
+10827,Area inspection visual,1647965,Area inspection visual
+10833,"Arsenic, trivalent",52450400,"Arsenic, ion [As3+]"
+200000221,n-Propyl Bromide,23994,"Propane, 1-bromo-"
+200000361,Plutonium-238,192807,"Plutonium, isotope of mass 238"
+200000282,Rate of Discharge,,Rate of Discharge
+200000302,Carfentrazone-ethyl,964346,"Benzenepropanoic acid, .alpha., 2-dichloro-5-[4-[difluoromethyl]-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluoro-, ethyl ester"
+200000303,Fluridone,315366,"4[1H]-Pyridinone, 1-methyl-3-phenyl-5-[3-[trifluoromethyl]phenyl]-"
+200000304,Penoxsulam,17131947,"Benzenesulfonamide, 2-[2,2-difluoroethoxy]-N-[5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl]-6-[trifluoromethyl]-"
+200000305,Triclopyr,303958,"Acetic acid, [[3,5,6-trichloro-2-pyridinyl]oxy]-"
+200000306,Imazapyr,592782,"3-Pyridinecarboxylic acid, 2-[4,5-dihydro-4-methyl-4-[1-methylethyl]-5-oxo-1H-imidazol-2-yl]-"
+200000307,Americium-241,962464,"Americium, isotope of mass 241"
+200000308,Plutonium-239,198580,"Plutonium, isotope of mass 239"
+200000421,Evaporation,52456977,Evaporation
+200000345,"Fuel oil, no. 5",17075227,"Fuel oil, no. 5"
+12149,Bis[2-chloroisopropyl] ether,279893,"Propane, 2,2'-oxybis[2-chloro-"
+10838,"BOD, 20-day, percent removal",1640846,"BOD, 20-day, percent removal"
+10841,"BOD, 5 day carbonaceous, % rmvl, wet",1640770,"BOD, 5 day carbonaceous, percent removal, wet"
+10847,"BOD, carbonaceous [20 day, 20 C]",1640622,"BOD, carbonaceous 20 day, 20 deg C"
+10851,"BOD, carbonaceous [28 day, 20 C]",1640655,"BOD, carbonaceous, 28 day, 20 deg C"
+10854,"BOD, 5-day, dissolved",1640671,"BOD, filtered, 5 day, 20 deg C"
+10884,Isopropalin,265181,"Benzenamine, 4-[1-methylethyl]-2,6-dinitro-N,N-dipropyl-"
+10888,Benfluralin,93526,"Benzenamine, N-butyl-N-ethyl-2,6-dinitro-4-[trifluoromethyl]-"
+10894,tert-Butylbenzene,17749,"Benzene, [1,1-dimethylethyl]-"
+10898,"sec-Butyl-1,2-diphenylethane",17026980,"Benzene, 1,1'-[1,2-ethanediyl]bis-, sec-butyl derivative"
+10901,"Benzene, 1,1'-ethylidenebis-, isopropylated, distn. residues",1652338,"Benzene, 1,1'-ethylidenebis-, isopropylated, distn. residues"
+10907,"1,2,4,5-Tetramethylbenzene",16493,"Benzene, 1,2,4,5-tetramethyl-"
+10911,p-Bromophenyl phenyl ether,20172,"Benzene, 1-bromo-4-phenoxy-"
+10915,"Benzene, 1-chloro-4-[trifluoromethyl]-",18135,"Benzene, 1-chloro-4-[trifluoromethyl]-"
+10921,Chlorotoluene,230565,"Benzene, chloromethyl-"
+10925,Diethylbenzene,232207,"Benzene, diethyl-"
+10929,Hexamethylbenzene,11429,"Benzene, hexamethyl-"
+10978,"Biological diversity, Shannon-Weaver index",1641315,"Biological diversity, Shannon-Weaver index"
+10988,Boundary areas,1641356,Boundary areas
+10992,Malathion,31922,"Butanedioic acid, [[dimethoxyphosphinothioyl]thio]-, diethyl ester"
+11164,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",214783,"Dibenzo-p-dioxin, 1,2,3,7,8,9-hexachloro-"
+11167,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",694281,"Dibenzo[b,e][1,4]dioxin, 1,2,3,6,7,8-hexachloro-"
+10590,%SRV STATRE 96HR ACU PIMEPHALES PROMELAS,17016213,%Srv Statre 96Hr Acute Pimephales Promelas
+10814,Annual amt sludge transported interstate,1641091,Annual amount of sludge transported interstate
+10818,"Annual sludge production, total",1641109,"Annual sludge production, total"
+10444,F037,740803,Sludge from the gravitational separation of oil/water/solids from wastewater at petroleum refineries.
+10450,Sodium fluoride,152504,Sodium fluoride [NaF]
+10648,Propazine,37416,"1,3,5-Triazine-2,4-diamine, 6-chloro-N,N'-bis[1-methylethyl]-"
+10651,Prometon,89474,"1,3,5-Triazine-2,4-diamine, 6-methoxy-N,N'-bis[1-methylethyl]-"
+10654,Ametryn,71894,"1,3,5-Triazine-2,4-diamine, N-ethyl-N'-[1-methylethyl]-6-[methylthio]-"
+10659,Bendiocarb phenol,222851,"1,3-Benzodioxol-4-ol, 2,2-dimethyl-"
+10663,Ethylmethyldioxolane,33852,"1,3-Dioxolane, 2-ethyl-2-methyl-"
+10667,"Metrioltrinitrate, total",110569,"1,3-Propanediol, 2-methyl-2-[[nitrooxy]methyl]-, dinitrate [ester]"
+10672,Dechlorane plus,188433,"1,4:7,10-Dimethanodibenzo[a,e]cyclooctene, 1,2,3,4,7,8,9,10,13,13,14,14-dodecachloro-1,4,4a,5,6,6a,7,10,10a,11,12,12a-dodecahydro-"
+11424,Intermittent discharge-assessment,1643725,Intermittent discharge
+200000121,Fish,9999999,Fish
+200000141,tert-Butylphenol,244400,"Phenol, [1,1-dimethylethyl]-"
+200000143,"[1,1,3,3-Tetramethylbutyl]phenol",244442,"Phenol, [1,1,3,3-tetramethylbutyl]-"
+200000142,3-methylphenol and 4-methylphenol Combination,243485,"Formaldehyde, polymer with 3-methylphenol and 4-methylphenol"
+12634,Azithromycin,17164252,"1-Oxa-6-azacyclopentadecan-15-one, 13-[[2,6-dideoxy-3-C-methyl-3-O-methyl-.alpha.-L-ribo-hexopyranosyl]oxy]-2-ethyl-3,4,10-trihydroxy-3,5,6,8,10,12,14-heptamethyl-11-[[3,4,6-trideoxy-3-[dimethylamino]-.beta.-D-xylo-hexopyranosyl]oxy]-, [2R,3S,4R,5R,8R,10R,11R,12S,13S,14R]-"
+12635,Ciprofloxacin,17164187,"3-Quinolinecarboxylic acid, 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-[1-piperazinyl]-"
+12636,Ibuprofen,200931,"Benzeneacetic acid, .alpha.-methyl-4-[2-methylpropyl]-"
+12637,Ethinyl estradiol,2626,"19-Norpregna-1,3,5[10]-trien-20-yne-3,17-diol, [17.alpha.]-"
+12640,Estrone,1644,"Estra-1,3,5[10]-trien-17-one, 3-hydroxy-"
+12641,Amoxicillin,17164237,"4-Thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, 6-[[[2R]-amino[4-hydroxyphenyl]acetyl]amino]-3,3-dimethyl-7-oxo-, trihydrate, [2S,5R,6R]-"
+12642,Ampicillin,17164245,"4-Thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, 6-[[[2R]-aminophenylacetyl]amino]-3,3-dimethyl-7-oxo-, [2S,5R,6R]-"
+12643,Diethylene glycol monoethyl ether,27979,"Ethanol, 2-[2-ethoxyethoxy]-"
+12644,Salicylic acid,4523,"Benzoic acid, 2-hydroxy-"
+200000181,Total Haloacetic acids [HAA5],701185,"Haloacetic acids [five], total"
+10632,Dinonyl phthalate,10041,"1,2-Benzenedicarboxylic acid, dinonyl ester"
+10636,Benzisothiazole,961060,"1,2-Benzisothiazole"
+11209,"Gasoline, regular",430041,"Distillates, petroleum, naphtha-raffinate pyrolyzate-derived, gasoline-blending"
+11218,"Drill cutting, [oil rigs]",1642289,"Drill cuttings, oil rigs"
+11222,"Drilling fluids, discharge rate",1642347,"Drilling fluids, discharge rate"
+11227,"Drilling fluids, volume",1642388,"Drilling fluids, volume"
+11229,Dry days preceding precipitation event,1642396,Dry period preceding precipitation
+11235,Elevation of top of well casing,1642446,Elevation of top of well casing
+11241,Estradiol,1099,"Estra-1,3,5[10]-triene-3,7-diol[17.beta.]-"
+11103,"Coliform, total colony forming units",17132234,"Coliform, total colony forming units"
+11132,Permethrin,296012,"Cyclopropanecarboxylic acid, 3-[2,2-dichloroethenyl]-2,2-dimethyl-, [3-phenoxyphenyl]methyl ester"
+11139,"Facility operated during mnth, # days",1642578,Days facility operated during month
+11142,De-inked washed fiber,1648112,De-inked washed fiber
+11149,Density,1641935,Density
+11153,"Desalinization unit, free oil",1642073,"Desalinization unit, free oil"
+11158,Dewatering effluent TSS,17132325,Dewatering effluent TSS
+11169,Heptachlorodibenzo-p-dioxin,275438,"Dibenzo[b,e][1,4]dioxin, heptachloro-"
+11173,"1,2,3,4,6,7,8-Heptachlorodibenzofuran",358382,"Dibenzofuran, 1,2,3,4,6,7,8-heptachloro-"
+11347,Ethylenediaminetetraacetic acid,3228,"Glycine, N,N'-1,2-ethanediylbis[N-[carboxymethyl]-"
+11349,Ethylenediaminetetraacetic acid tetrasodium salt,3798,"Glycine, N,N'-1,2-ethanediylbis[N-[carboxymethyl]-, tetrasodium salt"
+11051,"Dithiocarbamate, reported as dithiocarbonate",961839,"Carbamodithioic acid, ion[1-]"
+11053,Sodium methyldithiocarbamate,36970,"Carbamodithioic acid, methyl-, monosodium salt"
+11056,Thiobencarb,248542,"Carbamothioic acid, diethyl-, S-[[4-chlorophenyl]methyl] ester"
+11063,"Cations, total",1641398,"Cations, total"
+11068,Certified operator certification exp.,1647981,Certified operator certification expiration date
+11075,"Oxygen demand, chem. [low level] [COD]",1641661,"Chemical oxygen demand, [low level]"
+11080,Chlordane [tech mix. and metabolites],740548,Chlordane [Technical mixture and metabolites]
+11083,Chlorides & sulfates,966275,Chlorides and sulfates
+11088,Chlorination frequency,17027616,Chlorination frequency
+10202,Hexachlorophene,4622,"Phenol, 2,2'-methylenebis[3,4,6-trichloro-"
+12223,"Sludge weight, wet tons",1646645,"Sludge weight, wet tons"
+12224,"Sludge, depth",17132424,"Sludge, depth"
+11666,CFC-12,5801,"Methane, dichlorodifluoro-"
+11667,HCFC-21,5579,"Methane, dichlorofluoro-"
+11668,HFC-32,5314,"Methane, difluoro-"
+11669,Bis[chloromethyl] ether,52498,"Methane, oxybis[chloro-"
+11670,Dimethyl sulfoxide,4325,"Methane, sulfinylbis-"
+11672,Dimethyl sulfide,5371,"Methane, thiobis-"
+11673,Tribromomethane,5447,"Methane, tribromo-"
+11674,Trimethylorthoformate,39933,"Methane, trimethoxy-"
+11675,Chlorinated methanes,966382,"Methanes, chlorinated"
+12504,Water usage,17132697,Water usage
+12505,"Well fluids, free oil",1647692,"Well fluids, free oil"
+12507,"Well fluids, volume",1647361,"Well fluids, volume"
+12508,"Wetland overflow, y/n response",17027913,Wetland overflow
+12509,"WET, sublethal retest #1",17132242,"Whole Effluent Toxicity, sublethal retest"
+12511,Wind velocity,1647411,Wind velocity
+12512,"Woody vegetation, presence",17027475,Woody vegetation
+12513,XC Polymer in drilling fluids,17026709,XC Polymer
+12514,Rhodamine WT dye,759738,"Xanthylium, 9-[2,4-dicarboxyphenyl]-3,6-bis[diethylamino]-, chloride, disodium salt"
+12515,Yttrium,150227,Yttrium
+12517,Sodium o-phenylphenoxide,35592,"[1,1'-Biphenyl]-2-ol, sodium salt"
+12518,Sodium-o-PPTH,17026683,"[1,1'-Biphenyl]-2-ol, sodium salt, tetrahydrate"
+12519,"3,3'-Dichlorobenzidine",13755,"[1,1'-Biphenyl]-4,4'-diamine, 3,3'-dichloro-"
+12521,4-Aminobiphenyl,14308,"[1,1'-Biphenyl]-4-amine"
+12522,4-Phenylphenol,14324,"[1,1'-Biphenyl]-4-ol"
+12524,pH change [range],1644293,pH change [range]
+12525,pH exchange [su],1644301,pH exchange [su]
+12526,"pH range excursions, > 60 minutes",1644319,"pH range excursions, > 60 minutes"
+12527,"pH, CaCO3 stability",1640481,"pH, CaCO3 stability S.U."
+12528,"pH, in soil",1644327,"pH, in soil"
+12529,"pH, lab",1644335,"pH, lab"
+12530,"pH, maximum",1644343,"pH, maximum"
+12531,"pH, minimum",1644350,"pH, minimum"
+12532,"pH range excursions, monthly total accum",1644368,"pH, range excursions, monthly total accumulation"
+99999,Unknown,,ICIS Migration/Unknown
+12082,Thionazin,41186,"Phosphorothioic acid, O,O-diethyl O-pyrazinyl ester"
+12083,Ronnel,41368,"Phosphorothioic acid, O,O-dimethyl O-[2,4,5-trichlorophenyl] ester"
+12084,Chlorpyrifos-methyl,133991,"Phosphorothioic acid, O,O-dimethyl O-[3,5,6-trichloro-2-pyridinyl] ester"
+12085,Fenitrothion,32144,"Phosphorothioic acid, O,O-dimethyl O-[3-methyl-4-nitrophenyl] ester"
+12086,Fenthion,1909,"Phosphorothioic acid, O,O-dimethyl O-[3-methyl-4-[methylthio]phenyl] ester"
+12087,Dichlofenthion,960906,"Phosphorothioic acid, O-[2,4-dichlorophenyl] O,O-diethyl ester"
+12088,Coumaphos,2246,"Phosphorothioic acid, O-[3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl] O,O-diethyl ester"
+12089,Famphur,1594,"Phosphorothioic acid, O-[4-[[dimethylamino]sulfonyl]phenyl] O,O-dimethyl ester"
+12629,MCPA 2-ethylhexyl ester,962910,"Acetic acid, [4-chloro-2-methylphenoxy]-, 2-ethylhexyl ester"
+12625,Perfluorooctanesulfonamide,5240163,"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-"
+12626,Isodrin,46615,"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, [1R,4S,4aS,5R,8S,8aR]-rel-"
+12627,Strobane,650473,Strobane
+12628,Perthane,4952,"Benzene, 1,1'-[2,2-dichloroethylidene]bis[4-ethyl-"
+12630,Selenite,1714636,Selenite
+12631,Selenate,1714637,Selenate
+10239,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",91918,"Dibenzo[b,e][1,4]dioxin, 2,3,7,8-tetrachloro-"
+10017,Hexachlorobutadiene,11346,"1,3-Butadiene, 1,1,2,3,4,4-hexachloro-"
+10022,Trimethylolpropane,6817,"1,3-Propanediol, 2-ethyl-2-[hydroxymethyl]-"
+10024,Aldrin,42002,"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, [1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.]-"
+10036,2-Butyl-4-chloro-5-formylimidazole,17135427,"1H-Imidazole-4-carboxaldehyde, 2-butyl-5-chloro-"
+10038,Terbacil,136010,"2,4[1H,3H]-Pyrimidinedione, 5-chloro-3-[1,1-dimethylethyl]-6-methyl-"
+10040,Endrin,4887,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-,  [1aR,2R,2aR,3R,6S,6aS,7S,7aS]-rel-"
+7375,Contaminated landfill waste,17135567,Contaminated landfill waste
+10168,Chlorambucil,41731,"Benzenebutanoic acid, 4-[bis[2-chloroethyl]amino]-"
+10495,F032,740779,Waste from wood preserving processes where chlorophenolic formulations have been used.
+10497,K106,741934,Wastewater treatment sludge from the mercury cell process in chlorine production.
+10500,Electroplating sludge,740605,Wastewater treatment sludges from electroplating operations except as defined.
+10507,2-Phenylphenol,13003,"[1,1'-Biphenyl]-2-ol"
+10509,Resmethrin,171413,"[5-[Phenylmethyl]-3-furanyl]methyl 2,2-dimethyl-3-[2-methyl-1-propenyl]cyclopropanecarboxylate"
+10110,Benzo[b]fluoranthene,40683,Benz[e]acephenanthrylene
+10113,Aniline,3632,Benzenamine
+10117,"4,4'-Methylenebis[2-chloroaniline]",19943,"Benzenamine, 4,4'-methylenebis[2-chloro-"
+2374,Lithium,149591,Lithium
+12090,Tribufos,7146,"Phosphorotrithioic acid, S,S,S-tributyl ester"
+12091,Merphos,40048,"Phosphorotrithious acid, tributyl ester"
+12092,Phosphorus-32,196287,"Phosphorous, isotope of mass 32"
+12093,Phytoplankton,764332,Phytoplankton
+12094,Piperidine,27060,Piperidine
+12095,N-Nitrosopiperidine,19695,"Piperidine, 1-nitroso-"
+12096,Plant capacity fact. percent of capacity,1644376,Plant capacity factor
+12097,Plant intake as % of stream flow,1644384,Plant intake as percent of stream flow
+12098,"Plate count, total 35 deg. C, 24 hour",17028101,Plate count
+12099,Platinum,149716,Platinum
+12100,Tetraethyl lead,6825,"Plumbane, tetraethyl-"
+12101,Plume surface area,1644392,Plume surface area
+12102,Pollutant from 503.13,1644400,Pollutant from 40 CFR 503.13
+12103,Polonium,149732,Polonium
+12104,Polonium-210,192815,"Polonium, isotope of mass 210"
+12105,Octylphenoxy polyethoxyethanol,161224,"Poly[oxy-1,2-ethanediyl], .alpha.-[4-[1,1,3,3-tetramethylbutyl]phenyl]-.omega.-hydroxy-"
+12106,Polyacrylamide chloride,17027186,Polyacrylamide chloride
+12107,Pond observation,1644418,Pond observation
+12108,Population served,17027962,Population served
+12109,Potassium chloride,150516,Potassium chloride [KCl]
+12110,Potassium oxide,179630,Potassium oxide [K2O]
+12111,"Potassium, pct exchange",17027806,"Potassium, percent exchange"
+12112,Power plant load in megawatts,1644434,Power plant load in megawatts
+12113,"Precipitation, total defined period/in",1644467,Precipitation event duration
+12114,Precipitation volume,1644475,Precipitation volume
+12115,"Precipitation, monthly accumulation",1644483,"Precipitation, monthly accumulation"
+12116,Pressure as pertaining to wells,1644509,Pressure as pertaining to wells
+12117,Pressure difference,1644517,Pressure difference
+12118,Pressure in annulus of waste inject well,1644525,Pressure in annulus of waste inject well
+12119,"Pressure, bottom-at well bottom",1644533,"Pressure, bottom"
+12120,"Pressure, casing",17132416,"Pressure, casing"
+12121,"Well fluids, priority pollutants disch",755264,Priority pollutants -- CWA 304B
+12122,Priority pollutants scan [yes/no],17027814,Priority pollutants scan
+12123,Total acid priority pollutants,966085,"Priority pollutants, acidic"
+12124,Total base/neutral priority pollutants,966093,"Priority pollutants, basic or neutral"
+12125,Process to further reduce pathogens,1644558,Process to further reduce pathogens
+12127,"Produced sand, free oil",1644574,"Produced sand, free oil"
+12128,"Produced sand, weight",1644582,"Produced sand, weight"
+12129,Produced water toxicity 7 day noec,1644590,Produced water toxicity 7 day noec
+12130,"Produced water, TDS",17132259,"Produced water, TDS"
+12131,"Produced water, flow",1644608,"Produced water, flow"
+12132,"Produced water, free oil",17027970,"Produced water, free oil"
+12134,Production divided by days operated mo.,17132549,"Production, daily"
+12135,"Production, seafood effluent",1644624,"Production, seafood effluent"
+12136,"Production, total, megawatts",1644632,"Production, total, megawatts"
+12137,Isobutyraldehyde,7369,"Propanal, 2-methyl-"
+12139,Aldicarb sulfone,90092,"Propanal, 2-methyl-2-[methylsulfonyl]-, O-[[methylamino]carbonyl]oxime"
+12140,Aldicarb,29363,"Propanal, 2-methyl-2-[methylthio]-, O-[[methylamino]carbonyl]oxime"
+12142,Propanil,68619,"Propanamide, N-[3,4-dichlorophenyl]-"
+12143,"Tripropyl orthoformate, total",62299,"Propane, 1,1',1''-[methylidynetris[oxy]]tris-"
+12144,"1,2,3-Trichloropropane",16675,"Propane, 1,2,3-trichloro-"
+12146,1-Ethoxy-2-methylpropane,17026618,"Propane, 1-ethoxy-2-methyl-"
+12147,Isopropyl ether,24935,"Propane, 2,2'-oxybis-"
+12148,Bis[2-chloro-1-methylethyl] ether,25213,"Propane, 2,2'-oxybis[1-chloro-"
+12150,"2,2-Dichloropropane",57604,"Propane, 2,2-dichloro-"
+12151,"Propane, 2,2-dimethoxy-",6676,"Propane, 2,2-dimethoxy-"
+12152,Trichloropropane,711366,"Propane, trichloro-"
+12153,Propanediol,17026766,Propanediol
+12155,Dalapon,6049,"Propanoic acid, 2,2-dichloro-"
+12156,Silvex,15057,"Propanoic acid, 2-[2,4,5-trichlorophenoxy]-"
+12157,"Silvex, isooctyl ester",262402,"Propanoic acid, 2-[2,4,5-trichlorophenoxy]-, isooctyl ester"
+12158,"2,4,5-TP[silvex] acids/salts, whole water sample",755280,"Propanoic acid, 2-[2,4,5-trichlorophenoxy]-, salts and esters"
+12160,"Protein, crop crude %",1644640,"Protein, crop crude percent"
+12161,Pulp Production,1648211,Pulp Production
+12162,Pump hours,1644665,Pump hours
+12163,Purchased paper,1648229,Purchased paper
+12618,"Ethanamine, N-methyl-N-nitroso-",172718,"Ethanamine, N-methyl-N-nitroso-"
+12619,"3-Furancarboxamide, N-cyclohexyl-N-methoxy-2,5-dimethyl-",317305,"3-Furancarboxamide, N-cyclohexyl-N-methoxy-2,5-dimethyl-"
+12620,"1-Propene, 1,1-dichloro-",54676,"1-Propene, 1,1-dichloro-"
+12621,"Benzene, 1,3,5-trichloro-",25296,"Benzene, 1,3,5-trichloro-"
+12623,PFOA,42861,Perfluorooctanoic acid
+12632,Protactinium-234,962514,"Protactinium, isotope of mass 234"
+12633,"Elevation, water surface, MSL",1642503,"Elevation, water surface, mean sea level"
+10333,Manganese dioxide,82784,Manganese oxide [MnO2]
+10349,Molybdenum trioxide,82800,Molybdenum oxide [MoO3]
+10355,Ammonium nitrate,143297,Nitric acid ammonium salt
+10360,"Nitrogen oxides [NO2 + NO, expressed as the molecular wgt of NO2]",17134099,"Nitrogen oxides [NO2 + NO, expressed as the molecular wgt of NO2]"
+10367,Osmium tetroxide,218685,"Osmium oxide [OsO4], [T-4]-"
+10372,Paraffin wax,157313,Paraffin waxes and Hydrocarbon waxes
+10052,Allylamine,24166,2-Propen-1-amine
+10411,Polyethylene terephthalate,228361,"Poly[oxy-1,2-ethanediyloxycarbonyl-1,4-phenylenecarbonyl]"
+10415,F024,740720,"Process wastes from the production of certain chlorinated aliphatic hydrocarbons by free radical catalyzed processes, as defined."
+10427,Nicotine sulfate,3962,"Pyridine, 3-[[2S]-1-methyl-2-pyrrolidinyl]-, sulfate [2:1]"
+10432,Radon-222,197491,"Radon, isotope of mass 222"
+10455,Chlorinated solvents,651257,"Solvents, chlorinated"
+10457,F007,740613,Spent cyanide plating bath solutions from electroplating operations.
+10459,F009,740639,"Spent solutions from electroplating operations where cyanides are used, as defined."
+10467,Copper sulfate,208702,"Sulfuric acid, dicopper[1+] salt"
+10688,"1-Formylpiperdine, total",104885,1-Piperidinecarboxaldehyde
+10692,"1,2-Dichloropropene",54668,"1-Propene, 1,2-dichloro-"
+10695,Flusilazole,598375,"1H-1,2,4-Triazole, 1-[[bis[4-fluorophenyl]methylsilyl]methyl]-"
+10698,Thiabendazole,39826,"1H-Benzimidazole, 2-[4-thiazolyl]-"
+10702,"4-Nitro-N-methylphthalimide, total",284091,"1H-Isoindole-1,3[2H]-dione, 2-methyl-5-nitro-"
+10704,Captan,35790,"1H-Isoindole-1,3[2H]-dione, 3a,4,7,7a-tetrahydro-2-[[trichloromethyl]thio]-"
+10709,Chloroxazone,15990,"2[3H]-Benzoxazolone, 5-chloro-"
+10712,"2,3,7,8-TCDD TTE, total sludge",17027491,"2,3,7,8-Tetrachlorodibenzo-p-dioxin, TTE"
+10715,Endrin ketone,299008,"2,5,7-Metheno-3H-cyclopenta[a]pentalen-3-one, 3b,4,5,6,6,6a-hexachlorodecahydro-, [2.alpha.,3a.beta., 3b.beta., 4.beta., 5.beta., 6a.beta., 7.alpha., 7a.beta., 8R*]"
+10717,Endrin + endrin aldehyde [sum],741728,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-,  [1aR,2R,2aR,3R,6S,6aS,7S,7aS]-rel-, and metabolites"
+10726,Oxytetracycline,7906,"2-Naphthacenecarboxamide, 4-[dimethylamino]-1,4,4a,5,5a,6,11,12a-octahydro-3,5,6,10,12,12a-hexahydroxy-6-methyl-1,11-dioxo-, [4S,4aR,5S,5aR,6S,12aS]-"
+10737,Picloram,94227,"2-Pyridinecarboxylic acid, 4-amino-3,5,6-trichloro-"
+11252,"HFC-143a [1,1,1-trifluoroethane]",45104,"Ethane, 1,1,1-trifluoro-"
+11255,"1,1-Dichloro-1,2,2,2-tetrafluoroethane",44321,"Ethane, 1,1-dichloro-1,2,2,2-tetrafluoro-"
+11260,HCFC-142b,5777,"Ethane, 1-chloro-1,1-difluoro-"
+11265,CFC-115,6163,"Ethane, chloropentafluoro-"
+11271,Trichlorotrifluoroethane,239822,"Ethane, trichlorotrifluoro-"
+11274,Methomyl,205609,"Ethanimidothioic acid, N-[[[methylamino]carbonyl]oxy]-, methyl ester"
+11278,Hydroxyzine,4481,"Ethanol, 2-[2-[4-[[4-chlorophenyl]phenylmethyl]-1-piperazinyl]ethoxy]-"
+11289,Evaporator/bed obsv - assessment,1642545,"Evaporator bed, observed assessment"
+11294,Ratio fecal coliform & streptococci,764316,"Fecal coliform, mixture with fecal streptococci"
+11297,Filter backwash discharges per day,17027749,"Filter backwash discharge, number per day"
+10753,Fenarimol,316356,"5-Pyrimidinemethanol, .alpha.-[2-chlorophenyl]-.alpha.-[4-chlorophenyl]-"
+10757,Endosulfan,29132,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide"
+200000461,Dibromoacetic acid,65201,"Acetic acid, dibromo-"
+200000463,Bromoacetic acid,7591,"Acetic acid, bromo-"
+200000462,Dichloroacetic acid,7856,"Acetic acid, dichloro-"
+200000561,"Carbamodithioic acid, dimethyl-, calcium salt",217018,"Carbamodithioic acid, N,N-dimethyl-, calcium salt [2:1]"
+200000501,1H-Benzotriazole,15909,"1,2,3-Benzotriazole"
+200000541,"Transparency, tube with disk",1646157,"Water transparency, tube with disk"
+200000502,Dipropylene glycol,231514,Dipropylene glycol
+200000503,Sarin,24380,"Phosphonofluoridic acid, methyl-, 1-methylethyl ester"
+200000661,HFC-23 [Trifluoromethane],5603,"Methane, trifluoro-"
+200000665,"HFC-4310mee [1,1,1,2,2,3,4,5,5,5-decafluoropentane]",629832,"Pentane, 1,1,1,2,2,3,4,5,5,5-decafluoro-"
+200000664,"HFC-236fa [1,1,1,3,3,3-hexafluoropropane]",67694,"Propane, 1,1,1,3,3,3-hexafluoro-"
+200000667,Perfluorobutane,43653,"Butane, 1,1,1,2,2,3,3,4,4,4-decafluoro-"
+200000668,Perfluorohexane,43679,"Hexane, 1,1,1,2,2,3,3,4,4,5,5,6,6,6-tetradecafluoro-"
+200000701,"1,3-Dinitrobenzene",18846,m-Dinitrobenzene
+200000702,"4-Amino-2,6-dinitrotoluene",962605,"Benzenamine, 4-methyl-3,5-dinitro-"
+200000703,"2-Amino-4,6-dinitrotoluene",963017,"Benzenamine, 2-methyl-3,5-dinitro-"
+200000705,m-Nitrotoluene,18499,"Benzene, 1-methyl-3-nitro-"
+200000681,Polyacrylamide,161299,"2-Propenamide, homopolymer"
+200000704,o-Nitrotoluene,11973,"Benzene, 1-methyl-2-nitro-"
+200000670,Carbon dioxide equivalent,1732543,Carbon dioxide equivalent
+200000721,5-Chloro-2-methyl-4-isothiazolin-3-one,237594,"3[2H]-Isothiazolone, 5-chloro-2-methyl-"
+200000723,Acrylic acid sodium phosphinate polymer,537746,"2-Propenoic acid, polymer with sodium phosphinate [1:1]"
+200000621,Glyoxal,24265,Ethanedial
+200000581,Sodium dodecylbenzenesulfonate,230425,"Benzenesulfonic acid, dodecyl-, sodium salt [1:1]"
+200000584,Diphenamid,75259,"Benzeneacetamide, N,N-dimethyl-.alpha.-phenyl-"
+200000585,m-Toluidine,25114,"Benzenamine, 3-methyl-"
+200000586,1-Chloro-2-nitrobenzene,11981,o-Chloronitrobenzene
+200000641,Guaiacol,12823,"Phenol, 2-methoxy-"
+200000722,2-Methyl-3[2H]-isothiazolone,106138,"3[2H]-Isothiazolone, 2-methyl-"
+200000582,"3,3'-Dimethoxybenzidine",30924,"[1,1'-Biphenyl]-4,4'-diamine, 3,3'-dimethoxy-"
+200000583,m-Chloroaniline,25098,"Benzenamine, 3-chloro-"
+200000669,Tetrafluoromethane,5827,Carbon tetrafluoride
+200000663,"HFC-227ea [1,1,1,2,3,3,3-heptafluoropropane]",45542,"Propane, 1,1,1,2,3,3,3-heptafluoro-"
+200000666,Perfluoroethane,6171,"Ethane, 1,1,1,2,2,2-hexafluoro-"
+200000724,"1,2,4-Butanetricarboxylic acid, 2-phosphono-, sodium salt",281220,"1,2,4-Butanetricarboxylic acid, 2-phosphono-, sodium salt [1:?]"
+200000862,Coconut Diethanolamide,461186,"Amides, coco, N,N-bis[hydroxyethyl]"
+200000761,2-[N-ethylperfluorooctanesulfonamido] acetic acid,,2-[N-ethylperfluorooctanesulfonamido] acetic acid
+200000762,2-[N-methylperfluorooctanesulfonamido] acetic acid,,2-[N-methylperfluorooctanesulfonamido] acetic acid
+200000801,Ethyl acrylate,37929,"2-Propenoic acid, ethyl ester"
+200000861,Chlorhexidine diacetate,2360,"2,4,11,13-Tetraazatetradecanediimidamide, N,N''-bis[4-chlorophenyl]-3,12-diimino-, diacetate"
+200000882,Aliphatics,966770,Aliphatics
+200000743,Tridecafluoroheptanoic acid,44446,"Heptanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,7-tridecafluoro-"
+200000783,"Surfactants, nonionic mixture",52450954,"Surfactants, nonionic mixture"
+200000742,Perfluorohexanoic acid,41897,"Hexanoic acid, 2,2,3,3,4,4,5,5,6,6,6-undecafluoro-"
+200000782,"Surfactants, anionic",52450962,"Surfactants, anionic"
+200000901,.lambda.-Cyhalothrin,602565,"Cyclopropanecarboxylic acid, 3-[[1Z]-2-chloro-3,3,3-trifluoro-1-propenyl]-2,2-dimethyl-, [R]-cyano[3-phenoxyphenyl]methyl ester, [1S,3S]-rel-"
+200000902,Cypermethrin,294660,"Cyclopropanecarboxylic acid, 3-[2,2-dichloroethenyl]-2,2-dimethyl-, cyano[3-phenoxyphenyl]methyl ester"
+200000903,Total petroleum hydrocarbon - diesel and waste oil,,Total petroleum hydrocarbon - diesel and waste oil
+200000745,Perfluoroundecanoic acid,,Perfluoroundecanoic acid
+200000747,Perfluorolauric acid,41947,"Dodecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-tricosafluoro-"
+200000750,Perfluorobutane Sulfonate,,Perfluorobutane Sulfonate
+200000753,Perfluorodecane Sulfonate,,Perfluorodecane Sulfonate
+200000754,8:2 Fluorotelomer Alcohol,67280,"1-Decanol, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-"
+200000755,10:2 Fluorotelomer Alcohol,72280,"1-Dodecanol, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-"
+200000756,8:2 Fluorotelomer Acrylate,,8:2 Fluorotelomer Acrylate
+200000757,10:2 Fluorotelomer Acrylate,,10:2 Fluorotelomer Acrylate
+200000758,N-Methylperfluorooctane,259697,"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-"
+200000759,N-methylperfluorooctane Sulfonamidoethanol,226159,Sulfonamidoethanol
+200000881,Aromatics,761395,Aromatics
+200000781,"Carbamic acid, dimethyldithio-",,Dimethyldithiocarbamate
+200000822,non-PCB dielectric fluid,,non-PCB dielectric fluid
+200000823,"Flash point, deg F [40 CFR 403/261.21]",,"Flash point, deg F [40 CFR 403/261.21]"
+200000741,Perfluorovaleric acid,106476,"Pentanoic acid, 2,2,3,3,4,4,5,5,5-nonafluoro-"
+200000744,Heptadecafluorononanoic acid,44479,"Nonanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecafluoro-"
+200000746,Perfluorodecanoic acid,42887,"Decanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluoro-"
+200000748,Perfluorotridecanoic acid,,Perfluorotridecanoic acid
+200000749,Perfluoromyristic acid,44487,"Tetradecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-heptacosafluoro-"
+200000751,Perfluorohexane Sulfonate,,Perfluorohexane Sulfonate
+200000752,Perfluoroheptane Sulfonate,,Perfluoroheptane Sulfonate
+200000821,variegatus,,variegatus
+200000941,Imidacloprid,700989,"1H-Imidazol-2-amine, 1-[[6-chloro-3-pyridinyl]methyl]-4,5-dihydro-N-nitro-"
+200001084,Perylene,40642,Perylene
+200001141,1-Chloropropane,51896,"Propane, 1-chloro-"
+200001161,Penicillin G Potassium,28902,"4-Thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, 3,3-dimethyl-7-oxo-6-[[2-phenylacetyl]amino]- [2S,5R,6R]-, potassium salt [1:1]"
+200001181,C3 Dimer Acid/Salt,,C3 Dimer Acid/Salt
+200001121,Corrosion Inhibitor,,Corrosion Inhibitor
+200001062,Potassium Amyl Xanthate [PAX],106625,"Carbonodithioic acid, O-pentyl ester, potassium salt [1:1]"
+200000921,N-ethylperfluorooctane Sulfonamidoethanol,90852,"1-Octanesulfonamide, N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-[2-hydroxyethyl]-"
+200001083,"Dibenzo[a,i]pyrene",40543,Benzo[rst]pentaphene
+200001101,"Oil Based, Aqueous Based Fluids and Cuttings",,"Oil Based, Aqueous Based Fluids and Cuttings"
+200001082,"Dibenz[a,j]acridine",40741,"Dibenz[a,j]acridine"
+200001022,Ethoxylated alkyl quaternary ammonium compound [generic],751859,Ethoxylated alkyl quaternary ammonium compound [generic]
+200001023,Dimethyl Benzyl Ammonium Chloride,,Dimethyl Benzyl Ammonium Chloride
+200000961,Thorium-230 + Thorium-232,,Thorium-230 + Thorium-232
+200001061,4-methyl-2-pentanol,24869,"2-Pentanol, 4-methyl-"
+200000981,Isopropylamine,5504,2-Propanamine
+200001001,Peracetic acid,7682,Ethaneperoxoic acid
+200001041,Florfenicol,,"2,2-dichloro-N-[[1R,2S]-3-fluoro-1-hydroxy-1-[4-methanesulfonylphenyl]propan-2-yl]acetamide"
+200001081,3-Methylcholanthrene,2188,"Benz[j]aceanthrylene, 1,2-dihydro-3-methyl-"
+200001326,Impingement,,
+200001341,Poly[hexamethylenebiguanide] hydrochloride,261719,Poly[iminoimidocarbonyliminoimidocarbonyliminohexamethylene] hydrochloride
+200001361,"Dibenz[a,h]acridine",40774,"Dibenz[a,h]acridine"
+200001202,Tolyltriazole Sodium Salt,340455,"1H-Benzotriazole, 6[or 7]-methyl-, sodium salt [1:1]"
+200001301,Fill Material 1,,
+200001324,Blockage,,
+200001381,Phenytoin,2535,"2,4-Imidazolidinedione, 5,5-diphenyl-"
+200001407,Tris[2-chloroethyl] phosphate [TCEP],29322,"Ethanol, 2-chloro-, phosphate [3:1]"
+200001408,Trimethoprim,17003344,"2,4-Pyrimidinediamine, 5-[[3,4,5-trimethoxyphenyl]methyl]-"
+200001221,Biomass,1647742,Biomass
+200001241,Fish feed used efficiency,,Fish feed used efficiency
+200001302,Fill Material 2,,
+200001303,Fill Material 3,,
+200001304,Fill Material 4,,
+200001383,Nonylphenol diethoxylate,217562,2-[2-[4-Nonylphenoxy]ethoxy]ethanol
+200001401,Meprobamate,2576,"1,3-Propanediol, 2-methyl-2-propyl-, 1,3-dicarbamate"
+200001402,Iohexol,,"1,3-Benzenedicarboxamide, 5-[acetyl[2,3-dihydroxypropyl]amino]-N,N'-bis[2,3-dihydroxypropyl]-2,4,6-triiodo-"
+200001403,Nonylphenol monoethoxylate,247510,"Ethanol, 2-[nonylphenoxy]-"
+200001404,Octylphenol diethoxylate,17164732,Octylphenol diethoxylate
+200001405,Octylphenol monoethoxylate,17164724,Octylphenol monoethoxylate
+200001406,Sulfamethoxazole,68866,"Benzenesulfonamide, 4-amino-N-[5-methyl-3-isoxazolyl]-"
+200001261,Dilution,,Dilution
+200001382,Iopromide,,"1,3-Benzenedicarboxamide, N,N'-bis[2,3-dihydroxypropyl]-5-[[methoxyacetyl]amino]-N-methyl-2,4,6-triiodo-"
+200001201,2-Ethylanthraquinone,9894,"9,10-Anthracenedione, 2-Ethyl"
+200001323,Efficiency,,
+200001325,Excursion,,
+200001362,"Dibenzo[a,e]pyrene",40600,"Naphtho[1,2,3,4-def]chrysene"
+200001363,"Dibenzo[a,h]pyrene",40550,"Dibenzo[b,def]chrysene"
+200001441,"2,4-Dinitroanisole",30585,"Benzene, 1-methoxy-2,4-dinitro-"
+200001561,Galaxolide,81414,"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran"
+200001685,Sodium oxide,82834,Sodium oxide [Na2O]
+200001721,Heterotrophic bacteria,761734,Heterotrophic bacteria
+200001741,Tetramethylammonium chloride,5678,"Methanaminium, N,N,N-trimethyl-, chloride (1:1)"
+200001781,Land Application,,Land Application
+200001841,Mixing Zone,,Mixing Zone
+200001861,Dimethyldiallylammonium chloride,149138,"2-Propen-1-aminium, N,N-dimethyl-N-2-propen-1-yl-, chloride [1:1]"
+200001881,Poly[dimethyl diallyl ammonium chloride],237008,"2-Propen-1-aminium, N,N-dimethyl-N-2-propen-1-yl-, chloride [1:1], homopolymer"
+200001481,"Tetrahydroxymethylphosphonium chloride, THPC",33613,Tetrakis[hydroxymethyl]phosphonium chloride
+200001521,Biotic Index,,"Biological integrity, biotic index"
+200001562,"TDCPP [Tris[1,3-dichloro-2-propyl] phosphate]",189563,"2-Propanol, 1,3-dichloro-, phosphate [3:1]"
+200001821,Inorganic carbon,17294661,"Carbon, inorganic"
+200001501,"1,2,3,4-Tetrachlorobenzene",65441,"Benzene, 1,2,3,4-tetrachloro-"
+200001601,Percent Base Saturation,,Percent Base Saturation
+200001641,"3,4-Dinitrotoluene",59675,"Benzene, 4-methyl-1,2-dinitro-"
+200001661,Erosion,1646033,"Watershed, local erosion"
+200001683,Phosphorus pentoxide,83089,Phosphorus oxide [P2O5]
+200001901,Potassium aluminum sulfate [Alum],167163,"Sulfuric acid, aluminum potassium salt [2:1:1]"
+200001762,Run time,,Run time
+200001421,Dixylylethane [DXE],91843,"1,1-Bis[3,4-dimethylphenyl]ethane"
+200001541,Fipronil,621722,"1H-Pyrazole-3-carbonitrile, 5-amino-1-[2,6-dichloro-4-[trifluoromethyl]phenyl]-4-[[trifluoromethyl]sulfinyl]-"
+200001542,Diclofenac,,"2-[2-[2,6-dichlorophenylamino]phenyl]acetic acid"
+200001581,Dimethyl ether,29017,"Methane, 1,1'-oxybis-"
+200001582,Difluoroethane,17158676,"Ethane, difluoro-"
+200001701,Clostridium perfringens,764068,Clostridium perfringens
+200001801,Nitrotriazolone [NTO],17157272,"3-Nitro-1,2,4-triazol-5-one"
+320001941,2-Methyl-5-nitroaniline,18754,"Benzenamine, 2-methyl-5-nitro-"
+320001961,Benzofluoranthene,308023,Benzofluoranthene
+320001981,Manatee,,Manatee
+320002102,PCB-18,692715,"2,2',5-Trichlorobiphenyl"
+320002103,PCB-28,689331,"2,4,4'-Trichlorobiphenyl"
+320002104,PCB-37,692954,"3,4,4'-Trichlorobiphenyl"
+320002105,PCB-44,693127,"2,2',3,5'-Tetrachlorobiphenyl"
+320002106,PCB-49,693135,"2,2',4,5'-Tetrachlorobiphenyl"
+320002107,PCB-52,692509,"2,2',5,5'-Tetrachlorobiphenyl"
+320002108,PCB-66,692129,"2,3',4,4'-Tetrachlorobiphenyl"
+320002109,PCB-70,692137,"2,3',4',5-Tetrachlorobiphenyl"
+320002110,PCB-74,692178,"2,4,4',5-Tetrachlorobiphenyl"
+320002111,PCB-87,692822,"2,2',3,4,5'-Pentachlorobiphenyl"
+320002112,PCB-99,692814,"2,2',4,4',5-Pentachlorobiphenyl"
+320002113,PCB-101,692731,"2,2',4,5,5'-Pentachlorobiphenyl"
+320002114,PCB-110,739227,"2,3,3',4',6-Pentachlorobiphenyl"
+320002115,PCB-119,739755,"2,3',4,4',6-Pentachlorobiphenyl"
+320002116,PCB-128,692848,"2,2',3,3',4,4'-Hexachlorobiphenyl"
+320002117,PCB-138,692459,"2,2',3,4,4',5'-Hexachlorobiphenyl"
+320002118,PCB-149,692830,"2,2',3,4',5',6-Hexachlorobiphenyl"
+320002119,PCB-151,739508,"2,2',3,5,5',6-Hexachlorobiphenyl"
+320002120,PCB-153,692442,"2,2',3,5,5',6-Hexachlorobiphenyl"
+320002121,PCB-158,740316,"2,3,3',4,4',6-Hexachlorobiphenyl"
+320002122,PCB-168,739797,"2,3,3',4,4',6-Hexachlorobiphenyl"
+320002123,PCB-170,692475,"2,2',3,3',4,4',5-Heptachlorobiphenyl"
+320002124,PCB-177,739540,"2,2',3,3',4,5',6'-Heptachlorobiphenyl"
+320002125,PCB-180,692467,"2,2',3,4,4',5,5'-Heptachlorobiphenyl"
+320002126,PCB-183,739532,"2,2',3,4,4',5',6-Heptachlorobiphenyl"
+320002127,PCB-184,740365,"2,2',3,4,4',6,6'-Heptachlorobiphenyl"
+320002128,PCB-187,693655,"2,2',3,4',5,5',6-Heptachlorobiphenyl"
+320002129,PCB-194,739177,"2,2',3,3',4,4',5,5'-Octachlorobiphenyl"
+320002130,PCB-201,739342,"2,2',3,3',4,5',6,6'-Octachlorobiphenyl"
+320002131,PCB-206,739359,"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl"
+320002001,Sediment Oxygen Demand,,"BOD, Sediment Load"
+320002221,Mineral Spirits - Odorless,452219,"Alkanes, C10-13-iso-"
+320002041,Cymene,230375,"Benzene, methyl(1-methylethyl)-"
+320002081,Vibrio cholerae,1735499,Vibrio cholerae
+320002101,Wetlands,,Wetlands
+320002061,"1,2-Dinitrobenzene",50344,o-Dinitrobenzene
+320002021,Chlorinated benzenes,426346,"Benzene, chloro derivs."
+320002181,"DDT/DDD/DDE, sum of p,p' isomers",,"DDT/DDD/DDE, sum of p,p' isomers"
+320002201,Imazamox,618777,"3-Pyridinecarboxylic acid, 2-[4,5-dihydro-4-methyl-4-[1-methylethyl]-5-oxo-1H-imidazol-2-yl]-5-[methoxymethyl]-"
+320002261,Beta/photon emitters,,Beta/photon emitters
+320002281,Uranium oxide [U3O8],86223,Uranium oxide [U3O8]
+320002441,Precious Metal [generic],,Precious Metal [generic]
+320002481,Oxygen consumption,1642644,Oxygen consumption
+320002541,Perfluorooctanonic Acid [PFOA] + Perflurooctanesulfonate [PFOS],,Perfluorooctanonic Acid + Perflurooctanesulfonate
+320002461,"Oxygen demand, biochemical, standard conditions",1640606,"Biochemical oxygen demand, standard conditions"
+320002501,CSS volume,,Combined Sewer System volume
+320002341,Sodium lauryl sulfate,40220,Sulfuric acid monododecyl ester sodium salt [1:1]
+320002401,Date [YYYYMMDD],,Date
+320002421,Sample Time [HHMM using 24-hour clock],,Sample Time [HHMM using 24-hour clock]
+320002301,Resin and Fatty Acids,,Resin and Fatty Acids
+320002381,Microcystin,963702,Microcystin
+320002361,Triallyl cyanurate,20040,"1,3,5-Triazine, 2,4,6-tris[2-propen-1-yloxy]-"
+320002402,Process Product,,Process Product
+320002403,Dewater,,Dewater
+320002321,Corrosivity,1640309,Corrosivity -- SDWA NSDWR
+320002404,Sample Collection,,Sample Collection
+320002521,N-Nitrosodiethanolamine,78451,"Ethanol, 2,2'-(nitrosoimino)bis-"
+320002522,Chloronaphthalene,233544,"Naphthalene, chloro-"
+320002523,Aramite,37804,"Sulfurous acid, 2-chloroethyl 2-[4-[1,1-dimethylethyl]phenoxy]-1-methylethyl ester"
+320002561,"2,3,5,6-Tetrachlorophenol",74658,"Phenol, 2,3,5,6-tetrachloro-"

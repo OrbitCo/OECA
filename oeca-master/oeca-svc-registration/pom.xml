@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>oeca-commons-parent</artifactId>
+        <groupId>gov.epa.oeca</groupId>
+        <version>1.2.20-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>oeca-svc-registration</artifactId>
+    <packaging>war</packaging>
+    <!-- ====================================================================== -->
+    <!-- dependencies -->
+    <!-- ====================================================================== -->
+    <dependencies>
+        <!-- =============================================================================================== -->
+        <!-- Intra-project -->
+        <!-- =============================================================================================== -->
+        <dependency>
+            <groupId>gov.epa.oeca</groupId>
+            <artifactId>oeca-web-assets</artifactId>
+            <version>${project.version}</version>
+            <type>war</type>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>gov.epa.oeca</groupId>
+            <artifactId>oeca-web-utils</artifactId>
+            <version>${project.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>net.sourceforge.stripes</groupId>
+                    <artifactId>stripes</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>org.glassfish.web</groupId>
+                    <artifactId>jstl-impl</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>org.springframework.security</groupId>
+                    <artifactId>spring-security-taglibs</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <!-- ====================================================================== -->
+        <!-- misc -->
+        <!-- ====================================================================== -->
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+        </dependency>
+        <!-- ====================================================================== -->
+        <!-- testing -->
+        <!-- ====================================================================== -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+    <!-- ====================================================================== -->
+    <!-- build -->
+    <!-- ====================================================================== -->
+    <build>
+        <finalName>oeca-svc-registration</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                    <overlays>
+                        <overlay>
+                            <id>oeca-web-assets</id>
+                            <groupId>gov.epa.oeca</groupId>
+                            <artifactId>oeca-web-assets</artifactId>
+                            <type>war</type>
+                            <includes>
+                                <include>apidocs/**</include>
+                            </includes>
+                        </overlay>
+                    </overlays>
+                </configuration>
+            </plugin>
+            <!-- ====================================================================== -->
+            <!-- jetty -->
+            <!-- ====================================================================== -->
+            <plugin>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-maven-plugin</artifactId>
+                <configuration>
+                    <webApp>
+                        <contextPath>/oeca-svc-registration</contextPath>
+                    </webApp>
+                    <useTestScope>true</useTestScope>
+                    <systemProperties>
+                        <systemProperty>
+                            <name>log.home</name>
+                            <value>${project.build.directory}</value>
+                        </systemProperty>
+                        <systemProperty>
+                            <name>spring.config.dir</name>
+                            <value>${project.basedir}/src/test/resources/conf</value>
+                        </systemProperty>
+                        <systemProperty>
+                            <name>jetty.port</name>
+                            <value>9080</value>
+                        </systemProperty>
+                    </systemProperties>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

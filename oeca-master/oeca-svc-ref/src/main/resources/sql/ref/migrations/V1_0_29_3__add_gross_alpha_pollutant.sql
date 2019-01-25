@@ -1,0 +1,1 @@
+insert into oeca_ref_pollutants (id, pollutant_code, pollutant_name, pollutant_srs_name) values (2478,320002581,'Gross alpha, adjusted','Gross alpha, adjusted');

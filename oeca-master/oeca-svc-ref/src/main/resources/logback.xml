@@ -1,0 +1,21 @@
+<configuration debug="true">
+	<appender name="TIME_BASED_FILE"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${log.home}/@project.artifactId@/@project.artifactId@.log</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${log.home}/@project.artifactId@/@project.artifactId@.%d{yyyy-MM-dd}.log</fileNamePattern>
+		</rollingPolicy>
+		<encoder>
+			<pattern>%d{HH:mm:ss,SSS} %-5p [%c] %m%n</pattern>
+		</encoder>
+	</appender>
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss,SSS} %-5p [%c] %m%n</pattern>
+		</encoder>
+	</appender>
+	<logger name="gov.epa.oeca" level="info" />
+	<root level="warn">
+		<appender-ref ref="TIME_BASED_FILE" />
+	</root>
+</configuration>

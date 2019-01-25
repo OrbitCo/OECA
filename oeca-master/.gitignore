@@ -1,0 +1,10 @@
+.idea
+*.iml
+overlays
+
+.project
+.classpath
+.settings
+
+target
+oeca-cgp-web/src/main/webapp/static/json/temp.json
